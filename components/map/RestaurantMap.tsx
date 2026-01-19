@@ -1,7 +1,7 @@
 "use client";
 
 import { APIProvider, Map, AdvancedMarker, Pin } from "@vis.gl/react-google-maps";
-import { Restaurant } from "@/lib/types";
+import { Restaurant, CUISINE_COLORS } from "@/lib/types";
 import { useState, useCallback } from "react";
 
 interface RestaurantMapProps {
@@ -14,13 +14,13 @@ interface RestaurantMapProps {
 // Center of Philadelphia Center City
 const PHILLY_CENTER = { lat: 39.9526, lng: -75.1652 };
 
-// Determine marker color based on menu offerings
+// Determine marker color based on cuisine (first cuisine type)
 function getMarkerColor(restaurant: Restaurant): string {
-  // Priority: $60 Dinner > $45 Dinner > $20 Lunch
-  if (restaurant.offersDinner60) return "#d4a853"; // Gold
-  if (restaurant.offersDinner45) return "#1a2744"; // Navy
-  if (restaurant.offersLunch20) return "#4a9c6d"; // Green
-  return "#888888"; // Gray fallback
+  const primaryCuisine = restaurant.cuisineTypes?.[0];
+  if (primaryCuisine && CUISINE_COLORS[primaryCuisine]) {
+    return CUISINE_COLORS[primaryCuisine];
+  }
+  return "#6b7280"; // Gray fallback for restaurants without cuisine
 }
 
 export function RestaurantMap({
@@ -63,7 +63,7 @@ export function RestaurantMap({
                     : getMarkerColor(restaurant)
                 }
                 borderColor={
-                  selectedRestaurant?.id === restaurant.id ? "#d4a853" : "#1a2744"
+                  selectedRestaurant?.id === restaurant.id ? "#ffffff" : "#1a2744"
                 }
                 glyphColor="#ffffff"
                 scale={selectedRestaurant?.id === restaurant.id ? 1.3 : 1}
