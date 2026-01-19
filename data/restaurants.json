@@ -30,7 +30,10 @@
     ],
     "googlePlaceId": "ChIJCTJClDHGxokRyq9mPKfA1mc",
     "googleRating": 4.5,
-    "googleReviewCount": 715
+    "googleReviewCount": 715,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "aki-nom-nom",
@@ -61,7 +64,10 @@
     ],
     "googlePlaceId": "ChIJF7Cc9yXGxokRYuzxMvuQffU",
     "googleRating": 4.3,
-    "googleReviewCount": 1352
+    "googleReviewCount": 1352,
+    "cuisineTypes": [
+      "Asian"
+    ]
   },
   {
     "id": "alice-pizza",
@@ -93,7 +99,10 @@
     ],
     "googlePlaceId": "ChIJuT2-SiXGxokRGlLGqJWTS3U",
     "googleRating": 4.5,
-    "googleReviewCount": 1150
+    "googleReviewCount": 1150,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "amada-philadelphia",
@@ -124,7 +133,10 @@
     ],
     "googlePlaceId": "ChIJ2YytEYXIxokRxmFAvm4D_bs",
     "googleRating": 4.5,
-    "googleReviewCount": 2306
+    "googleReviewCount": 2306,
+    "cuisineTypes": [
+      "Spanish"
+    ]
   },
   {
     "id": "ambrosia-ristorante",
@@ -154,7 +166,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmixbunz0iknow0qd7a51p7vu-ambrosia-2026.pdf",
     "googlePlaceId": "ChIJq6pFv0fGxokR2lNwZLzH4Es",
     "googleRating": 4.5,
-    "googleReviewCount": 790
+    "googleReviewCount": 790,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "bank-bourbon",
@@ -186,7 +201,10 @@
     ],
     "googlePlaceId": "ChIJK9oJLSnGxokRn7uWKXin3Tc",
     "googleRating": 4.3,
-    "googleReviewCount": 890
+    "googleReviewCount": 890,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "bar-bombon",
@@ -222,7 +240,10 @@
     ],
     "googlePlaceId": "ChIJC0K8mTDGxokRNJyjc12g9Do",
     "googleRating": 4.5,
-    "googleReviewCount": 1709
+    "googleReviewCount": 1709,
+    "cuisineTypes": [
+      "Latin American"
+    ]
   },
   {
     "id": "barbuzzo",
@@ -251,7 +272,10 @@
     "largePartyNote": "Contact restaurant directly for large group reservations",
     "googlePlaceId": "ChIJOX1Kai_GxokRA9FwrimJP-Y",
     "googleRating": 4.5,
-    "googleReviewCount": 2237
+    "googleReviewCount": 2237,
+    "cuisineTypes": [
+      "Mediterranean"
+    ]
   },
   {
     "id": "barra-rossa",
@@ -286,7 +310,10 @@
     ],
     "googlePlaceId": "ChIJJ2AjfyjGxokReoPZHjHXV7M",
     "googleRating": 4.2,
-    "googleReviewCount": 1150
+    "googleReviewCount": 1150,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "bellini",
@@ -318,7 +345,10 @@
     ],
     "googlePlaceId": "ChIJUTl4lzrGxokR3KimknnGwp8",
     "googleRating": 4.5,
-    "googleReviewCount": 748
+    "googleReviewCount": 748,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "bistro-la-baia",
@@ -348,7 +378,10 @@
     "largePartyNote": "Call restaurant directly for large party reservations.",
     "googlePlaceId": "ChIJ_68vijvGxokR5M1A6b5y3iI",
     "googleRating": 4.6,
-    "googleReviewCount": 405
+    "googleReviewCount": 405,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "bistro-romano",
@@ -382,7 +415,10 @@
     "largePartyNote": "Gratuity will be added to checks for parties of 6 or more.",
     "googlePlaceId": "ChIJUwU6IZrIxokRgX-V0_Y0eRM",
     "googleRating": 4.6,
-    "googleReviewCount": 1046
+    "googleReviewCount": 1046,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "bleu-sushi",
@@ -411,7 +447,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk1c881vlvvc7iqdjqx56enm-bleu-restaurant-week-january-2026.pdf",
     "googlePlaceId": "ChIJsTRGUCbGxokRHRPlwUEyMNk",
     "googleRating": 4.4,
-    "googleReviewCount": 1036
+    "googleReviewCount": 1036,
+    "cuisineTypes": [
+      "Asian"
+    ]
   },
   {
     "id": "bodega-taco-bar",
@@ -443,7 +482,10 @@
     "largePartyNote": "Gratuity will be added to checks for parties of 6 or more.",
     "googlePlaceId": "ChIJs4hIcg3HxokRJjJU4SR8AEg",
     "googleRating": 4,
-    "googleReviewCount": 381
+    "googleReviewCount": 381,
+    "cuisineTypes": [
+      "Latin American"
+    ]
   },
   {
     "id": "bolo",
@@ -472,7 +514,10 @@
     "largePartyNote": "Gratuity will be added to check for parties of 8 or more and 3% credit card processing fee (not applicable to debit cards or cash)",
     "googlePlaceId": "ChIJnbEpcxzHxokRGpPRH98wePo",
     "googleRating": 4.5,
-    "googleReviewCount": 356
+    "googleReviewCount": 356,
+    "cuisineTypes": [
+      "Latin American"
+    ]
   },
   {
     "id": "bridget-foy-s",
@@ -507,7 +552,10 @@
     "largePartyNote": "Gratuity will be added to checks for parties of 6 or more.",
     "googlePlaceId": "ChIJ851bnZnIxokRFdlArxg6Yu4",
     "googleRating": 4.4,
-    "googleReviewCount": 592
+    "googleReviewCount": 592,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "buca-d-oro-ristorante",
@@ -541,7 +589,10 @@
     ],
     "googlePlaceId": "ChIJy1GBXJ3IxokRUnmWMh3RuQ8",
     "googleRating": 4.4,
-    "googleReviewCount": 417
+    "googleReviewCount": 417,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "bud-marilyn-s",
@@ -570,7 +621,10 @@
     "largePartyNote": "Contact restaurant directly for large party reservations",
     "googlePlaceId": "ChIJIdC4lSXGxokRdPjrc50P1VY",
     "googleRating": 4.5,
-    "googleReviewCount": 2391
+    "googleReviewCount": 2391,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "buddakan",
@@ -600,7 +654,10 @@
     ],
     "googlePlaceId": "ChIJocR57YTIxokRVbmWuISm8ww",
     "googleRating": 4.6,
-    "googleReviewCount": 2654
+    "googleReviewCount": 2654,
+    "cuisineTypes": [
+      "Asian"
+    ]
   },
   {
     "id": "butcher-bar",
@@ -630,7 +687,10 @@
     "largePartyNote": "Gratuity will be added to checks for parties of 5 or more.",
     "googlePlaceId": "ChIJ_y2SCjfGxokR90VjOlsQLv0",
     "googleRating": 4.3,
-    "googleReviewCount": 1618
+    "googleReviewCount": 1618,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "caribou-caf",
@@ -666,7 +726,10 @@
     ],
     "googlePlaceId": "ChIJW0rnqijGxokReyAY_47Iatw",
     "googleRating": 4.2,
-    "googleReviewCount": 779
+    "googleReviewCount": 779,
+    "cuisineTypes": [
+      "French"
+    ]
   },
   {
     "id": "charlie-was-a-sinner",
@@ -700,7 +763,11 @@
     ],
     "googlePlaceId": "ChIJq7hqXS_GxokRbm5ud0CYz2Q",
     "googleRating": 4.5,
-    "googleReviewCount": 1898
+    "googleReviewCount": 1898,
+    "cuisineTypes": [
+      "American",
+      "Vegan"
+    ]
   },
   {
     "id": "ch-teau-rouge",
@@ -734,7 +801,10 @@
     ],
     "googlePlaceId": "ChIJR_DkMprHxokR8AHGzddMff8",
     "googleRating": 4.9,
-    "googleReviewCount": 126
+    "googleReviewCount": 126,
+    "cuisineTypes": [
+      "French"
+    ]
   },
   {
     "id": "city-winery",
@@ -767,7 +837,10 @@
     ],
     "googlePlaceId": "ChIJV_RUBk7HxokRw8MGusDln2k",
     "googleRating": 4.1,
-    "googleReviewCount": 1681
+    "googleReviewCount": 1681,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "con-murphy-s-irish-pub",
@@ -795,7 +868,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfz0kddnlvqg7qddzv8ogfy-con-murphys-dinner.pdf",
     "googlePlaceId": "ChIJdVCkPzLGxokR4zUhavTBBDQ",
     "googleRating": 4.5,
-    "googleReviewCount": 2002
+    "googleReviewCount": 2002,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "condesa",
@@ -828,7 +904,10 @@
     "largePartyNote": "Accomodates parties up to 16 guests",
     "googlePlaceId": "ChIJGSDY_f3HxokRxs5CbtTl2Oo",
     "googleRating": 4.4,
-    "googleReviewCount": 526
+    "googleReviewCount": 526,
+    "cuisineTypes": [
+      "Mexican"
+    ]
   },
   {
     "id": "cry-baby-pasta",
@@ -867,7 +946,10 @@
     ],
     "googlePlaceId": "ChIJ02clAf_JxokRPB7tRyLuNnY",
     "googleRating": 4.4,
-    "googleReviewCount": 592
+    "googleReviewCount": 592,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "cuba-libre-restaurant-rum-bar",
@@ -899,7 +981,10 @@
     ],
     "googlePlaceId": "ChIJ_8Tvm4XIxokRBA-RzDneztg",
     "googleRating": 4.3,
-    "googleReviewCount": 3802
+    "googleReviewCount": 3802,
+    "cuisineTypes": [
+      "Cuban"
+    ]
   },
   {
     "id": "d-angelo-s-ristorante-italiano-lounge",
@@ -936,7 +1021,10 @@
     ],
     "googlePlaceId": "ChIJO8cqrjnGxokRCBLfsc56PsU",
     "googleRating": 4.3,
-    "googleReviewCount": 366
+    "googleReviewCount": 366,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "darling-jack-s-tavern",
@@ -964,7 +1052,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfr2a7tnkhcg7qdr30t0j8r-rw-2026-darling-jack-s-dinner-menu-x.pdf",
     "googlePlaceId": "ChIJ09z2qQzHxokR-1gpzJ4Sgm0",
     "googleRating": 4.6,
-    "googleReviewCount": 406
+    "googleReviewCount": 406,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "dear-daphni",
@@ -994,7 +1085,10 @@
     "largePartyNote": "Contact restaurant directly for large party reservations.",
     "googlePlaceId": "ChIJWeZiBmTHxokRNvlQNYx2GcY",
     "googleRating": 4,
-    "googleReviewCount": 224
+    "googleReviewCount": 224,
+    "cuisineTypes": [
+      "Mediterranean"
+    ]
   },
   {
     "id": "del-frisco-s-double-eagle-steakhouse",
@@ -1024,7 +1118,10 @@
     "largePartyNote": "Parties of 8 or larger and Private Dining parties are not eligible for Restaurant Week menu.",
     "googlePlaceId": "ChIJWTSBxC_GxokRU_Yujc-KMHg",
     "googleRating": 4.5,
-    "googleReviewCount": 3943
+    "googleReviewCount": 3943,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "devil-s-alley",
@@ -1051,7 +1148,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfz38xznl1d7iqd1nfzbgto-devils-alley-1.pdf",
     "googlePlaceId": "ChIJfQzzMjfGxokReyhqhaYzv48",
     "googleRating": 4.3,
-    "googleReviewCount": 1180
+    "googleReviewCount": 1180,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "dim-sum-house-by-jane-g-s",
@@ -1085,7 +1185,10 @@
     ],
     "googlePlaceId": "ChIJv9giPzfGxokRHUsWTjGTLkI",
     "googleRating": 4.2,
-    "googleReviewCount": 924
+    "googleReviewCount": 924,
+    "cuisineTypes": [
+      "Asian"
+    ]
   },
   {
     "id": "dizengoff",
@@ -1112,7 +1215,10 @@
     ],
     "googlePlaceId": "ChIJhbVkbzDGxokRxnLVOvp28Ms",
     "googleRating": 4.6,
-    "googleReviewCount": 1067
+    "googleReviewCount": 1067,
+    "cuisineTypes": [
+      "Mediterranean"
+    ]
   },
   {
     "id": "dolce-italian",
@@ -1150,7 +1256,10 @@
     ],
     "googlePlaceId": "ChIJw0lByS_GxokR13nPaQPH4sA",
     "googleRating": 3.3,
-    "googleReviewCount": 396
+    "googleReviewCount": 396,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "double-knot",
@@ -1180,7 +1289,10 @@
     "largePartyNote": "Contact restaurant directly for large party reservations.",
     "googlePlaceId": "ChIJBdUeZi_GxokR2uEUM6HYpJ4",
     "googleRating": 4.6,
-    "googleReviewCount": 2662
+    "googleReviewCount": 2662,
+    "cuisineTypes": [
+      "Asian"
+    ]
   },
   {
     "id": "el-vez",
@@ -1208,7 +1320,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk5wwaidmh7v7iqdunxy33ii-el-vez-dinner-rw-2026.pdf",
     "googlePlaceId": "ChIJ6_UiaC_GxokRxRLbUmfNszM",
     "googleRating": 4.5,
-    "googleReviewCount": 6255
+    "googleReviewCount": 6255,
+    "cuisineTypes": [
+      "Mexican"
+    ]
   },
   {
     "id": "estia-restaurant",
@@ -1234,7 +1349,10 @@
     ],
     "googlePlaceId": "ChIJj8GtQSXGxokRikbyQT3QPtI",
     "googleRating": 4.6,
-    "googleReviewCount": 1809
+    "googleReviewCount": 1809,
+    "cuisineTypes": [
+      "Greek"
+    ]
   },
   {
     "id": "farina-pasta-bar",
@@ -1268,7 +1386,10 @@
     ],
     "googlePlaceId": "ChIJZxT3zGDFxokRgKlA63fjgAE",
     "googleRating": 4.4,
-    "googleReviewCount": 328
+    "googleReviewCount": 328,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "fat-salmon",
@@ -1302,7 +1423,10 @@
     ],
     "googlePlaceId": "ChIJRbkRtILIxokRnKrVYpaCpiI",
     "googleRating": 4.4,
-    "googleReviewCount": 639
+    "googleReviewCount": 639,
+    "cuisineTypes": [
+      "Asian"
+    ]
   },
   {
     "id": "fork",
@@ -1331,7 +1455,10 @@
     "largePartyNote": "Gratuity will be added to checks for parties of 6 or more.",
     "googlePlaceId": "ChIJyal5TYTIxokRfhJy2WNx4T0",
     "googleRating": 4.5,
-    "googleReviewCount": 1160
+    "googleReviewCount": 1160,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "forsythia",
@@ -1359,7 +1486,10 @@
     "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmk4ilhy3maer7iqdbknoup7v-forsythia-dinner-menu-rw-2026.pdf",
     "googlePlaceId": "ChIJP4qCIxbJxokRGxfZTNVu-_0",
     "googleRating": 4.6,
-    "googleReviewCount": 455
+    "googleReviewCount": 455,
+    "cuisineTypes": [
+      "French"
+    ]
   },
   {
     "id": "fringe-bar",
@@ -1397,7 +1527,10 @@
     ],
     "googlePlaceId": "ChIJ9wo1017JxokRJbagSCY1d_c",
     "googleRating": 4.4,
-    "googleReviewCount": 170
+    "googleReviewCount": 170,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "fuji-mountain",
@@ -1426,7 +1559,10 @@
     "largePartyNote": "Gratuity will be added to check for parties of 6 or more.",
     "googlePlaceId": "ChIJpwHHCzfGxokRioFlwzpC5MQ",
     "googleRating": 4.4,
-    "googleReviewCount": 636
+    "googleReviewCount": 636,
+    "cuisineTypes": [
+      "Asian"
+    ]
   },
   {
     "id": "giuseppe-sons",
@@ -1456,7 +1592,10 @@
     "largePartyNote": "Contact restaurant directly for large party reservations (6 or more).",
     "googlePlaceId": "ChIJbYZ7rkTHxokRfhIPW-VgDb4",
     "googleRating": 4.4,
-    "googleReviewCount": 1276
+    "googleReviewCount": 1276,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "gran-caffe-l-aquila",
@@ -1491,7 +1630,10 @@
     ],
     "googlePlaceId": "ChIJJVpz9DDGxokRt3_x8-dzlsA",
     "googleRating": 4.6,
-    "googleReviewCount": 3279
+    "googleReviewCount": 3279,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "grandma-s-philly",
@@ -1520,7 +1662,11 @@
     "largePartyNote": "Gratuity will be added to check for parties of 6 or more.",
     "googlePlaceId": "ChIJs8ROVhTHxokR1L8sLi5_2wo",
     "googleRating": 4.7,
-    "googleReviewCount": 3008
+    "googleReviewCount": 3008,
+    "cuisineTypes": [
+      "Asian",
+      "Thai"
+    ]
   },
   {
     "id": "hard-rock-cafe",
@@ -1555,7 +1701,10 @@
     ],
     "googlePlaceId": "ChIJTb5oPSnGxokRRzH7skyN-PI",
     "googleRating": 4.1,
-    "googleReviewCount": 5068
+    "googleReviewCount": 5068,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "harp-crown",
@@ -1584,7 +1733,10 @@
     "largePartyNote": "Contact restaurant directly for large party reservations.",
     "googlePlaceId": "ChIJQa1JHDDGxokRGExiHLDYVOA",
     "googleRating": 4.5,
-    "googleReviewCount": 2336
+    "googleReviewCount": 2336,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "harper-s-garden",
@@ -1614,7 +1766,10 @@
     "largePartyNote": "Contact restaurant directly for large party reservations (11 or more).",
     "googlePlaceId": "ChIJ9f8_GjTGxokRajjkD00E80Y",
     "googleRating": 4.1,
-    "googleReviewCount": 1247
+    "googleReviewCount": 1247,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "the-hayes",
@@ -1647,7 +1802,10 @@
     ],
     "googlePlaceId": "ChIJ73IKj6bHxokRkjx4QyQS7YE",
     "googleRating": 4.2,
-    "googleReviewCount": 118
+    "googleReviewCount": 118,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "hi-lo-taco-co",
@@ -1679,7 +1837,10 @@
     ],
     "googlePlaceId": "ChIJUw9aEB3JxokRrJVblg9lReI",
     "googleRating": 4.8,
-    "googleReviewCount": 387
+    "googleReviewCount": 387,
+    "cuisineTypes": [
+      "Tex-Mex"
+    ]
   },
   {
     "id": "high-street",
@@ -1716,7 +1877,10 @@
     ],
     "googlePlaceId": "ChIJjaJHUYTIxokR6hUWfTrQpu4",
     "googleRating": 4.5,
-    "googleReviewCount": 1137
+    "googleReviewCount": 1137,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "jasmine-rice-rittenhouse",
@@ -1751,7 +1915,10 @@
     ],
     "googlePlaceId": "ChIJURsAHTvGxokRdBwM81DOoB4",
     "googleRating": 4.1,
-    "googleReviewCount": 393
+    "googleReviewCount": 393,
+    "cuisineTypes": [
+      "Asian"
+    ]
   },
   {
     "id": "kanella-restaurant",
@@ -1788,7 +1955,10 @@
     ],
     "googlePlaceId": "ChIJK3osUSbGxokRNbmEKjetjlQ",
     "googleRating": 4.6,
-    "googleReviewCount": 917
+    "googleReviewCount": 917,
+    "cuisineTypes": [
+      "Greek"
+    ]
   },
   {
     "id": "kinme",
@@ -1822,7 +1992,10 @@
     ],
     "googlePlaceId": "ChIJqQlSCSbGxokRxzoomxoe6Q4",
     "googleRating": 4.7,
-    "googleReviewCount": 206
+    "googleReviewCount": 206,
+    "cuisineTypes": [
+      "Asian"
+    ]
   },
   {
     "id": "kirin-house",
@@ -1855,7 +2028,11 @@
     "largePartyNote": "Gratuity added for parties of 6 of  more.",
     "googlePlaceId": "ChIJ6RHuvabHxokRhIYPdoC7tvs",
     "googleRating": 4.7,
-    "googleReviewCount": 143
+    "googleReviewCount": 143,
+    "cuisineTypes": [
+      "Asian",
+      "Japanese"
+    ]
   },
   {
     "id": "koto-sushi",
@@ -1883,7 +2060,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmiqkgdljhmk627qds5ydks7i-koto-sushi-rw-2026-dinner-menu.pdf",
     "googlePlaceId": "ChIJMTbhvoLIxokRea-9OEWHG_g",
     "googleRating": 4.7,
-    "googleReviewCount": 386
+    "googleReviewCount": 386,
+    "cuisineTypes": [
+      "Asian"
+    ]
   },
   {
     "id": "la-famiglia-ristorante",
@@ -1917,7 +2097,10 @@
     "largePartyNote": "Gratuity will be added to check for parties of 6 or more.",
     "googlePlaceId": "ChIJdzaue4_IxokR_zxAhKdu4dk",
     "googleRating": 4.5,
-    "googleReviewCount": 411
+    "googleReviewCount": 411,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "la-fontana-della-citta",
@@ -1947,7 +2130,10 @@
     "largePartyNote": "Gratuity will be added to check for parties of 6 or more.",
     "googlePlaceId": "ChIJsduoUjrGxokR0c5eqm_63ZM",
     "googleRating": 3.8,
-    "googleReviewCount": 641
+    "googleReviewCount": 641,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "la-nonna",
@@ -1977,7 +2163,10 @@
     "largePartyNote": "Gratuity will be added to check for parties of 7 and more.",
     "googlePlaceId": "ChIJR_sXcZnIxokRI6dOYPg_CfU",
     "googleRating": 4.7,
-    "googleReviewCount": 289
+    "googleReviewCount": 289,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "la-sera-italiana",
@@ -2006,7 +2195,10 @@
     ],
     "googlePlaceId": "ChIJZZhKRH_HxokRhrjLnwJ9dgA",
     "googleRating": 4.5,
-    "googleReviewCount": 72
+    "googleReviewCount": 72,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "la-viola-bistro",
@@ -2036,7 +2228,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk1n3pkvm25t27qdsmlt1wzs-la-viola-restaurant-week-dinner-winter-26.pdf",
     "googlePlaceId": "ChIJe2br5zrGxokRJ-KeG01teFA",
     "googleRating": 4.1,
-    "googleReviewCount": 712
+    "googleReviewCount": 712,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "la-viola-ovest",
@@ -2066,7 +2261,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk1n3pkvm25t27qdsmlt1wzs-la-viola-restaurant-week-dinner-winter-26.pdf",
     "googlePlaceId": "ChIJe2br5zrGxokRJ-KeG01teFA",
     "googleRating": 4.1,
-    "googleReviewCount": 712
+    "googleReviewCount": 712,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "las-bugambilias",
@@ -2103,7 +2301,10 @@
     ],
     "googlePlaceId": "ChIJCYJem5nIxokRq1KtJCHD-FI",
     "googleRating": 4.4,
-    "googleReviewCount": 799
+    "googleReviewCount": 799,
+    "cuisineTypes": [
+      "Mexican"
+    ]
   },
   {
     "id": "lascala-s-fire",
@@ -2131,7 +2332,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkijalb9nwpow0qdjtzv537d-la-scala.pdf",
     "googlePlaceId": "ChIJpYHl5ILIxokRtdxYWXsRafs",
     "googleRating": 4.4,
-    "googleReviewCount": 1598
+    "googleReviewCount": 1598,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "the-lesieur",
@@ -2166,7 +2370,10 @@
     "largePartyNote": "Contact restaurant directily for large party reservations",
     "googlePlaceId": "ChIJx540zf_HxokRJFnX_eTNZoM",
     "googleRating": 4.4,
-    "googleReviewCount": 138
+    "googleReviewCount": 138,
+    "cuisineTypes": [
+      "French"
+    ]
   },
   {
     "id": "libert-restobar",
@@ -2192,7 +2399,10 @@
     ],
     "googlePlaceId": "ChIJOaMejDDGxokRwhyVQm5h7dA",
     "googleRating": 4.3,
-    "googleReviewCount": 169
+    "googleReviewCount": 169,
+    "cuisineTypes": [
+      "French"
+    ]
   },
   {
     "id": "little-nonna-s",
@@ -2219,7 +2429,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkjzp2cbo9kf27qdl3gnol45-rw-2026-little-nonna-s-dinner-menu-x.pdf",
     "googlePlaceId": "ChIJvVEYlSXGxokR-T68hnrA0oI",
     "googleRating": 4.5,
-    "googleReviewCount": 1714
+    "googleReviewCount": 1714,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "loch-bar",
@@ -2249,7 +2462,10 @@
     "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmkfz6mupnl2l7iqd1t48korq-lochphilly-dinner-prix-jan26-02.pdf",
     "googlePlaceId": "ChIJVw-qOuTHxokRdZqgvpmZPqc",
     "googleRating": 4.6,
-    "googleReviewCount": 995
+    "googleReviewCount": 995,
+    "cuisineTypes": [
+      "Seafood"
+    ]
   },
   {
     "id": "malbec-argentine-steakhouse",
@@ -2285,7 +2501,10 @@
     ],
     "googlePlaceId": "ChIJKZ4ry5vIxokRWZ2Da0ZzrHc",
     "googleRating": 4.6,
-    "googleReviewCount": 731
+    "googleReviewCount": 731,
+    "cuisineTypes": [
+      "Latin American"
+    ]
   },
   {
     "id": "mccormick-schmick-s",
@@ -2312,7 +2531,10 @@
     ],
     "googlePlaceId": "ChIJi2XVqC_GxokRKTWrt6b9f_Q",
     "googleRating": 4,
-    "googleReviewCount": 2245
+    "googleReviewCount": 2245,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "melograno-byob",
@@ -2350,7 +2572,10 @@
     ],
     "googlePlaceId": "ChIJT0v4bjfGxokRgWwX_20r3Xc",
     "googleRating": 4.5,
-    "googleReviewCount": 441
+    "googleReviewCount": 441,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "mercato-byob",
@@ -2382,7 +2607,10 @@
     ],
     "googlePlaceId": "ChIJG2axyiXGxokRxc97W_zV1k8",
     "googleRating": 4.4,
-    "googleReviewCount": 451
+    "googleReviewCount": 451,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "miss-saigon-vietnamese-restaurant-and-lounge",
@@ -2411,7 +2639,10 @@
     ],
     "googlePlaceId": "ChIJ8RGdqVnHxokRpGSMad4gb4o",
     "googleRating": 4.6,
-    "googleReviewCount": 1040
+    "googleReviewCount": 1040,
+    "cuisineTypes": [
+      "Asian"
+    ]
   },
   {
     "id": "mixto-restaurant",
@@ -2443,7 +2674,10 @@
     ],
     "googlePlaceId": "ChIJTcIsPSTGxokRbw4HsvrYIVY",
     "googleRating": 4.5,
-    "googleReviewCount": 2622
+    "googleReviewCount": 2622,
+    "cuisineTypes": [
+      "Cuban"
+    ]
   },
   {
     "id": "monster-vegan",
@@ -2481,7 +2715,10 @@
     ],
     "googlePlaceId": "ChIJTWDZayTHxokReMNouSIghWM",
     "googleRating": 4.6,
-    "googleReviewCount": 1148
+    "googleReviewCount": 1148,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "moshulu",
@@ -2509,7 +2746,10 @@
     "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmjiufzo1kh1q27qd70s261it-moshulu-dinner-menu-ccdrw-2026.pdf",
     "googlePlaceId": "ChIJm6ma5PjJxokRHLTm8r-xiRs",
     "googleRating": 4.3,
-    "googleReviewCount": 2536
+    "googleReviewCount": 2536,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "the-mulberry-on-arch",
@@ -2573,7 +2813,11 @@
     ],
     "googlePlaceId": "ChIJkTsrGAjHxokRoy4YAaAIs48",
     "googleRating": 4.6,
-    "googleReviewCount": 418
+    "googleReviewCount": 418,
+    "cuisineTypes": [
+      "Brazilian",
+      "Latin American"
+    ]
   },
   {
     "id": "ocean-prime",
@@ -2603,7 +2847,10 @@
     ],
     "googlePlaceId": "ChIJKTDM4i_GxokRhTLAjRMs9sw",
     "googleRating": 4.5,
-    "googleReviewCount": 2009
+    "googleReviewCount": 2009,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "oloroso",
@@ -2639,7 +2886,10 @@
     ],
     "googlePlaceId": "ChIJcRqlrijGxokRKV4tNLgMNHA",
     "googleRating": 4.4,
-    "googleReviewCount": 616
+    "googleReviewCount": 616,
+    "cuisineTypes": [
+      "Spanish"
+    ]
   },
   {
     "id": "oltremare",
@@ -2676,7 +2926,10 @@
     ],
     "googlePlaceId": "ChIJBcA6wTbHxokRFjLtERVdQas",
     "googleRating": 4.3,
-    "googleReviewCount": 75
+    "googleReviewCount": 75,
+    "cuisineTypes": [
+      "Seafood"
+    ]
   },
   {
     "id": "osteria",
@@ -2703,7 +2956,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmjiubu8dkh1827qdcm98fwdz-osteria-2026.pdf",
     "googlePlaceId": "ChIJZUvdSdHHxokRQ7KBGh-BHr0",
     "googleRating": 4.5,
-    "googleReviewCount": 1421
+    "googleReviewCount": 1421,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "osteria-ama-philly",
@@ -2733,7 +2989,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkcukwjbn790g7qdkkxq6a0q-osteria-ama-dinner-rw-2026.pdf",
     "googlePlaceId": "ChIJ6SuyUYrHxokR-4BpMK0WIiM",
     "googleRating": 4.8,
-    "googleReviewCount": 2040
+    "googleReviewCount": 2040,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "oyster-house",
@@ -2765,7 +3024,11 @@
     ],
     "googlePlaceId": "ChIJz4hVGTDGxokRYnn8nCLNB3k",
     "googleRating": 4.6,
-    "googleReviewCount": 2599
+    "googleReviewCount": 2599,
+    "cuisineTypes": [
+      "American",
+      "Seafood"
+    ]
   },
   {
     "id": "panorama",
@@ -2802,7 +3065,10 @@
     ],
     "googlePlaceId": "ChIJWYx1XY_IxokRdeJwgE_Gc54",
     "googleRating": 4.5,
-    "googleReviewCount": 641
+    "googleReviewCount": 641,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "pearl-mary",
@@ -2831,7 +3097,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4jfyhgmadvw0qdzw4w3e71-pearl-mary-2026.pdf",
     "googlePlaceId": "ChIJYb8Jcm7HxokRX_i4HYRDat8",
     "googleRating": 4.5,
-    "googleReviewCount": 595
+    "googleReviewCount": 595,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "pizzeria-vetri",
@@ -2858,7 +3127,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmj325l14j2ewg7qdq0cgwgsp-pizzeria-vetri-dinner-26.pdf",
     "googlePlaceId": "ChIJyXmumTrGxokRzhaZwN5evfM",
     "googleRating": 4.5,
-    "googleReviewCount": 1160
+    "googleReviewCount": 1160,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "pj-clarkes-at-the-curtis",
@@ -2885,7 +3157,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkhbcqxxokdnayqduuuy88cj-pj-clarkes.pdf",
     "googlePlaceId": "ChIJEyJRfgTJxokRCW1n4lM5jWk",
     "googleRating": 4.4,
-    "googleReviewCount": 597
+    "googleReviewCount": 597,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "porcini",
@@ -2919,7 +3194,10 @@
     "largePartyNote": "Gratuity will be added to checks for parties of 6 or more.",
     "googlePlaceId": "ChIJv7OhnTfGxokRebORx3LdW9o",
     "googleRating": 4.3,
-    "googleReviewCount": 327
+    "googleReviewCount": 327,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "positano-coast-by-aldo-lamberti",
@@ -2952,7 +3230,10 @@
     "largePartyNote": "Deposit required for large parties",
     "googlePlaceId": "ChIJsRPbNIXIxokREqsjrq7cP3Q",
     "googleRating": 4.4,
-    "googleReviewCount": 1812
+    "googleReviewCount": 1812,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "prunella",
@@ -2982,7 +3263,10 @@
     "largePartyNote": "Contact restaurant directly for large party reservations.",
     "googlePlaceId": "ChIJK_XHFpzHxokRvuQGqI_1pqY",
     "googleRating": 4.3,
-    "googleReviewCount": 480
+    "googleReviewCount": 480,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "pub-kitchen",
@@ -3009,7 +3293,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkij06miny4tniqd6rvy7om1-final-pub-and-kitchen-winter-rw-menu.pdf",
     "googlePlaceId": "ChIJ0WQNKznGxokR8F47kKGhmUQ",
     "googleRating": 4.4,
-    "googleReviewCount": 545
+    "googleReviewCount": 545,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "radicchio-cafe",
@@ -3042,7 +3329,10 @@
     ],
     "googlePlaceId": "ChIJy16Re4fIxokRwISzWrWDxC0",
     "googleRating": 4.6,
-    "googleReviewCount": 592
+    "googleReviewCount": 592,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "restaurant-aleksandar",
@@ -3076,7 +3366,10 @@
     ],
     "googlePlaceId": "ChIJSaJnTGTHxokRT0KFsXzvMVw",
     "googleRating": 4.1,
-    "googleReviewCount": 346
+    "googleReviewCount": 346,
+    "cuisineTypes": [
+      "European"
+    ]
   },
   {
     "id": "rex-at-the-royal",
@@ -3114,7 +3407,10 @@
     ],
     "googlePlaceId": "ChIJlT7VlTzGxokRCBFKum31X-I",
     "googleRating": 4.5,
-    "googleReviewCount": 788
+    "googleReviewCount": 788,
+    "cuisineTypes": [
+      "Southern"
+    ]
   },
   {
     "id": "rhythm-and-spirits-philadelphia",
@@ -3148,7 +3444,10 @@
     "largePartyNote": "Gratuity will be added to check for parties of 6 or more.",
     "googlePlaceId": "ChIJ5cpOERPHxokROUIqUlquF8o",
     "googleRating": 4.9,
-    "googleReviewCount": 32
+    "googleReviewCount": 32,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "rockwell-rose",
@@ -3179,7 +3478,10 @@
     ],
     "googlePlaceId": "ChIJY7LddfrJxokRP3Mj4V-RCeA",
     "googleRating": 4.6,
-    "googleReviewCount": 28
+    "googleReviewCount": 28,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "samba-steakhouse-philly",
@@ -3206,7 +3508,11 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmiqkgdp6hk8fw0qdzuumr4ti-samba-steakhouse-rw-2026-dinner-menu.pdf",
     "googlePlaceId": "ChIJUw_pR-7HxokRW8RUbC8xVTQ",
     "googleRating": 4.5,
-    "googleReviewCount": 1028
+    "googleReviewCount": 1028,
+    "cuisineTypes": [
+      "Brazilian",
+      "Latin American"
+    ]
   },
   {
     "id": "sampan",
@@ -3236,7 +3542,10 @@
     "largePartyNote": "Contact restaurant for large party reservations.",
     "googlePlaceId": "ChIJQ3RRZi_GxokRa55i5Tz53OI",
     "googleRating": 4.5,
-    "googleReviewCount": 2278
+    "googleReviewCount": 2278,
+    "cuisineTypes": [
+      "Asian"
+    ]
   },
   {
     "id": "seafood-unlimited",
@@ -3270,7 +3579,10 @@
     ],
     "googlePlaceId": "ChIJzVLMrjnGxokRz7AG5oKJ-6w",
     "googleRating": 4.3,
-    "googleReviewCount": 215
+    "googleReviewCount": 215,
+    "cuisineTypes": [
+      "Seafood"
+    ]
   },
   {
     "id": "south-restaurant-jazz-club",
@@ -3310,7 +3622,10 @@
     ],
     "googlePlaceId": "ChIJ1WsMX9HHxokRAEC4YQ677fE",
     "googleRating": 4.6,
-    "googleReviewCount": 3362
+    "googleReviewCount": 3362,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "spasso-italian-grill",
@@ -3348,7 +3663,10 @@
     ],
     "googlePlaceId": "ChIJ6ZizgI_IxokRMfvmuRIZVKY",
     "googleRating": 4.5,
-    "googleReviewCount": 1405
+    "googleReviewCount": 1405,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "spice-finch",
@@ -3378,7 +3696,10 @@
     ],
     "googlePlaceId": "ChIJNZkr8OfHxokRSRn5YayJoZI",
     "googleRating": 4.5,
-    "googleReviewCount": 930
+    "googleReviewCount": 930,
+    "cuisineTypes": [
+      "Mediterranean"
+    ]
   },
   {
     "id": "square-1682",
@@ -3410,7 +3731,10 @@
     "largePartyNote": "Gratuity added for parties of 6 or more.",
     "googlePlaceId": "ChIJBzQZYzDGxokRZzPeP310hr8",
     "googleRating": 4.3,
-    "googleReviewCount": 729
+    "googleReviewCount": 729,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "superfolie",
@@ -3440,7 +3764,10 @@
     ],
     "googlePlaceId": "ChIJV7mDzCrHxokR54jPeQWwq9w",
     "googleRating": 4.7,
-    "googleReviewCount": 76
+    "googleReviewCount": 76,
+    "cuisineTypes": [
+      "European"
+    ]
   },
   {
     "id": "sura-indian-bistro",
@@ -3474,7 +3801,10 @@
     ],
     "googlePlaceId": "ChIJAQBc7TDGxokRwGqR7EoeUCw",
     "googleRating": 4.2,
-    "googleReviewCount": 287
+    "googleReviewCount": 287,
+    "cuisineTypes": [
+      "Indian"
+    ]
   },
   {
     "id": "tequila-s-casa-mexicana",
@@ -3504,7 +3834,10 @@
     "largePartyNote": "Max number for a table is 6 guests.",
     "googlePlaceId": "ChIJS0l86zrGxokRSmp9b6VRJT8",
     "googleRating": 4.6,
-    "googleReviewCount": 1083
+    "googleReviewCount": 1083,
+    "cuisineTypes": [
+      "Mexican"
+    ]
   },
   {
     "id": "thanal-indian-tavern",
@@ -3540,7 +3873,10 @@
     ],
     "googlePlaceId": "ChIJFweiSFfHxokR48LhMjKCrDo",
     "googleRating": 4.7,
-    "googleReviewCount": 2500
+    "googleReviewCount": 2500,
+    "cuisineTypes": [
+      "Indian"
+    ]
   },
   {
     "id": "topside-tavern",
@@ -3576,7 +3912,10 @@
     ],
     "googlePlaceId": "ChIJFZ6TuS7HxokR0nv-mBcdrmQ",
     "googleRating": 4.5,
-    "googleReviewCount": 379
+    "googleReviewCount": 379,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "trattoria-carina",
@@ -3603,7 +3942,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkij177ko51pk7qduanjjinn-final-restaurant-week-trattoria-carina-menu.pdf",
     "googlePlaceId": "ChIJefqHgEfGxokR2yiX5q2ggWw",
     "googleRating": 4.5,
-    "googleReviewCount": 591
+    "googleReviewCount": 591,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "the-twisted-tail",
@@ -3637,7 +3979,10 @@
     ],
     "googlePlaceId": "ChIJ7RDIKZrIxokRlsVAmP_3P8g",
     "googleRating": 4.4,
-    "googleReviewCount": 1571
+    "googleReviewCount": 1571,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "umami-steak-and-sushi-bar",
@@ -3702,7 +4047,10 @@
     ],
     "googlePlaceId": "ChIJtd5CODfGxokR2ud4d5oJZik",
     "googleRating": 4.3,
-    "googleReviewCount": 1701
+    "googleReviewCount": 1701,
+    "cuisineTypes": [
+      "Indian"
+    ]
   },
   {
     "id": "via-locusta",
@@ -3732,7 +4080,10 @@
     "largePartyNote": "Contact restaurant directly for large group reservations.",
     "googlePlaceId": "ChIJX6c5BajHxokRW4G0y0ZU4q4",
     "googleRating": 4.5,
-    "googleReviewCount": 740
+    "googleReviewCount": 740,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "village-whiskey",
@@ -3761,7 +4112,10 @@
     ],
     "googlePlaceId": "ChIJLfhKaTfGxokRiOZL6x398WY",
     "googleRating": 4.4,
-    "googleReviewCount": 1564
+    "googleReviewCount": 1564,
+    "cuisineTypes": [
+      "American"
+    ]
   },
   {
     "id": "vita",
@@ -3801,7 +4155,10 @@
     ],
     "googlePlaceId": "ChIJ0fmqgN7HxokRjzGpsYNbNzk",
     "googleRating": 4.4,
-    "googleReviewCount": 344
+    "googleReviewCount": 344,
+    "cuisineTypes": [
+      "Italian"
+    ]
   },
   {
     "id": "wilder",

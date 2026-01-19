@@ -45,6 +45,9 @@ export interface Restaurant {
   googlePlaceId?: string;
   googleRating?: number; // 1-5 stars
   googleReviewCount?: number;
+
+  // Cuisine classification (can have multiple)
+  cuisineTypes?: string[];
 }
 
 // Filter state for the UI
