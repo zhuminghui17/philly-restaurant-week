@@ -40,4 +40,9 @@ export interface RestaurantInfo {
   largePartyNote?: string; // policy for large groups
 
   dietaryOptions?: string[]; // array of strings
+
+  // Google Places integration
+  googlePlaceId?: string;
+  googleRating?: number; // 1-5 stars
+  googleReviewCount?: number;
 }

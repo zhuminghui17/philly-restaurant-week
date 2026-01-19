@@ -27,7 +27,10 @@
     "dietaryOptions": [
       "Vegetarian",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJCTJClDHGxokRyq9mPKfA1mc",
+    "googleRating": 4.5,
+    "googleReviewCount": 715
   },
   {
     "id": "aki-nom-nom",
@@ -55,7 +58,10 @@
     "dietaryOptions": [
       "Vegetarian",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJF7Cc9yXGxokRYuzxMvuQffU",
+    "googleRating": 4.3,
+    "googleReviewCount": 1352
   },
   {
     "id": "alice-pizza",
@@ -84,7 +90,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmjiue4kjkcpfg7qdjju51q8f-alicepizza-2026rwdinnerwinter.pdf",
     "dietaryOptions": [
       "Vegetarian"
-    ]
+    ],
+    "googlePlaceId": "ChIJuT2-SiXGxokRGlLGqJWTS3U",
+    "googleRating": 4.5,
+    "googleReviewCount": 1150
   },
   {
     "id": "amada-philadelphia",
@@ -112,7 +121,10 @@
     "dietaryOptions": [
       "Vegetarian",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJ2YytEYXIxokRxmFAvm4D_bs",
+    "googleRating": 4.5,
+    "googleReviewCount": 2306
   },
   {
     "id": "ambrosia-ristorante",
@@ -139,7 +151,10 @@
       "BYOB (wine only, no corkage fee)"
     ],
     "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmixclantikpsw0qdbujshrxf-ambrosia-lunch.pdf",
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmixbunz0iknow0qd7a51p7vu-ambrosia-2026.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmixbunz0iknow0qd7a51p7vu-ambrosia-2026.pdf",
+    "googlePlaceId": "ChIJq6pFv0fGxokR2lNwZLzH4Es",
+    "googleRating": 4.5,
+    "googleReviewCount": 790
   },
   {
     "id": "bank-bourbon",
@@ -168,7 +183,10 @@
     "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmkbdwxbcn117g7qdpngopc2q-bank-bourbon-rw-lunch-january-2026-final.pdf",
     "dietaryOptions": [
       "Vegetarian"
-    ]
+    ],
+    "googlePlaceId": "ChIJK9oJLSnGxokRn7uWKXin3Tc",
+    "googleRating": 4.3,
+    "googleReviewCount": 890
   },
   {
     "id": "bar-bombon",
@@ -201,7 +219,10 @@
       "Vegetarian",
       "Vegan",
       "Kosher"
-    ]
+    ],
+    "googlePlaceId": "ChIJC0K8mTDGxokRNJyjc12g9Do",
+    "googleRating": 4.5,
+    "googleReviewCount": 1709
   },
   {
     "id": "barbuzzo",
@@ -227,7 +248,10 @@
       "Contact restaurant directly for large group reservations"
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfr2a7rnjl17iqdka0kl75c-rw-2026-barbuzzo-dinner-menu-x.pdf",
-    "largePartyNote": "Contact restaurant directly for large group reservations"
+    "largePartyNote": "Contact restaurant directly for large group reservations",
+    "googlePlaceId": "ChIJOX1Kai_GxokRA9FwrimJP-Y",
+    "googleRating": 4.5,
+    "googleReviewCount": 2237
   },
   {
     "id": "barra-rossa",
@@ -259,7 +283,10 @@
       "Vegetarian",
       "Gluten-free",
       "Vegan"
-    ]
+    ],
+    "googlePlaceId": "ChIJJ2AjfyjGxokReoPZHjHXV7M",
+    "googleRating": 4.2,
+    "googleReviewCount": 1150
   },
   {
     "id": "bellini",
@@ -288,7 +315,10 @@
     "dietaryOptions": [
       "Vegetarian",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJUTl4lzrGxokR3KimknnGwp8",
+    "googleRating": 4.5,
+    "googleReviewCount": 748
   },
   {
     "id": "bistro-la-baia",
@@ -315,7 +345,10 @@
       "Call restaurant directly for large party reservations."
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk5qhcgkn9c9ayqdrv91j495-bistro-la-baia-rw-26.pdf",
-    "largePartyNote": "Call restaurant directly for large party reservations."
+    "largePartyNote": "Call restaurant directly for large party reservations.",
+    "googlePlaceId": "ChIJ_68vijvGxokR5M1A6b5y3iI",
+    "googleRating": 4.6,
+    "googleReviewCount": 405
   },
   {
     "id": "bistro-romano",
@@ -346,7 +379,10 @@
       "Monday",
       "Tuesday"
     ],
-    "largePartyNote": "Gratuity will be added to checks for parties of 6 or more."
+    "largePartyNote": "Gratuity will be added to checks for parties of 6 or more.",
+    "googlePlaceId": "ChIJUwU6IZrIxokRgX-V0_Y0eRM",
+    "googleRating": 4.6,
+    "googleReviewCount": 1046
   },
   {
     "id": "bleu-sushi",
@@ -372,7 +408,10 @@
       "BYOB"
     ],
     "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmk1c881vlvvc7iqdjqx56enm-bleu-restaurant-week-january-2026.pdf",
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk1c881vlvvc7iqdjqx56enm-bleu-restaurant-week-january-2026.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk1c881vlvvc7iqdjqx56enm-bleu-restaurant-week-january-2026.pdf",
+    "googlePlaceId": "ChIJsTRGUCbGxokRHRPlwUEyMNk",
+    "googleRating": 4.4,
+    "googleReviewCount": 1036
   },
   {
     "id": "bodega-taco-bar",
@@ -401,7 +440,10 @@
     "closedDays": [
       "Sunday"
     ],
-    "largePartyNote": "Gratuity will be added to checks for parties of 6 or more."
+    "largePartyNote": "Gratuity will be added to checks for parties of 6 or more.",
+    "googlePlaceId": "ChIJs4hIcg3HxokRJjJU4SR8AEg",
+    "googleRating": 4,
+    "googleReviewCount": 381
   },
   {
     "id": "bolo",
@@ -427,7 +469,10 @@
       "Gratuity will be added to check for parties of 8 or more and 3% credit card processing fee (not applicable to debit cards or cash)"
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkba2swin7onk7qd2p3a5427-bolo-rw-2026.pdf",
-    "largePartyNote": "Gratuity will be added to check for parties of 8 or more and 3% credit card processing fee (not applicable to debit cards or cash)"
+    "largePartyNote": "Gratuity will be added to check for parties of 8 or more and 3% credit card processing fee (not applicable to debit cards or cash)",
+    "googlePlaceId": "ChIJnbEpcxzHxokRGpPRH98wePo",
+    "googleRating": 4.5,
+    "googleReviewCount": 356
   },
   {
     "id": "bridget-foy-s",
@@ -459,7 +504,10 @@
     "closedDays": [
       "Tuesday"
     ],
-    "largePartyNote": "Gratuity will be added to checks for parties of 6 or more."
+    "largePartyNote": "Gratuity will be added to checks for parties of 6 or more.",
+    "googlePlaceId": "ChIJ851bnZnIxokRFdlArxg6Yu4",
+    "googleRating": 4.4,
+    "googleReviewCount": 592
   },
   {
     "id": "buca-d-oro-ristorante",
@@ -490,7 +538,10 @@
     "dietaryOptions": [
       "Gluten-free",
       "Vegetarian"
-    ]
+    ],
+    "googlePlaceId": "ChIJy1GBXJ3IxokRUnmWMh3RuQ8",
+    "googleRating": 4.4,
+    "googleReviewCount": 417
   },
   {
     "id": "bud-marilyn-s",
@@ -516,7 +567,10 @@
       "Contact restaurant directly for large party reservations"
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfr2a8gnkp0niqdeg083eih-rw-2026-buds-dinner-menu-x.pdf",
-    "largePartyNote": "Contact restaurant directly for large party reservations"
+    "largePartyNote": "Contact restaurant directly for large party reservations",
+    "googlePlaceId": "ChIJIdC4lSXGxokRdPjrc50P1VY",
+    "googleRating": 4.5,
+    "googleReviewCount": 2391
   },
   {
     "id": "buddakan",
@@ -543,7 +597,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkeklqygne3s7iqd8328nm0a-buddakhan-dinner-26.pdf",
     "dietaryOptions": [
       "Vegetarian"
-    ]
+    ],
+    "googlePlaceId": "ChIJocR57YTIxokRVbmWuISm8ww",
+    "googleRating": 4.6,
+    "googleReviewCount": 2654
   },
   {
     "id": "butcher-bar",
@@ -570,7 +627,10 @@
       "Gratuity will be added to checks for parties of 5 or more."
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfsxc6anngcuzqd0g3po94z-butcher-jan-rw-2026-ccd-b.pdf",
-    "largePartyNote": "Gratuity will be added to checks for parties of 5 or more."
+    "largePartyNote": "Gratuity will be added to checks for parties of 5 or more.",
+    "googlePlaceId": "ChIJ_y2SCjfGxokR90VjOlsQLv0",
+    "googleRating": 4.3,
+    "googleReviewCount": 1618
   },
   {
     "id": "caribou-caf",
@@ -603,7 +663,10 @@
     "dietaryOptions": [
       "Vegetarian",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJW0rnqijGxokReyAY_47Iatw",
+    "googleRating": 4.2,
+    "googleReviewCount": 779
   },
   {
     "id": "charlie-was-a-sinner",
@@ -634,7 +697,10 @@
       "Vegetarian",
       "Vegan",
       "Kosher"
-    ]
+    ],
+    "googlePlaceId": "ChIJq7hqXS_GxokRbm5ud0CYz2Q",
+    "googleRating": 4.5,
+    "googleReviewCount": 1898
   },
   {
     "id": "ch-teau-rouge",
@@ -665,7 +731,10 @@
       "Vegetarian",
       "Vegan",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJR_DkMprHxokR8AHGzddMff8",
+    "googleRating": 4.9,
+    "googleReviewCount": 126
   },
   {
     "id": "city-winery",
@@ -695,7 +764,10 @@
     "dietaryOptions": [
       "Vegetarian",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJV_RUBk7HxokRw8MGusDln2k",
+    "googleRating": 4.1,
+    "googleReviewCount": 1681
   },
   {
     "id": "con-murphy-s-irish-pub",
@@ -720,7 +792,10 @@
       "Offering indoor and outdoor dining."
     ],
     "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmkej0vgonhasuzqdmxsui0m0-conmurphys-rw-2026-lunch.pdf",
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfz0kddnlvqg7qddzv8ogfy-con-murphys-dinner.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfz0kddnlvqg7qddzv8ogfy-con-murphys-dinner.pdf",
+    "googlePlaceId": "ChIJdVCkPzLGxokR4zUhavTBBDQ",
+    "googleRating": 4.5,
+    "googleReviewCount": 2002
   },
   {
     "id": "condesa",
@@ -750,7 +825,10 @@
     "closedDays": [
       "Sunday"
     ],
-    "largePartyNote": "Accomodates parties up to 16 guests"
+    "largePartyNote": "Accomodates parties up to 16 guests",
+    "googlePlaceId": "ChIJGSDY_f3HxokRxs5CbtTl2Oo",
+    "googleRating": 4.4,
+    "googleReviewCount": 526
   },
   {
     "id": "cry-baby-pasta",
@@ -786,7 +864,10 @@
       "Vegetarian",
       "Vegan",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJ02clAf_JxokRPB7tRyLuNnY",
+    "googleRating": 4.4,
+    "googleReviewCount": 592
   },
   {
     "id": "cuba-libre-restaurant-rum-bar",
@@ -815,7 +896,10 @@
     "largePartyNote": "20% gratuity will be added to check for parties of 10 or more.",
     "dietaryOptions": [
       "Vegetarian"
-    ]
+    ],
+    "googlePlaceId": "ChIJ_8Tvm4XIxokRBA-RzDneztg",
+    "googleRating": 4.3,
+    "googleReviewCount": 3802
   },
   {
     "id": "d-angelo-s-ristorante-italiano-lounge",
@@ -849,7 +933,10 @@
     "dietaryOptions": [
       "Vegetarian",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJO8cqrjnGxokRCBLfsc56PsU",
+    "googleRating": 4.3,
+    "googleReviewCount": 366
   },
   {
     "id": "darling-jack-s-tavern",
@@ -874,7 +961,10 @@
       "Restaurant Week lunch menu is available Monday - Friday.",
       "Offering indoor dining."
     ],
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfr2a7tnkhcg7qdr30t0j8r-rw-2026-darling-jack-s-dinner-menu-x.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfr2a7tnkhcg7qdr30t0j8r-rw-2026-darling-jack-s-dinner-menu-x.pdf",
+    "googlePlaceId": "ChIJ09z2qQzHxokR-1gpzJ4Sgm0",
+    "googleRating": 4.6,
+    "googleReviewCount": 406
   },
   {
     "id": "dear-daphni",
@@ -901,7 +991,10 @@
       "Contact restaurant directly for large party reservations."
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4jaap7n3glayqdbniw8nct-dear-daphni-rw.pdf",
-    "largePartyNote": "Contact restaurant directly for large party reservations."
+    "largePartyNote": "Contact restaurant directly for large party reservations.",
+    "googlePlaceId": "ChIJWeZiBmTHxokRNvlQNYx2GcY",
+    "googleRating": 4,
+    "googleReviewCount": 224
   },
   {
     "id": "del-frisco-s-double-eagle-steakhouse",
@@ -928,7 +1021,10 @@
       "Gratuity will be added to every check.",
       "Parties of 8 or larger and Private Dining parties are not eligible for Restaurant Week menu."
     ],
-    "largePartyNote": "Parties of 8 or larger and Private Dining parties are not eligible for Restaurant Week menu."
+    "largePartyNote": "Parties of 8 or larger and Private Dining parties are not eligible for Restaurant Week menu.",
+    "googlePlaceId": "ChIJWTSBxC_GxokRU_Yujc-KMHg",
+    "googleRating": 4.5,
+    "googleReviewCount": 3943
   },
   {
     "id": "devil-s-alley",
@@ -952,7 +1048,10 @@
       "Participating in dinner only.",
       "Offering indoor and outdoor dining."
     ],
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfz38xznl1d7iqd1nfzbgto-devils-alley-1.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfz38xznl1d7iqd1nfzbgto-devils-alley-1.pdf",
+    "googlePlaceId": "ChIJfQzzMjfGxokReyhqhaYzv48",
+    "googleRating": 4.3,
+    "googleReviewCount": 1180
   },
   {
     "id": "dim-sum-house-by-jane-g-s",
@@ -983,7 +1082,10 @@
       "Vegetarian",
       "Gluten-free",
       "Vegan"
-    ]
+    ],
+    "googlePlaceId": "ChIJv9giPzfGxokRHUsWTjGTLkI",
+    "googleRating": 4.2,
+    "googleReviewCount": 924
   },
   {
     "id": "dizengoff",
@@ -1007,7 +1109,10 @@
       "Participating in lunch and dinner.",
       "Lunch is available Monday - Sunday",
       "Offering indoor dining."
-    ]
+    ],
+    "googlePlaceId": "ChIJhbVkbzDGxokRxnLVOvp28Ms",
+    "googleRating": 4.6,
+    "googleReviewCount": 1067
   },
   {
     "id": "dolce-italian",
@@ -1042,7 +1147,10 @@
       "Vegetarian",
       "Gluten-free",
       "Vegan"
-    ]
+    ],
+    "googlePlaceId": "ChIJw0lByS_GxokR13nPaQPH4sA",
+    "googleRating": 3.3,
+    "googleReviewCount": 396
   },
   {
     "id": "double-knot",
@@ -1069,7 +1177,10 @@
       "Contact restaurant directly for large party reservations."
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4j5surmdomuzqdb8b4nf8m-double-knot-2026.pdf",
-    "largePartyNote": "Contact restaurant directly for large party reservations."
+    "largePartyNote": "Contact restaurant directly for large party reservations.",
+    "googlePlaceId": "ChIJBdUeZi_GxokR2uEUM6HYpJ4",
+    "googleRating": 4.6,
+    "googleReviewCount": 2662
   },
   {
     "id": "el-vez",
@@ -1094,7 +1205,10 @@
       "Offering indoor and outdoor dining.",
       "Restaurant Week menu will not be available on Saturdays."
     ],
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk5wwaidmh7v7iqdunxy33ii-el-vez-dinner-rw-2026.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk5wwaidmh7v7iqdunxy33ii-el-vez-dinner-rw-2026.pdf",
+    "googlePlaceId": "ChIJ6_UiaC_GxokRxRLbUmfNszM",
+    "googleRating": 4.5,
+    "googleReviewCount": 6255
   },
   {
     "id": "estia-restaurant",
@@ -1117,7 +1231,10 @@
     "restaurantWeekDetails": [
       "Participating in dinner only.",
       "Offering indoor dining."
-    ]
+    ],
+    "googlePlaceId": "ChIJj8GtQSXGxokRikbyQT3QPtI",
+    "googleRating": 4.6,
+    "googleReviewCount": 1809
   },
   {
     "id": "farina-pasta-bar",
@@ -1148,7 +1265,10 @@
       "Vegetarian",
       "Gluten-free",
       "Vegan"
-    ]
+    ],
+    "googlePlaceId": "ChIJZxT3zGDFxokRgKlA63fjgAE",
+    "googleRating": 4.4,
+    "googleReviewCount": 328
   },
   {
     "id": "fat-salmon",
@@ -1179,7 +1299,10 @@
     ],
     "dietaryOptions": [
       "Vegetarian"
-    ]
+    ],
+    "googlePlaceId": "ChIJRbkRtILIxokRnKrVYpaCpiI",
+    "googleRating": 4.4,
+    "googleReviewCount": 639
   },
   {
     "id": "fork",
@@ -1205,7 +1328,10 @@
       "Gratuity will be added to checks for parties of 6 or more."
     ],
     "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmkh8l53rns0gg7qdc83vbv2z-fork-winter-2026-restaurant-week-1.pdf",
-    "largePartyNote": "Gratuity will be added to checks for parties of 6 or more."
+    "largePartyNote": "Gratuity will be added to checks for parties of 6 or more.",
+    "googlePlaceId": "ChIJyal5TYTIxokRfhJy2WNx4T0",
+    "googleRating": 4.5,
+    "googleReviewCount": 1160
   },
   {
     "id": "forsythia",
@@ -1230,7 +1356,10 @@
       "Offering indoor dining.",
       "Gratuity will be added to every check."
     ],
-    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmk4ilhy3maer7iqdbknoup7v-forsythia-dinner-menu-rw-2026.pdf"
+    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmk4ilhy3maer7iqdbknoup7v-forsythia-dinner-menu-rw-2026.pdf",
+    "googlePlaceId": "ChIJP4qCIxbJxokRGxfZTNVu-_0",
+    "googleRating": 4.6,
+    "googleReviewCount": 455
   },
   {
     "id": "fringe-bar",
@@ -1265,7 +1394,10 @@
       "Vegetarian",
       "Gluten-free",
       "Vegan"
-    ]
+    ],
+    "googlePlaceId": "ChIJ9wo1017JxokRJbagSCY1d_c",
+    "googleRating": 4.4,
+    "googleReviewCount": 170
   },
   {
     "id": "fuji-mountain",
@@ -1291,7 +1423,10 @@
       "Gratuity will be added to check for parties of 6 or more."
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmit8xdeji0q5g7qdnvrdbhuy-fuji.pdf",
-    "largePartyNote": "Gratuity will be added to check for parties of 6 or more."
+    "largePartyNote": "Gratuity will be added to check for parties of 6 or more.",
+    "googlePlaceId": "ChIJpwHHCzfGxokRioFlwzpC5MQ",
+    "googleRating": 4.4,
+    "googleReviewCount": 636
   },
   {
     "id": "giuseppe-sons",
@@ -1318,7 +1453,10 @@
       "Restaurant Week menu will not be offered on Saturdays."
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4jdedfmdqcuzqdp8ufh3zh-giuseppe-sons-2026.pdf",
-    "largePartyNote": "Contact restaurant directly for large party reservations (6 or more)."
+    "largePartyNote": "Contact restaurant directly for large party reservations (6 or more).",
+    "googlePlaceId": "ChIJbYZ7rkTHxokRfhIPW-VgDb4",
+    "googleRating": 4.4,
+    "googleReviewCount": 1276
   },
   {
     "id": "gran-caffe-l-aquila",
@@ -1350,7 +1488,10 @@
       "Vegetarian",
       "Gluten-free",
       "Vegan"
-    ]
+    ],
+    "googlePlaceId": "ChIJJVpz9DDGxokRt3_x8-dzlsA",
+    "googleRating": 4.6,
+    "googleReviewCount": 3279
   },
   {
     "id": "grandma-s-philly",
@@ -1376,7 +1517,10 @@
       "The Restaurant Week dinner menu will not be available on Saturday, January 31.",
       "Gratuity will be added to check for parties of 6 or more."
     ],
-    "largePartyNote": "Gratuity will be added to check for parties of 6 or more."
+    "largePartyNote": "Gratuity will be added to check for parties of 6 or more.",
+    "googlePlaceId": "ChIJs8ROVhTHxokR1L8sLi5_2wo",
+    "googleRating": 4.7,
+    "googleReviewCount": 3008
   },
   {
     "id": "hard-rock-cafe",
@@ -1408,7 +1552,10 @@
       "Vegetarian",
       "Gluten-free",
       "Vegan"
-    ]
+    ],
+    "googlePlaceId": "ChIJTb5oPSnGxokRRzH7skyN-PI",
+    "googleRating": 4.1,
+    "googleReviewCount": 5068
   },
   {
     "id": "harp-crown",
@@ -1434,7 +1581,10 @@
       "Contact restaurant directly for large party reservations."
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4ip49imaczg7qdvuprkxdq-harp-crown.pdf",
-    "largePartyNote": "Contact restaurant directly for large party reservations."
+    "largePartyNote": "Contact restaurant directly for large party reservations.",
+    "googlePlaceId": "ChIJQa1JHDDGxokRGExiHLDYVOA",
+    "googleRating": 4.5,
+    "googleReviewCount": 2336
   },
   {
     "id": "harper-s-garden",
@@ -1461,7 +1611,10 @@
       "Contact restaurant directly for large party reservations (11 or more)."
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4ix9w4mf8y27qdnlndujgy-harper-s-garden-dinner-rw-menu-2026.pdf",
-    "largePartyNote": "Contact restaurant directly for large party reservations (11 or more)."
+    "largePartyNote": "Contact restaurant directly for large party reservations (11 or more).",
+    "googlePlaceId": "ChIJ9f8_GjTGxokRajjkD00E80Y",
+    "googleRating": 4.1,
+    "googleReviewCount": 1247
   },
   {
     "id": "the-hayes",
@@ -1491,7 +1644,10 @@
     "dietaryOptions": [
       "Vegetarian",
       "Glute-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJ73IKj6bHxokRkjx4QyQS7YE",
+    "googleRating": 4.2,
+    "googleReviewCount": 118
   },
   {
     "id": "hi-lo-taco-co",
@@ -1520,7 +1676,10 @@
     "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmj32yrd6j2j9g7qd0j4l4a2n-hi-lo-taco-co-lunch.pdf",
     "closedDays": [
       "Sunday"
-    ]
+    ],
+    "googlePlaceId": "ChIJUw9aEB3JxokRrJVblg9lReI",
+    "googleRating": 4.8,
+    "googleReviewCount": 387
   },
   {
     "id": "high-street",
@@ -1554,7 +1713,10 @@
     "dietaryOptions": [
       "Vegetarian items (each course)",
       "Gluten-free items (each course)"
-    ]
+    ],
+    "googlePlaceId": "ChIJjaJHUYTIxokR6hUWfTrQpu4",
+    "googleRating": 4.5,
+    "googleReviewCount": 1137
   },
   {
     "id": "jasmine-rice-rittenhouse",
@@ -1586,7 +1748,10 @@
       "Vegetarian",
       "Gluten-free",
       "Vegan"
-    ]
+    ],
+    "googlePlaceId": "ChIJURsAHTvGxokRdBwM81DOoB4",
+    "googleRating": 4.1,
+    "googleReviewCount": 393
   },
   {
     "id": "kanella-restaurant",
@@ -1620,7 +1785,10 @@
       "Vegan",
       "Gluten-free",
       "Kosher"
-    ]
+    ],
+    "googlePlaceId": "ChIJK3osUSbGxokRNbmEKjetjlQ",
+    "googleRating": 4.6,
+    "googleReviewCount": 917
   },
   {
     "id": "kinme",
@@ -1651,7 +1819,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmiqkgd2phk8cw0qd955drqz4-kinme-rw-2026-dinner-menu.pdf",
     "closedDays": [
       "Sunday"
-    ]
+    ],
+    "googlePlaceId": "ChIJqQlSCSbGxokRxzoomxoe6Q4",
+    "googleRating": 4.7,
+    "googleReviewCount": 206
   },
   {
     "id": "kirin-house",
@@ -1681,7 +1852,10 @@
     "closedDays": [
       "Monday"
     ],
-    "largePartyNote": "Gratuity added for parties of 6 of  more."
+    "largePartyNote": "Gratuity added for parties of 6 of  more.",
+    "googlePlaceId": "ChIJ6RHuvabHxokRhIYPdoC7tvs",
+    "googleRating": 4.7,
+    "googleReviewCount": 143
   },
   {
     "id": "koto-sushi",
@@ -1706,7 +1880,10 @@
       "Offering indoor dining."
     ],
     "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmiqkgdcwhnbduzqdqpb6ozho-koto-sushi-rw-2026-lunch-menu.pdf",
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmiqkgdljhmk627qds5ydks7i-koto-sushi-rw-2026-dinner-menu.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmiqkgdljhmk627qds5ydks7i-koto-sushi-rw-2026-dinner-menu.pdf",
+    "googlePlaceId": "ChIJMTbhvoLIxokRea-9OEWHG_g",
+    "googleRating": 4.7,
+    "googleReviewCount": 386
   },
   {
     "id": "la-famiglia-ristorante",
@@ -1737,7 +1914,10 @@
       "Monday",
       "Sunday"
     ],
-    "largePartyNote": "Gratuity will be added to check for parties of 6 or more."
+    "largePartyNote": "Gratuity will be added to check for parties of 6 or more.",
+    "googlePlaceId": "ChIJdzaue4_IxokR_zxAhKdu4dk",
+    "googleRating": 4.5,
+    "googleReviewCount": 411
   },
   {
     "id": "la-fontana-della-citta",
@@ -1764,7 +1944,10 @@
       "Gratuity will be added to check for parties of 6 or more."
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkijqjq9o55fk7qdmaxedwdm-la-fontnana-dinner.png",
-    "largePartyNote": "Gratuity will be added to check for parties of 6 or more."
+    "largePartyNote": "Gratuity will be added to check for parties of 6 or more.",
+    "googlePlaceId": "ChIJsduoUjrGxokR0c5eqm_63ZM",
+    "googleRating": 3.8,
+    "googleReviewCount": 641
   },
   {
     "id": "la-nonna",
@@ -1791,7 +1974,10 @@
       "Gratuity will be added to check for parties of 7 and more."
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmjiumaw3kd7cw0qdur4fy5j7-la-nonna-dinner-rw-week-jan-2026.pdf",
-    "largePartyNote": "Gratuity will be added to check for parties of 7 and more."
+    "largePartyNote": "Gratuity will be added to check for parties of 7 and more.",
+    "googlePlaceId": "ChIJR_sXcZnIxokRI6dOYPg_CfU",
+    "googleRating": 4.7,
+    "googleReviewCount": 289
   },
   {
     "id": "la-sera-italiana",
@@ -1817,7 +2003,10 @@
       "Vegan",
       "Gluten-free",
       "Kosher"
-    ]
+    ],
+    "googlePlaceId": "ChIJZZhKRH_HxokRhrjLnwJ9dgA",
+    "googleRating": 4.5,
+    "googleReviewCount": 72
   },
   {
     "id": "la-viola-bistro",
@@ -1844,7 +2033,10 @@
       "BYOB."
     ],
     "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmk1n7hrclxsdniqdomuhp5s7-la-viola-restaurant-week-lunch-menu-winter-26.pdf",
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk1n3pkvm25t27qdsmlt1wzs-la-viola-restaurant-week-dinner-winter-26.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk1n3pkvm25t27qdsmlt1wzs-la-viola-restaurant-week-dinner-winter-26.pdf",
+    "googlePlaceId": "ChIJe2br5zrGxokRJ-KeG01teFA",
+    "googleRating": 4.1,
+    "googleReviewCount": 712
   },
   {
     "id": "la-viola-ovest",
@@ -1871,7 +2063,10 @@
       "BYOB."
     ],
     "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmk1n7hrclxsdniqdomuhp5s7-la-viola-restaurant-week-lunch-menu-winter-26.pdf",
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk1n3pkvm25t27qdsmlt1wzs-la-viola-restaurant-week-dinner-winter-26.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk1n3pkvm25t27qdsmlt1wzs-la-viola-restaurant-week-dinner-winter-26.pdf",
+    "googlePlaceId": "ChIJe2br5zrGxokRJ-KeG01teFA",
+    "googleRating": 4.1,
+    "googleReviewCount": 712
   },
   {
     "id": "las-bugambilias",
@@ -1905,7 +2100,10 @@
     "dietaryOptions": [
       "Vegetarian",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJCYJem5nIxokRq1KtJCHD-FI",
+    "googleRating": 4.4,
+    "googleReviewCount": 799
   },
   {
     "id": "lascala-s-fire",
@@ -1930,7 +2128,10 @@
       "Offering indoor dining.",
       "Gratuity will be added to every check."
     ],
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkijalb9nwpow0qdjtzv537d-la-scala.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkijalb9nwpow0qdjtzv537d-la-scala.pdf",
+    "googlePlaceId": "ChIJpYHl5ILIxokRtdxYWXsRafs",
+    "googleRating": 4.4,
+    "googleReviewCount": 1598
   },
   {
     "id": "the-lesieur",
@@ -1962,7 +2163,10 @@
       "Monday",
       "Sunday"
     ],
-    "largePartyNote": "Contact restaurant directily for large party reservations"
+    "largePartyNote": "Contact restaurant directily for large party reservations",
+    "googlePlaceId": "ChIJx540zf_HxokRJFnX_eTNZoM",
+    "googleRating": 4.4,
+    "googleReviewCount": 138
   },
   {
     "id": "libert-restobar",
@@ -1985,7 +2189,10 @@
     "restaurantWeekDetails": [
       "Participating in dinner only.",
       "Offering indoor dining."
-    ]
+    ],
+    "googlePlaceId": "ChIJOaMejDDGxokRwhyVQm5h7dA",
+    "googleRating": 4.3,
+    "googleReviewCount": 169
   },
   {
     "id": "little-nonna-s",
@@ -2009,7 +2216,10 @@
       "Participating in dinner and takeout.",
       "Offering indoor and outdoor dining."
     ],
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkjzp2cbo9kf27qdl3gnol45-rw-2026-little-nonna-s-dinner-menu-x.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkjzp2cbo9kf27qdl3gnol45-rw-2026-little-nonna-s-dinner-menu-x.pdf",
+    "googlePlaceId": "ChIJvVEYlSXGxokR-T68hnrA0oI",
+    "googleRating": 4.5,
+    "googleReviewCount": 1714
   },
   {
     "id": "loch-bar",
@@ -2036,7 +2246,10 @@
       "20% gratuity will be added to all checks."
     ],
     "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmkfz8lsenszok7qdjt2ndkn4-web-lunch-prix-jan26-02.pdf",
-    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmkfz6mupnl2l7iqd1t48korq-lochphilly-dinner-prix-jan26-02.pdf"
+    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmkfz6mupnl2l7iqd1t48korq-lochphilly-dinner-prix-jan26-02.pdf",
+    "googlePlaceId": "ChIJVw-qOuTHxokRdZqgvpmZPqc",
+    "googleRating": 4.6,
+    "googleReviewCount": 995
   },
   {
     "id": "malbec-argentine-steakhouse",
@@ -2069,7 +2282,10 @@
     ],
     "dietaryOptions": [
       "Vegetarian"
-    ]
+    ],
+    "googlePlaceId": "ChIJKZ4ry5vIxokRWZ2Da0ZzrHc",
+    "googleRating": 4.6,
+    "googleReviewCount": 731
   },
   {
     "id": "mccormick-schmick-s",
@@ -2093,7 +2309,10 @@
       "Participating in lunch, dinner and takeout.",
       "Offering indoor and outdoor dining.",
       "BYOB."
-    ]
+    ],
+    "googlePlaceId": "ChIJi2XVqC_GxokRKTWrt6b9f_Q",
+    "googleRating": 4,
+    "googleReviewCount": 2245
   },
   {
     "id": "melograno-byob",
@@ -2128,7 +2347,10 @@
       "Vegetarian",
       "Gluten-free",
       "Vegan"
-    ]
+    ],
+    "googlePlaceId": "ChIJT0v4bjfGxokRgWwX_20r3Xc",
+    "googleRating": 4.5,
+    "googleReviewCount": 441
   },
   {
     "id": "mercato-byob",
@@ -2157,7 +2379,10 @@
     "largePartyNote": "Please contact restaurant dirrectly for parties larger than 5 guests.",
     "dietaryOptions": [
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJG2axyiXGxokRxc97W_zV1k8",
+    "googleRating": 4.4,
+    "googleReviewCount": 451
   },
   {
     "id": "miss-saigon-vietnamese-restaurant-and-lounge",
@@ -2183,7 +2408,10 @@
       "Restaurant Week Lunch menu is available Mondnay",
       "Friday",
       "Gratuity will be added to every check"
-    ]
+    ],
+    "googlePlaceId": "ChIJ8RGdqVnHxokRpGSMad4gb4o",
+    "googleRating": 4.6,
+    "googleReviewCount": 1040
   },
   {
     "id": "mixto-restaurant",
@@ -2212,7 +2440,10 @@
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4iucg3mat9niqd5fyurpht-mixto-restaurant-week-2026-dinner.pdf",
     "closedDays": [
       "Monday"
-    ]
+    ],
+    "googlePlaceId": "ChIJTcIsPSTGxokRbw4HsvrYIVY",
+    "googleRating": 4.5,
+    "googleReviewCount": 2622
   },
   {
     "id": "monster-vegan",
@@ -2247,7 +2478,10 @@
       "Vegetarian",
       "Vegan",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJTWDZayTHxokReMNouSIghWM",
+    "googleRating": 4.6,
+    "googleReviewCount": 1148
   },
   {
     "id": "moshulu",
@@ -2272,7 +2506,10 @@
       "Offering indoor dining.",
       "Restaurant Week menu will not be offered on Saturdays."
     ],
-    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmjiufzo1kh1q27qd70s261it-moshulu-dinner-menu-ccdrw-2026.pdf"
+    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmjiufzo1kh1q27qd70s261it-moshulu-dinner-menu-ccdrw-2026.pdf",
+    "googlePlaceId": "ChIJm6ma5PjJxokRHLTm8r-xiRs",
+    "googleRating": 4.3,
+    "googleReviewCount": 2536
   },
   {
     "id": "the-mulberry-on-arch",
@@ -2302,7 +2539,10 @@
     "closedDays": [
       "Monday"
     ],
-    "largePartyNote": "Gratuity wil be added to check for parties of 6 or more guests."
+    "largePartyNote": "Gratuity wil be added to check for parties of 6 or more guests.",
+    "googlePlaceId": "ChIJRZbYgp7HxokRTMwJyvmTQkw",
+    "googleRating": 4.3,
+    "googleReviewCount": 387
   },
   {
     "id": "nabrasa-brazilian-steakhouse",
@@ -2330,7 +2570,10 @@
     "largePartyNote": "For parties of 9 or more: A cancellation fee will not be charged if you cancel before (date/time. 1 hour prior). If you cancel after that, you agree to be charged a fee of $20.00 + tax per guest on the reservation. Any waiver of the fee is at the sole discretion of the restaurant.",
     "dietaryOptions": [
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJkTsrGAjHxokRoy4YAaAIs48",
+    "googleRating": 4.6,
+    "googleReviewCount": 418
   },
   {
     "id": "ocean-prime",
@@ -2357,7 +2600,10 @@
     "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmkhbo2oanv3uuzqd5sgyric6-ocean-prime.pdf",
     "dietaryOptions": [
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJKTDM4i_GxokRhTLAjRMs9sw",
+    "googleRating": 4.5,
+    "googleReviewCount": 2009
   },
   {
     "id": "oloroso",
@@ -2390,7 +2636,10 @@
     "dietaryOptions": [
       "Vegetarian",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJcRqlrijGxokRKV4tNLgMNHA",
+    "googleRating": 4.4,
+    "googleReviewCount": 616
   },
   {
     "id": "oltremare",
@@ -2424,7 +2673,10 @@
     "dietaryOptions": [
       "Vegetarian",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJBcA6wTbHxokRFjLtERVdQas",
+    "googleRating": 4.3,
+    "googleReviewCount": 75
   },
   {
     "id": "osteria",
@@ -2448,7 +2700,10 @@
       "Participating in dinner only.",
       "Offering indoor and outdoor dining."
     ],
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmjiubu8dkh1827qdcm98fwdz-osteria-2026.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmjiubu8dkh1827qdcm98fwdz-osteria-2026.pdf",
+    "googlePlaceId": "ChIJZUvdSdHHxokRQ7KBGh-BHr0",
+    "googleRating": 4.5,
+    "googleReviewCount": 1421
   },
   {
     "id": "osteria-ama-philly",
@@ -2475,7 +2730,10 @@
       "Gratuity will be added to every check."
     ],
     "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmkbdzs7sn4yq27qd5bgar2l4-osteria-ama-lunch-restaurant-week-menu-2026.pdf",
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkcukwjbn790g7qdkkxq6a0q-osteria-ama-dinner-rw-2026.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkcukwjbn790g7qdkkxq6a0q-osteria-ama-dinner-rw-2026.pdf",
+    "googlePlaceId": "ChIJ6SuyUYrHxokR-4BpMK0WIiM",
+    "googleRating": 4.8,
+    "googleReviewCount": 2040
   },
   {
     "id": "oyster-house",
@@ -2504,7 +2762,10 @@
     "closedDays": [
       "Monday",
       "Sunday"
-    ]
+    ],
+    "googlePlaceId": "ChIJz4hVGTDGxokRYnn8nCLNB3k",
+    "googleRating": 4.6,
+    "googleReviewCount": 2599
   },
   {
     "id": "panorama",
@@ -2538,7 +2799,10 @@
       "Vegetarian",
       "Gluten-free",
       "Vegan"
-    ]
+    ],
+    "googlePlaceId": "ChIJWYx1XY_IxokRdeJwgE_Gc54",
+    "googleRating": 4.5,
+    "googleReviewCount": 641
   },
   {
     "id": "pearl-mary",
@@ -2564,7 +2828,10 @@
       "Restaurant Week menu not offered on Saturdays.",
       "Familly style menu."
     ],
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4jfyhgmadvw0qdzw4w3e71-pearl-mary-2026.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4jfyhgmadvw0qdzw4w3e71-pearl-mary-2026.pdf",
+    "googlePlaceId": "ChIJYb8Jcm7HxokRX_i4HYRDat8",
+    "googleRating": 4.5,
+    "googleReviewCount": 595
   },
   {
     "id": "pizzeria-vetri",
@@ -2588,7 +2855,10 @@
       "Participating in lunch and dinner.",
       "Offering indoor dining."
     ],
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmj325l14j2ewg7qdq0cgwgsp-pizzeria-vetri-dinner-26.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmj325l14j2ewg7qdq0cgwgsp-pizzeria-vetri-dinner-26.pdf",
+    "googlePlaceId": "ChIJyXmumTrGxokRzhaZwN5evfM",
+    "googleRating": 4.5,
+    "googleReviewCount": 1160
   },
   {
     "id": "pj-clarkes-at-the-curtis",
@@ -2612,7 +2882,10 @@
       "Participating in dinner only.",
       "Offering indoor and outdoor dining."
     ],
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkhbcqxxokdnayqduuuy88cj-pj-clarkes.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkhbcqxxokdnayqduuuy88cj-pj-clarkes.pdf",
+    "googlePlaceId": "ChIJEyJRfgTJxokRCW1n4lM5jWk",
+    "googleRating": 4.4,
+    "googleReviewCount": 597
   },
   {
     "id": "porcini",
@@ -2643,7 +2916,10 @@
     "closedDays": [
       "Sunday"
     ],
-    "largePartyNote": "Gratuity will be added to checks for parties of 6 or more."
+    "largePartyNote": "Gratuity will be added to checks for parties of 6 or more.",
+    "googlePlaceId": "ChIJv7OhnTfGxokRebORx3LdW9o",
+    "googleRating": 4.3,
+    "googleReviewCount": 327
   },
   {
     "id": "positano-coast-by-aldo-lamberti",
@@ -2673,7 +2949,10 @@
     "closedDays": [
       "Monday"
     ],
-    "largePartyNote": "Deposit required for large parties"
+    "largePartyNote": "Deposit required for large parties",
+    "googlePlaceId": "ChIJsRPbNIXIxokREqsjrq7cP3Q",
+    "googleRating": 4.4,
+    "googleReviewCount": 1812
   },
   {
     "id": "prunella",
@@ -2700,7 +2979,10 @@
     ],
     "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmk4jzr4ymaquw0qdeztmxlfa-prunella-rwmenu-01-18-26-lunch-updated.pdf",
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4jfc4imadpw0qd003t0qgp-prunella-rwmenu-01-18-25-dinner.pdf",
-    "largePartyNote": "Contact restaurant directly for large party reservations."
+    "largePartyNote": "Contact restaurant directly for large party reservations.",
+    "googlePlaceId": "ChIJK_XHFpzHxokRvuQGqI_1pqY",
+    "googleRating": 4.3,
+    "googleReviewCount": 480
   },
   {
     "id": "pub-kitchen",
@@ -2724,7 +3006,10 @@
       "Participating in dinner only.",
       "Offering indoor and outdoor dining"
     ],
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkij06miny4tniqd6rvy7om1-final-pub-and-kitchen-winter-rw-menu.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkij06miny4tniqd6rvy7om1-final-pub-and-kitchen-winter-rw-menu.pdf",
+    "googlePlaceId": "ChIJ0WQNKznGxokR8F47kKGhmUQ",
+    "googleRating": 4.4,
+    "googleReviewCount": 545
   },
   {
     "id": "radicchio-cafe",
@@ -2754,7 +3039,10 @@
     "dietaryOptions": [
       "Vegetarian",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJy16Re4fIxokRwISzWrWDxC0",
+    "googleRating": 4.6,
+    "googleReviewCount": 592
   },
   {
     "id": "restaurant-aleksandar",
@@ -2785,7 +3073,10 @@
     "dietaryOptions": [
       "Vegetarian",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJSaJnTGTHxokRT0KFsXzvMVw",
+    "googleRating": 4.1,
+    "googleReviewCount": 346
   },
   {
     "id": "rex-at-the-royal",
@@ -2820,7 +3111,10 @@
       "Vegetarian",
       "Vegan",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJlT7VlTzGxokRCBFKum31X-I",
+    "googleRating": 4.5,
+    "googleReviewCount": 788
   },
   {
     "id": "rhythm-and-spirits-philadelphia",
@@ -2851,7 +3145,10 @@
     "closedDays": [
       "Sunday"
     ],
-    "largePartyNote": "Gratuity will be added to check for parties of 6 or more."
+    "largePartyNote": "Gratuity will be added to check for parties of 6 or more.",
+    "googlePlaceId": "ChIJ5cpOERPHxokROUIqUlquF8o",
+    "googleRating": 4.9,
+    "googleReviewCount": 32
   },
   {
     "id": "rockwell-rose",
@@ -2879,7 +3176,10 @@
     "closedDays": [
       "Monday",
       "Tuesday"
-    ]
+    ],
+    "googlePlaceId": "ChIJY7LddfrJxokRP3Mj4V-RCeA",
+    "googleRating": 4.6,
+    "googleReviewCount": 28
   },
   {
     "id": "samba-steakhouse-philly",
@@ -2903,7 +3203,10 @@
       "Lunch menu available Thursday, Friday, Saturday and Sunday",
       "Offering indoor dining."
     ],
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmiqkgdp6hk8fw0qdzuumr4ti-samba-steakhouse-rw-2026-dinner-menu.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmiqkgdp6hk8fw0qdzuumr4ti-samba-steakhouse-rw-2026-dinner-menu.pdf",
+    "googlePlaceId": "ChIJUw_pR-7HxokRW8RUbC8xVTQ",
+    "googleRating": 4.5,
+    "googleReviewCount": 1028
   },
   {
     "id": "sampan",
@@ -2930,7 +3233,10 @@
       "Contact restaurant for large party reservations."
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4ix8uzmagv7iqdzemixiy7-sampan-rwmenu-01-18-26.pdf",
-    "largePartyNote": "Contact restaurant for large party reservations."
+    "largePartyNote": "Contact restaurant for large party reservations.",
+    "googlePlaceId": "ChIJQ3RRZi_GxokRa55i5Tz53OI",
+    "googleRating": 4.5,
+    "googleReviewCount": 2278
   },
   {
     "id": "seafood-unlimited",
@@ -2961,7 +3267,10 @@
     ],
     "dietaryOptions": [
       "Vegetarian"
-    ]
+    ],
+    "googlePlaceId": "ChIJzVLMrjnGxokRz7AG5oKJ-6w",
+    "googleRating": 4.3,
+    "googleReviewCount": 215
   },
   {
     "id": "south-restaurant-jazz-club",
@@ -2998,7 +3307,10 @@
       "Vegetarian",
       "Vegan",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJ1WsMX9HHxokRAEC4YQ677fE",
+    "googleRating": 4.6,
+    "googleReviewCount": 3362
   },
   {
     "id": "spasso-italian-grill",
@@ -3033,7 +3345,10 @@
       "Vegetarian",
       "Vegan",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJ6ZizgI_IxokRMfvmuRIZVKY",
+    "googleRating": 4.5,
+    "googleReviewCount": 1405
   },
   {
     "id": "spice-finch",
@@ -3060,7 +3375,10 @@
     "dietaryOptions": [
       "Vegetarian",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJNZkr8OfHxokRSRn5YayJoZI",
+    "googleRating": 4.5,
+    "googleReviewCount": 930
   },
   {
     "id": "square-1682",
@@ -3089,7 +3407,10 @@
     "closedDays": [
       "Sunday"
     ],
-    "largePartyNote": "Gratuity added for parties of 6 or more."
+    "largePartyNote": "Gratuity added for parties of 6 or more.",
+    "googlePlaceId": "ChIJBzQZYzDGxokRZzPeP310hr8",
+    "googleRating": 4.3,
+    "googleReviewCount": 729
   },
   {
     "id": "superfolie",
@@ -3116,7 +3437,10 @@
     ],
     "closedDays": [
       "Sunday"
-    ]
+    ],
+    "googlePlaceId": "ChIJV7mDzCrHxokR54jPeQWwq9w",
+    "googleRating": 4.7,
+    "googleReviewCount": 76
   },
   {
     "id": "sura-indian-bistro",
@@ -3147,7 +3471,10 @@
       "Vegan",
       "Halal",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJAQBc7TDGxokRwGqR7EoeUCw",
+    "googleRating": 4.2,
+    "googleReviewCount": 287
   },
   {
     "id": "tequila-s-casa-mexicana",
@@ -3174,7 +3501,10 @@
       "Max number for a table is 6 guests."
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkhbdstcnw5u27qdx6dq95aa-tequilas-26.pdf",
-    "largePartyNote": "Max number for a table is 6 guests."
+    "largePartyNote": "Max number for a table is 6 guests.",
+    "googlePlaceId": "ChIJS0l86zrGxokRSmp9b6VRJT8",
+    "googleRating": 4.6,
+    "googleReviewCount": 1083
   },
   {
     "id": "thanal-indian-tavern",
@@ -3207,7 +3537,10 @@
       "Vegan",
       "Gluten-free",
       "Halal"
-    ]
+    ],
+    "googlePlaceId": "ChIJFweiSFfHxokR48LhMjKCrDo",
+    "googleRating": 4.7,
+    "googleReviewCount": 2500
   },
   {
     "id": "topside-tavern",
@@ -3240,7 +3573,10 @@
       "Vegetarian",
       "Vegan",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJFZ6TuS7HxokR0nv-mBcdrmQ",
+    "googleRating": 4.5,
+    "googleReviewCount": 379
   },
   {
     "id": "trattoria-carina",
@@ -3264,7 +3600,10 @@
       "Participating in lunch, dinner and takeout.",
       "Offering indoor and outdoor dining."
     ],
-    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkij177ko51pk7qduanjjinn-final-restaurant-week-trattoria-carina-menu.pdf"
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkij177ko51pk7qduanjjinn-final-restaurant-week-trattoria-carina-menu.pdf",
+    "googlePlaceId": "ChIJefqHgEfGxokR2yiX5q2ggWw",
+    "googleRating": 4.5,
+    "googleReviewCount": 591
   },
   {
     "id": "the-twisted-tail",
@@ -3295,7 +3634,10 @@
       "Vegetarian",
       "Vegan",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJ7RDIKZrIxokRlsVAmP_3P8g",
+    "googleRating": 4.4,
+    "googleReviewCount": 1571
   },
   {
     "id": "umami-steak-and-sushi-bar",
@@ -3324,7 +3666,10 @@
     "dietaryOptions": [
       "Vegetarian",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJaZ9HQJPJxokRRb9EIqdwmJE",
+    "googleRating": 4.7,
+    "googleReviewCount": 306
   },
   {
     "id": "veda-modern-indian-bistro",
@@ -3354,7 +3699,10 @@
       "Vegetarian",
       "Gluten-free",
       "Vegan"
-    ]
+    ],
+    "googlePlaceId": "ChIJtd5CODfGxokR2ud4d5oJZik",
+    "googleRating": 4.3,
+    "googleReviewCount": 1701
   },
   {
     "id": "via-locusta",
@@ -3381,7 +3729,10 @@
       "Contact restaurant directly for large group reservations."
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4j0rbjmdnvuzqdecwolie8-via-locusta-2026.pdf",
-    "largePartyNote": "Contact restaurant directly for large group reservations."
+    "largePartyNote": "Contact restaurant directly for large group reservations.",
+    "googlePlaceId": "ChIJX6c5BajHxokRW4G0y0ZU4q4",
+    "googleRating": 4.5,
+    "googleReviewCount": 740
   },
   {
     "id": "village-whiskey",
@@ -3407,7 +3758,10 @@
       "Vegetarian",
       "Vegan",
       "Gluten-free"
-    ]
+    ],
+    "googlePlaceId": "ChIJLfhKaTfGxokRiOZL6x398WY",
+    "googleRating": 4.4,
+    "googleReviewCount": 1564
   },
   {
     "id": "vita",
@@ -3444,7 +3798,10 @@
       "While not every course can be adjusted for different allergies or sensitivities",
       "we can accommodate vegetarian",
       "gluten free items."
-    ]
+    ],
+    "googlePlaceId": "ChIJ0fmqgN7HxokRjzGpsYNbNzk",
+    "googleRating": 4.4,
+    "googleReviewCount": 344
   },
   {
     "id": "wilder",
@@ -3470,6 +3827,9 @@
       "We accept reservations for groups up to 13 guests."
     ],
     "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmjiu9giqkh0y27qdfcwkk3me-wilder-26.pdf",
-    "largePartyNote": "We accept reservations for groups up to 13 guests."
+    "largePartyNote": "We accept reservations for groups up to 13 guests.",
+    "googlePlaceId": "ChIJrWKnrM3HxokRykMoFT3yhpk",
+    "googleRating": 4.6,
+    "googleReviewCount": 907
   }
 ]
