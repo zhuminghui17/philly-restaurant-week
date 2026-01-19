@@ -9,7 +9,7 @@ import { FilterPanel } from "@/components/restaurant/FilterPanel";
 import { AssistantChat } from "@/components/chat/AssistantChat";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
-import { Map, List, Filter } from "lucide-react";
+import { Map, List, Filter, PanelLeftClose, PanelLeft } from "lucide-react";
 
 // Import static restaurant data
 import restaurantsData from "@/data/restaurants.json";
@@ -22,8 +22,10 @@ const GOOGLE_MAPS_API_KEY = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY || "";
 export default function Home() {
   const [selectedRestaurant, setSelectedRestaurant] = useState<Restaurant | null>(null);
   const [showFilters, setShowFilters] = useState(false);
+  const [sidebarOpen, setSidebarOpen] = useState(true);
   const [activeView, setActiveView] = useState<"map" | "list">("map");
   const [filters, setFilters] = useState<FilterState>({
+    cuisineTypes: [],
     menuTypes: { lunch20: false, dinner45: false, dinner60: false },
     dietaryOptions: [],
     diningOptions: { indoor: false, outdoor: false, takeout: false },
@@ -41,8 +43,18 @@ export default function Home() {
         const matchesSearch =
           restaurant.name.toLowerCase().includes(query) ||
           restaurant.address.toLowerCase().includes(query) ||
-          restaurant.dietaryOptions?.some((d) => d.toLowerCase().includes(query));
+          restaurant.dietaryOptions?.some((d) => d.toLowerCase().includes(query)) ||
+          restaurant.cuisineTypes?.some((c) => c.toLowerCase().includes(query));
         if (!matchesSearch) return false;
+      }
+
+      // Cuisine types - if any selected, must match at least one
+      if (filters.cuisineTypes.length > 0) {
+        const restaurantCuisines = restaurant.cuisineTypes || [];
+        const matchesCuisine = filters.cuisineTypes.some((cuisine) =>
+          restaurantCuisines.includes(cuisine)
+        );
+        if (!matchesCuisine) return false;
       }
 
       // Menu types - if any selected, must match at least one
@@ -139,7 +151,7 @@ export default function Home() {
                   <Filter className="h-5 w-5" />
                 </Button>
               </SheetTrigger>
-              <SheetContent side="left" className="w-[300px] p-0">
+              <SheetContent side="left" className="w-fit min-w-[280px] max-w-[85vw] p-0">
                 <FilterPanel
                   filters={filters}
                   onFiltersChange={setFilters}
@@ -161,7 +173,11 @@ export default function Home() {
       {/* Main Content */}
       <div className="flex-1 flex overflow-hidden">
         {/* Sidebar - Desktop */}
-        <aside className="hidden md:flex w-[320px] flex-col border-r border-[#1a2744]/10">
+        <aside
+          className={`hidden md:flex flex-col border-r border-[#1a2744]/10 transition-all duration-300 ${
+            sidebarOpen ? "w-fit min-w-[280px] max-w-[400px]" : "w-0 min-w-0 overflow-hidden"
+          }`}
+        >
           <FilterPanel
             filters={filters}
             onFiltersChange={setFilters}
@@ -172,6 +188,19 @@ export default function Home() {
 
         {/* Main View */}
         <main className="flex-1 relative">
+          {/* Sidebar Toggle Button - Desktop */}
+          <Button
+            variant="outline"
+            size="icon"
+            onClick={() => setSidebarOpen(!sidebarOpen)}
+            className="hidden md:flex absolute bottom-4 left-4 z-20 bg-white shadow-md hover:bg-gray-50"
+          >
+            {sidebarOpen ? (
+              <PanelLeftClose className="h-4 w-4" />
+            ) : (
+              <PanelLeft className="h-4 w-4" />
+            )}
+          </Button>
           {/* Mobile View Toggle */}
           <div className="md:hidden absolute top-4 left-1/2 -translate-x-1/2 z-10">
             <div className="flex items-center bg-white rounded-lg shadow-lg p-1">
