@@ -17,6 +17,7 @@ import {
   Star,
   Wine,
   Calendar,
+  FileText,
 } from "lucide-react";
 
 interface RestaurantCardProps {
@@ -82,18 +83,63 @@ export function RestaurantCard({
         {/* Price Tiers */}
         <div className="flex flex-wrap gap-1.5 mt-2">
           {restaurant.offersLunch20 && (
-            <Badge className="bg-[#4a9c6d] hover:bg-[#3a8c5d] text-white text-xs">
-              $20 Lunch
+            <Badge
+              asChild={Boolean(restaurant.Lunch20MenuLink)}
+              className="bg-[#4a9c6d] hover:bg-[#3a8c5d] text-white text-xs"
+            >
+              {restaurant.Lunch20MenuLink ? (
+                <a
+                  href={restaurant.Lunch20MenuLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center"
+                >
+                  $20 Lunch
+                  <FileText className="h-3 w-3 ml-1" />
+                </a>
+              ) : (
+                "$20 Lunch"
+              )}
             </Badge>
           )}
           {restaurant.offersDinner45 && (
-            <Badge className="bg-[#1a2744] hover:bg-[#1a2744]/80 text-white text-xs">
-              $45 Dinner
+            <Badge
+              asChild={Boolean(restaurant.Dinner45MenuLink)}
+              className="bg-[#1a2744] hover:bg-[#1a2744]/80 text-white text-xs"
+            >
+              {restaurant.Dinner45MenuLink ? (
+                <a
+                  href={restaurant.Dinner45MenuLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center"
+                >
+                  $45 Dinner
+                  <FileText className="h-3 w-3 ml-1" />
+                </a>
+              ) : (
+                "$45 Dinner"
+              )}
             </Badge>
           )}
           {restaurant.offersDinner60 && (
-            <Badge className="bg-[#d4a853] hover:bg-[#c49943] text-white text-xs">
-              $60 Dinner
+            <Badge
+              asChild={Boolean(restaurant.Dinner60MenuLink)}
+              className="bg-[#d4a853] hover:bg-[#c49943] text-white text-xs"
+            >
+              {restaurant.Dinner60MenuLink ? (
+                <a
+                  href={restaurant.Dinner60MenuLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center"
+                >
+                  $60 Dinner
+                  <FileText className="h-3 w-3 ml-1" />
+                </a>
+              ) : (
+                "$60 Dinner"
+              )}
             </Badge>
           )}
         </div>
