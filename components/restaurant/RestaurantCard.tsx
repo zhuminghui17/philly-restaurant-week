@@ -13,7 +13,6 @@ import {
   Sun,
   Home,
   ShoppingBag,
-  ExternalLink,
   X,
   Star,
   Wine,
@@ -193,12 +192,12 @@ export function RestaurantCard({
         )}
 
         {/* Action Buttons */}
-        <div className="flex gap-2 pt-2">
+        <div className={`grid gap-2 pt-2 ${restaurant.website ? "grid-cols-2" : "grid-cols-1"}`}>
           {restaurant.website && (
             <Button
               variant="outline"
               size="sm"
-              className="flex-1 border-[#1a2744]/20 hover:bg-[#1a2744] hover:text-white"
+              className="w-full border-[#1a2744]/20 hover:bg-[#1a2744] hover:text-white"
               asChild
             >
               <a href={restaurant.website} target="_blank" rel="noopener noreferrer">
@@ -209,18 +208,18 @@ export function RestaurantCard({
           )}
           <Button
             size="sm"
-            className="flex-1 bg-[#d4a853] hover:bg-[#c49943] text-white"
+            className="w-full bg-[#d4a853] hover:bg-[#c49943] text-white"
             asChild
           >
             <a
-              href={`https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(
-                restaurant.address
+              href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+                restaurant.name + ", " + restaurant.address
               )}`}
               target="_blank"
               rel="noopener noreferrer"
             >
-              <ExternalLink className="h-4 w-4 mr-2" />
-              Directions
+              <MapPin className="h-4 w-4 mr-2" />
+              Google Maps
             </a>
           </Button>
         </div>
