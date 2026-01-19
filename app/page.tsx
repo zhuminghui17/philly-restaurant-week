@@ -98,8 +98,8 @@ export default function Home() {
   return (
     <div className="h-screen flex flex-col bg-[#faf8f5]">
       {/* Header */}
-      <header className="bg-[#1a2744] text-white px-4 py-4 shadow-lg">
-        <div className="max-w-7xl mx-auto flex items-center justify-between">
+      <header className="bg-[#1a2744] text-white px-4 py-3 shadow-lg">
+        <div className="flex items-center justify-between">
           <div className="flex items-center gap-4">
             <h1 className="font-serif text-xl md:text-2xl font-bold tracking-tight">
               Philly Restaurant Week
