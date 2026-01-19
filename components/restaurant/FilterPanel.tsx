@@ -1,6 +1,6 @@
 "use client";
 
-import { FilterState, Restaurant } from "@/lib/types";
+import { FilterState, Restaurant, CUISINE_COLORS } from "@/lib/types";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Checkbox } from "@/components/ui/checkbox";
@@ -21,6 +21,11 @@ export function FilterPanel({
   restaurants,
   filteredCount,
 }: FilterPanelProps) {
+  // Extract unique cuisine types from restaurants
+  const allCuisineTypes = [
+    ...new Set(restaurants.flatMap((r) => r.cuisineTypes || [])),
+  ].sort();
+
   // Extract unique dietary options from restaurants
   const allDietaryOptions = [
     ...new Set(restaurants.flatMap((r) => r.dietaryOptions || [])),
@@ -28,6 +33,13 @@ export function FilterPanel({
 
   const updateFilters = (updates: Partial<FilterState>) => {
     onFiltersChange({ ...filters, ...updates });
+  };
+
+  const toggleCuisine = (cuisine: string) => {
+    const newCuisines = filters.cuisineTypes.includes(cuisine)
+      ? filters.cuisineTypes.filter((c) => c !== cuisine)
+      : [...filters.cuisineTypes, cuisine];
+    updateFilters({ cuisineTypes: newCuisines });
   };
 
   const toggleMenuType = (type: "lunch20" | "dinner45" | "dinner60") => {
@@ -70,6 +82,7 @@ export function FilterPanel({
 
   const resetFilters = () => {
     onFiltersChange({
+      cuisineTypes: [],
       menuTypes: { lunch20: false, dinner45: false, dinner60: false },
       dietaryOptions: [],
       diningOptions: { indoor: false, outdoor: false, takeout: false },
@@ -80,6 +93,7 @@ export function FilterPanel({
   };
 
   const hasActiveFilters =
+    filters.cuisineTypes.length > 0 ||
     filters.menuTypes.lunch20 ||
     filters.menuTypes.dinner45 ||
     filters.menuTypes.dinner60 ||
@@ -136,6 +150,39 @@ export function FilterPanel({
             <X className="h-4 w-4" />
           </Button>
         )}
+      </div>
+
+      <Separator className="bg-[#1a2744]/10" />
+
+      {/* Cuisine Types - NOW FIRST */}
+      <div className="space-y-3">
+        <Label className="text-sm font-medium text-[#1a2744]">Cuisine</Label>
+        <div className="flex flex-wrap gap-2">
+          {allCuisineTypes.map((cuisine) => {
+            const isSelected = filters.cuisineTypes.includes(cuisine);
+            const color = CUISINE_COLORS[cuisine] || "#6b7280";
+            return (
+              <Button
+                key={cuisine}
+                variant={isSelected ? "default" : "outline"}
+                size="sm"
+                onClick={() => toggleCuisine(cuisine)}
+                className="text-xs"
+                style={{
+                  backgroundColor: isSelected ? color : "transparent",
+                  borderColor: color,
+                  color: isSelected ? "#ffffff" : color,
+                }}
+              >
+                <span
+                  className="w-2 h-2 rounded-full mr-1.5"
+                  style={{ backgroundColor: color }}
+                />
+                {cuisine}
+              </Button>
+            );
+          })}
+        </div>
       </div>
 
       <Separator className="bg-[#1a2744]/10" />
