@@ -1798,7 +1798,7 @@
     "largePartyNote": "Contact restaurant for parties larger than 6",
     "dietaryOptions": [
       "Vegetarian",
-      "Glute-free"
+      "Gluten-free"
     ],
     "googlePlaceId": "ChIJ73IKj6bHxokRkjx4QyQS7YE",
     "googleRating": 4.2,
@@ -4150,8 +4150,8 @@
     "largePartyNote": "Gratuity will be added to check for parties of 6 or more.",
     "dietaryOptions": [
       "While not every course can be adjusted for different allergies or sensitivities",
-      "we can accommodate vegetarian",
-      "gluten free items."
+      "we can accommodate vegetarian, gluten-free items.",
+      ""
     ],
     "googlePlaceId": "ChIJ0fmqgN7HxokRjzGpsYNbNzk",
     "googleRating": 4.4,
