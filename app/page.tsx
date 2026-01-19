@@ -102,7 +102,7 @@ export default function Home() {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-4">
             <h1 className="text-xl md:text-2xl font-bold tracking-tight">
-              Philly Center City Restaurant Week
+              Philly Restaurant Week
             </h1>
             <span className="hidden md:inline-block text-[#d4a853] text-sm font-medium">
               January 18 - 31, 2026
