@@ -74,25 +74,25 @@ export interface FilterState {
 
 // Cuisine color mapping for map pins and UI
 export const CUISINE_COLORS: Record<string, string> = {
-  American: "#3b82f6",      // Blue
-  Asian: "#ef4444",         // Red
-  Brazilian: "#22c55e",     // Green
-  Cuban: "#f97316",         // Orange
-  European: "#8b5cf6",      // Purple
-  French: "#ec4899",        // Pink
-  Greek: "#06b6d4",         // Cyan
-  Indian: "#f59e0b",        // Amber
-  Italian: "#10b981",       // Emerald
-  Japanese: "#e11d48",      // Rose
-  "Latin American": "#84cc16", // Lime
-  Mediterranean: "#14b8a6", // Teal
-  Mexican: "#eab308",       // Yellow
-  Seafood: "#0ea5e9",       // Sky
-  Southern: "#a855f7",      // Violet
-  Spanish: "#dc2626",       // Red-600
-  "Tex-Mex": "#facc15",     // Yellow-400
-  Thai: "#f472b6",          // Pink-400
-  Vegan: "#4ade80",         // Green-400
+  American: "#d4a665",      // tan
+  Asian: "#dd3002",         // red
+  Brazilian: "#64b6b8",     // teal
+  Cuban: "#a27824",         // brown
+  European: "#9ab8c7",      // soft blue
+  French: "#d8bdc5",        // soft pink
+  Greek: "#026d8a",         // deep teal
+  Indian: "#e29712",        // amber
+  Italian: "#505a1f",       // olive
+  Japanese: "#0f234d",      // navy
+  "Latin American": "#da575a", // coral
+  Mediterranean: "#2291a5", // blue teal
+  Mexican: "#d77019",       // orange
+  Seafood: "#a7d3d9",       // light aqua
+  Southern: "#6a564d",      // warm brown
+  Spanish: "#a82a19",       // deep red
+  "Tex-Mex": "#e3e569",     // yellow-green
+  Thai: "#a1595c",          // dusty rose
+  Vegan: "#bbc1ab",         // sage
 };
 
 // For the AI chat tools
