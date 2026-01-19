@@ -52,6 +52,7 @@ export interface Restaurant {
 
 // Filter state for the UI
 export interface FilterState {
+  cuisineTypes: string[];
   menuTypes: {
     lunch20: boolean;
     dinner45: boolean;
@@ -70,6 +71,29 @@ export interface FilterState {
   minRating?: number;
   searchQuery: string;
 }
+
+// Cuisine color mapping for map pins and UI
+export const CUISINE_COLORS: Record<string, string> = {
+  American: "#3b82f6",      // Blue
+  Asian: "#ef4444",         // Red
+  Brazilian: "#22c55e",     // Green
+  Cuban: "#f97316",         // Orange
+  European: "#8b5cf6",      // Purple
+  French: "#ec4899",        // Pink
+  Greek: "#06b6d4",         // Cyan
+  Indian: "#f59e0b",        // Amber
+  Italian: "#10b981",       // Emerald
+  Japanese: "#e11d48",      // Rose
+  "Latin American": "#84cc16", // Lime
+  Mediterranean: "#14b8a6", // Teal
+  Mexican: "#eab308",       // Yellow
+  Seafood: "#0ea5e9",       // Sky
+  Southern: "#a855f7",      // Violet
+  Spanish: "#dc2626",       // Red-600
+  "Tex-Mex": "#facc15",     // Yellow-400
+  Thai: "#f472b6",          // Pink-400
+  Vegan: "#4ade80",         // Green-400
+};
 
 // For the AI chat tools
 // export interface RestaurantSearchParams {
