@@ -30,12 +30,12 @@ export function RestaurantList({
   }
 
   return (
-    <ScrollArea className="h-full">
-      <div className="flex flex-col gap-4 p-4 mx-auto">
+    <ScrollArea className="h-full w-full min-w-0">
+      <div className="flex w-full min-w-0 flex-col gap-4 p-4">
         {restaurants.map((restaurant) => (
           <div
             key={restaurant.id}
-            className={`w-full cursor-pointer transition-all duration-200 rounded-lg ${
+            className={`w-full min-w-0 cursor-pointer transition-all duration-200 rounded-lg ${
               selectedRestaurant?.id === restaurant.id
                 ? "ring-2 ring-[#d4a853] ring-offset-2"
                 : "hover:ring-1 hover:ring-[#1a2744]/20"

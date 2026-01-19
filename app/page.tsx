@@ -171,7 +171,7 @@ export default function Home() {
       </div>
 
       {/* Main Content */}
-      <div className="flex-1 flex overflow-hidden">
+      <div className="flex-1 flex overflow-hidden min-w-0">
         {/* Sidebar - Desktop */}
         <aside
           className={`hidden md:flex flex-col border-r border-[#1a2744]/10 transition-all duration-300 ${
@@ -187,7 +187,7 @@ export default function Home() {
         </aside>
 
         {/* Main View */}
-        <main className="flex-1 relative">
+        <main className="flex-1 relative min-w-0">
           {/* Sidebar Toggle Button - Desktop */}
           <Button
             variant="outline"
@@ -276,7 +276,7 @@ export default function Home() {
 
           {/* List View */}
           {activeView === "list" && (
-            <div className="h-full bg-[#faf8f5]">
+            <div className="h-full w-full min-w-0 bg-[#faf8f5]">
               <RestaurantList
                 restaurants={filteredRestaurants}
                 selectedRestaurant={selectedRestaurant}
