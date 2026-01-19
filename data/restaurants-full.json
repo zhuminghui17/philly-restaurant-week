@@ -1,0 +1,2700 @@
+[
+  {
+    "id": "a-kitchen",
+    "name": "a.kitchen",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/akitchen-bar",
+    "address": "135 S 18th St, Philadephia, PA 19103",
+    "lat": 39.9503603,
+    "lng": -75.1704529,
+    "phone": "215.825.7030",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": true,
+    "offersTakeout": true,
+    "website": "http://akitchenandbar.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout.",
+      "Offering indoor and outdoor dining",
+      "Parties of 7 or more must orderfrom the Restaurant Week menu"
+    ],
+    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmkhb92j3nw4y27qdvs9a9mf3-akitchen-26.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "aki-nom-nom",
+    "name": "Aki Nom Nom",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/aki-nom-nom",
+    "address": "1210 Walnut St, Philadelphia, PA 19107",
+    "lat": 39.948699,
+    "lng": -75.1611732,
+    "phone": "215.985.1838",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "https://www.akinomnom.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Lunch is available Monday",
+      "Friday",
+      "Offering indoor dining."
+    ],
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "alice-pizza",
+    "name": "Alice Pizza",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/alice-pizza",
+    "address": "235 S 15th Street, Philadelphia, PA 19102",
+    "lat": 39.9481407,
+    "lng": -75.1660753,
+    "phone": "215.545.2020",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.alicephilly.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Offering indoor dining.",
+      "Gratutity will be added to every check."
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmiqka1onhmiy27qd4fmx1o1p-alice-pizza-rw-2026-lunch-menu.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmjiue4kjkcpfg7qdjju51q8f-alicepizza-2026rwdinnerwinter.pdf",
+    "dietaryOptions": [
+      "Vegetarian"
+    ]
+  },
+  {
+    "id": "amada-philadelphia",
+    "name": "Amada Philadelphia",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/amada-philadelphia",
+    "address": "217-219 Chestnut St, Philadelphia, PA 19106",
+    "lat": 39.9487227,
+    "lng": -75.1448668,
+    "phone": "215.625.2450",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.amadarestaurant.com/amada-philadelphia",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkhbhlp8nw6k27qdhhdoe2nc-udate-amada.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "ambrosia-ristorante",
+    "name": "Ambrosia Ristorante",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/ambrosia-ristorante",
+    "address": "231 S 24th Street, Philadelphia, PA 19103",
+    "lat": 39.9500065,
+    "lng": -75.1796408,
+    "phone": "215.703.2010",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.ambrosiaphilly.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Lunch offered Monday",
+      "Friday only.",
+      "Offering indoor and outdoor dining.",
+      "BYOB (wine only, no corkage fee)"
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmixclantikpsw0qdbujshrxf-ambrosia-lunch.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmixbunz0iknow0qd7a51p7vu-ambrosia-2026.pdf"
+  },
+  {
+    "id": "bank-bourbon",
+    "name": "Bank & Bourbon",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/bank-bourbon",
+    "address": "1200 Market St, Philadelphia, PA 19107",
+    "lat": 39.9515991,
+    "lng": -75.1602673,
+    "phone": "215.231.7300",
+    "offersLunch20": true,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://bankandbourbon.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch and dinner.",
+      "RW lunch menu is available Monday",
+      "Friday",
+      "Offering indoor dining.",
+      "Call for reservations"
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmkbdwxbcn117g7qdpngopc2q-bank-bourbon-rw-lunch-january-2026-final.pdf",
+    "dietaryOptions": [
+      "Vegetarian"
+    ]
+  },
+  {
+    "id": "bar-bombon",
+    "name": "Bar Bombon",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/bar-bombon",
+    "address": "133 S 18th St, Philadelphia, PA 19103",
+    "lat": 39.9506056,
+    "lng": -75.1703474,
+    "phone": "267.606.6612",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://barbombon.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch and dinner.",
+      "RW lunch menu is available on Thursdays and Fridays",
+      "Offering indoor and outdoor dining.",
+      "Not participating on Saturdays",
+      "Auto gratuity will be applied to every check"
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmk5pcgd8ml5b27qdkuo6rv55-bar-bombon-lunch.png",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmixcyiqiischk7qd1j9vmjm6-bar-bombon-dinner-26.png",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Vegan",
+      "Kosher"
+    ]
+  },
+  {
+    "id": "barbuzzo",
+    "name": "Barbuzzo",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/barbuzzo",
+    "address": "110 S 13th St, Philadelphia, PA 19107",
+    "lat": 39.9500062,
+    "lng": -75.1621608,
+    "phone": "215.546.9300",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.barbuzzo.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout",
+      "Offering indoor and outdoor dining.",
+      "Contact restaurant directly for large group reservations"
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfr2a7rnjl17iqdka0kl75c-rw-2026-barbuzzo-dinner-menu-x.pdf"
+  },
+  {
+    "id": "barra-rossa",
+    "name": "Barra Rossa",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/barra-rossa",
+    "address": "929 Walnut St, Philadephia, PA 19107",
+    "lat": 39.948561,
+    "lng": -75.15718,
+    "phone": "215.644.9074",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.barrarossa.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch dinner and takeout",
+      "Offering indoor and outdoor dining.",
+      "Contact restaurant directly for large group reservations",
+      "Gratuity will be added to every check."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkcpbff3n6h0g7qdejkitpro-barra-rossa-dinner.png",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free",
+      "Vegan"
+    ]
+  },
+  {
+    "id": "bellini",
+    "name": "Bellini",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/bellini",
+    "address": "220 S 16th St, Philadelphia, PA 19102",
+    "lat": 39.9490852,
+    "lng": -75.1678993,
+    "phone": "215.545.1191",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "https://belliniphiladelphia.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout.",
+      "Offering indoor dining.",
+      "Gratuity will be added to every check."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4j6tbnmfar27qd6fg67dsp-bellini-2026-restaurant-week-menu.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "bistro-la-baia",
+    "name": "Bistro La Baia",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/bistro-la-baia",
+    "address": "1700 Lombard St, Philadelphia, PA 19146",
+    "lat": 39.945162,
+    "lng": -75.1702591,
+    "phone": "267.687.1561",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "https://www.bistrolabaia.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout.",
+      "Offering indoor and outdoor dining.",
+      "BYOB.",
+      "Call restaurant directly for large party reservations."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk5qhcgkn9c9ayqdrv91j495-bistro-la-baia-rw-26.pdf"
+  },
+  {
+    "id": "bistro-romano",
+    "name": "Bistro Romano",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/bistro-romano",
+    "address": "120 Lombard St, Philadelphia, PA 19147",
+    "lat": 39.9418627,
+    "lng": -75.1447285,
+    "phone": "215.925.8880",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.bistroromano.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout.",
+      "Offering indoor dining.",
+      "Closed Mondays and Tuesdays.",
+      "Gratuity will be added to checks for parties of 6 or more."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4irkpqmf6e27qdqh4xoywy-bistro-romano-2026-ccrw-jan-menu-jma.pdf"
+  },
+  {
+    "id": "bleu-sushi",
+    "name": "Bleu Sushi",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/bleu-sushi",
+    "address": "262 S 10th St, Philadelphia, PA 19107",
+    "lat": 39.9465294,
+    "lng": -75.1579951,
+    "phone": "215.829.0800",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.bleusushi.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Offering indoor dining.",
+      "BYOB"
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmk1c881vlvvc7iqdjqx56enm-bleu-restaurant-week-january-2026.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk1c881vlvvc7iqdjqx56enm-bleu-restaurant-week-january-2026.pdf"
+  },
+  {
+    "id": "bodega-taco-bar",
+    "name": "Bodega Taco Bar",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/bodega-taco-bar",
+    "address": "1223 Walnut Street, Philadelphia, PA 19107",
+    "lat": 39.9492586,
+    "lng": -75.1616055,
+    "phone": "215.644.9373",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "https://www.bodegaphilly.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout.",
+      "Offering indoor and outdoor dining.",
+      "Closed Sundays",
+      "Gratuity will be added to checks for parties of 6 or more."
+    ]
+  },
+  {
+    "id": "bolo",
+    "name": "Bolo",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/bolo",
+    "address": "2025 Sansom St, Philadelphia, PA 19103",
+    "lat": 39.9516017,
+    "lng": -75.17455009999999,
+    "phone": "267.639.2741",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.bolophl.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Gratuity will be added to check for parties of 8 or more and 3% credit card processing fee (not applicable to debit cards or cash)"
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkba2swin7onk7qd2p3a5427-bolo-rw-2026.pdf"
+  },
+  {
+    "id": "bridget-foy-s",
+    "name": "Bridget Foy's",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/bridget-foys",
+    "address": "200 South Street, Philadelphia, PA 19147",
+    "lat": 39.941128,
+    "lng": -75.14592429999999,
+    "phone": "215.922.1813",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.bridgetfoys.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch and dinner.",
+      "Lunch is available on Monday, Wednesday, Thursday and Friday.",
+      "Offering indoor and outdoor dining.",
+      "Closed on Tuesdays.",
+      "Gratuity will be added to checks for parties of 6 or more."
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmkcvdcptn65xw0qduytipbdj-bf-rw-2026-lunch-postcard-3.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkhbn7luokfbayqd52hvl1j6-bridget-foys.pdf"
+  },
+  {
+    "id": "buca-d-oro-ristorante",
+    "name": "Buca D'oro Ristorante",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/buca-d-oro-ristorante",
+    "address": "711 Locust St, Philadelphia PA, 19106",
+    "lat": 39.9470214,
+    "lng": -75.1540259,
+    "phone": "215.928.0556",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://bucadororistorante.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Lunch is available every day except Sunday.",
+      "Offering indoor dining.",
+      "Everyone at table must order from RW menu in order to recieve the deal."
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmkeiyh64o6kbayqdcd81j1uo-buca-doro-rest-week-2026-lunch.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkijjwqony9cniqd8sm4rwkr-buca-doro-dinner.pdf",
+    "dietaryOptions": [
+      "Gluten-free",
+      "Vegetarian"
+    ]
+  },
+  {
+    "id": "bud-marilyn-s",
+    "name": "Bud & Marilyn's",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/bud-marilyns",
+    "address": "1234 Locust St, Philadephia, PA 19107",
+    "lat": 39.94780799999999,
+    "lng": -75.16218429999999,
+    "phone": "215.546.2100",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.budandmarilyns.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout.",
+      "Offering indoor dining.",
+      "Contact restaurant directly for large party reservations"
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfr2a8gnkp0niqdeg083eih-rw-2026-buds-dinner-menu-x.pdf"
+  },
+  {
+    "id": "buddakan",
+    "name": "Buddakan",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/buddakan",
+    "address": "325 Chestnut St, Philadelphia, PA 19106",
+    "lat": 39.9489941,
+    "lng": -75.14727909999999,
+    "phone": "215.574.9440",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.buddakan.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor seating."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkeklqygne3s7iqd8328nm0a-buddakhan-dinner-26.pdf",
+    "dietaryOptions": [
+      "Vegetarian"
+    ]
+  },
+  {
+    "id": "butcher-bar",
+    "name": "Butcher Bar",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/butcher-bar",
+    "address": "2034 Chestnut St, Philadelphia PA 19103",
+    "lat": 39.9520979,
+    "lng": -75.17489870000001,
+    "phone": "215.563.6328",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.butcherbarphilly.com/",
+    "restaurantWeekDetails": [
+      "Participating in lunch and dinner.",
+      "Offering indoor dining.",
+      "RW lunch menu is available Monday",
+      "Friday.",
+      "Gratuity will be added to checks for parties of 5 or more."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfsxc6anngcuzqd0g3po94z-butcher-jan-rw-2026-ccd-b.pdf"
+  },
+  {
+    "id": "caribou-caf",
+    "name": "Caribou Café",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/caribou-café",
+    "address": "1126 Walnut St, Philadelphia, PA 19107",
+    "lat": 39.9487806,
+    "lng": -75.1602747,
+    "phone": "267.951.2190",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://cariboucafe.com/",
+    "restaurantWeekDetails": [
+      "Participating in lunch and dinner.",
+      "Offering indoor dining.",
+      "Closed on Mondays",
+      "Contact restaurant for reservations for parties of 7 or more."
+    ],
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "charlie-was-a-sinner",
+    "name": "Charlie was a sinner.",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/charlie-was-a-sinner",
+    "address": "131 S 13th St, Philadelphia, PA 19107",
+    "lat": 39.9495229,
+    "lng": -75.16178049999999,
+    "phone": "267.758.5372",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://charliewasasinner.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor and outdoor dining.",
+      "Not participating in Restaurant Week on Saturdays.",
+      "Gratuity will be added to every check"
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmixd1iioil9i7iqdiy5l2nfz-charlie-was-a-sinner-dinner-26.png",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Vegan",
+      "Kosher"
+    ]
+  },
+  {
+    "id": "ch-teau-rouge",
+    "name": "Château Rouge",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/château-rouge",
+    "address": "2108 South St, Philadelphia, PA 19146",
+    "lat": 39.9449727,
+    "lng": -75.1773951,
+    "phone": "445.223.4110",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://chateaurougephilly.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Gratuity will be added to every check.",
+      "BYOB"
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmiqkgd3uhl7uniqdl44ldfvl-chateau-rouge-rw-2026-dinner-menu.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "city-winery",
+    "name": "City Winery",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/city-winery",
+    "address": "990 Filbert St, Philadelphia, PA 19107",
+    "lat": 39.9524744,
+    "lng": -75.1562478,
+    "phone": "267.479.7373",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": true,
+    "offersTakeout": false,
+    "website": "https://citywinery.com/philadelphia/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Parties of 10+ must be booked through eventsphiladelphia@citywinery.com"
+    ],
+    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmkfyz6c3npi427qd37729qnb-city-winery-dinner.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "con-murphy-s-irish-pub",
+    "name": "Con Murphy's Irish Pub",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/con-murphy-s-irish-pub",
+    "address": "1700 Ben Franklin Pkwy, Philadelphia, PA 19103",
+    "lat": 39.9557397,
+    "lng": -75.1681469,
+    "phone": "267.687.1128",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.conmurphyspub.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch and dinner.",
+      "Offering indoor and outdoor dining."
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmkej0vgonhasuzqdmxsui0m0-conmurphys-rw-2026-lunch.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfz0kddnlvqg7qddzv8ogfy-con-murphys-dinner.pdf"
+  },
+  {
+    "id": "condesa",
+    "name": "Condesa",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/condesa",
+    "address": "1830 Ludlow St., Philadelphia, PA 19103",
+    "lat": 39.952462,
+    "lng": -75.1711948,
+    "phone": "267.930.5600",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.condesaphilly.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner.",
+      "Offering indoor and outdoor dining.",
+      "Closed on Sundays",
+      "Accomodates parties up to 16 guests"
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkcugsu4n6c87iqd103q5zbv-condesa-dinner-restaurant-week-2026.pdf"
+  },
+  {
+    "id": "cry-baby-pasta",
+    "name": "Cry Baby Pasta",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/cry-baby-pasta",
+    "address": "627 S 3rd Street, Philadelphia, PA 19147",
+    "lat": 39.9406127,
+    "lng": -75.147572,
+    "phone": "267.534.3076",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": true,
+    "offersTakeout": true,
+    "website": "http://www.crybabypasta.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Offering indoor dining.",
+      "Closed on Mondays",
+      "Gratutity will be added for parties of 6 or more",
+      "Parties of 6 or more can be booked by phone."
+    ],
+    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmk4i68ksn34uayqdllf5mwpc-cry-baby-pasta.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "cuba-libre-restaurant-rum-bar",
+    "name": "Cuba Libre Restaurant & Rum Bar",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/cuba-libre-restaurant-rum-bar",
+    "address": "10 S 2nd St, Philadelphia, PA 19106",
+    "lat": 39.9496099,
+    "lng": -75.14394039999999,
+    "phone": "215.627.0666",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "https://cubalibrerestaurant.com/en/philadelphia/",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout.",
+      "Offering indoor dining.",
+      "20% gratuity will be added to check for parties of 10 or more."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmj321510j5fo27qdri0dsnpj-cuba-libre.pdf",
+    "dietaryOptions": [
+      "Vegetarian"
+    ]
+  },
+  {
+    "id": "d-angelo-s-ristorante-italiano-lounge",
+    "name": "D'Angelo's Ristorante Italiano & Lounge",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/d-angelo-s-ristorante-italiano-lounge",
+    "address": "256 S. 20th St, Philadelphia, PA 19103",
+    "lat": 39.9487361,
+    "lng": -75.1744193,
+    "phone": "215.546.3935",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.dangeloristorante.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout only.",
+      "Offering indoor and outdoor dining.",
+      "Closed Sunday and Monday.",
+      "Not participating in Restaurant Week on Saturdays"
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmj32p3h3jqk5ayqdbupbbqjs-d-angelos-dinner-26.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "darling-jack-s-tavern",
+    "name": "Darling Jack's Tavern",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/darling-jacks-tavern",
+    "address": "104 South 13th Street, Philadelphia, PA 19107",
+    "lat": 39.95011,
+    "lng": -75.1621167,
+    "phone": "215.546.4200",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.darlingjacks.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and dinner.",
+      "Restaurant Week lunch menu is available Monday",
+      "Friday",
+      "Offering indoor dining."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfr2a7tnkhcg7qdr30t0j8r-rw-2026-darling-jack-s-dinner-menu-x.pdf"
+  },
+  {
+    "id": "dear-daphni",
+    "name": "Dear Daphni",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/dear-daphni",
+    "address": "125 S 20th St, Philadelphia PA 19103",
+    "lat": 39.9512034,
+    "lng": -75.17334749999999,
+    "phone": "215.352.4988",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.deardaphni.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor and outdoor dining.",
+      "Not participating in Restaurant Week on Saturdays.",
+      "Contact restaurant directly for large party reservations."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4jaap7n3glayqdbniw8nct-dear-daphni-rw.pdf"
+  },
+  {
+    "id": "del-frisco-s-double-eagle-steakhouse",
+    "name": "Del Frisco's Double Eagle Steakhouse",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/del-frisco-s-double-eagle-steakhouse",
+    "address": "1426 Chestnut St, Philadelphia, PA 19102",
+    "lat": 39.9508553,
+    "lng": -75.1653697,
+    "phone": "215.246.0533",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.delfriscos.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Restaurant Week menu will not be offered on Saturdays.",
+      "Gratuity will be added to every check.",
+      "Parties of 8 or larger and Private Dining parties are not eligible for Restaurant Week menu."
+    ]
+  },
+  {
+    "id": "devil-s-alley",
+    "name": "Devil's Alley",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/devil-s-alley",
+    "address": "1907 Chestnut St, Philadelphia, PA 19103",
+    "lat": 39.952118,
+    "lng": -75.1722162,
+    "phone": "215.751.0707",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.devilsalleybarandgrill.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor and outdoor dining."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkfz38xznl1d7iqd1nfzbgto-devils-alley-1.pdf"
+  },
+  {
+    "id": "dim-sum-house-by-jane-g-s",
+    "name": "Dim Sum House by Jane G's",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/dim-sum-house-by-jane-g-s",
+    "address": "1930 Chestnut St, Philadelphia, PA 19103",
+    "lat": 39.9518233,
+    "lng": -75.173394,
+    "phone": "215.563.8800",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Closed on Mondays."
+    ],
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free",
+      "Vegan"
+    ]
+  },
+  {
+    "id": "dizengoff",
+    "name": "Dizengoff",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/dizengoff",
+    "address": "1625 Sansom St, Philadelphia, PA 19103",
+    "lat": 39.9507938,
+    "lng": -75.16857089999999,
+    "phone": "215.867.8181",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.dizengoffphilly.com/",
+    "restaurantWeekDetails": [
+      "Participating in lunch and dinner.",
+      "Lunch is available Monday",
+      "Sunday",
+      "Offering indoor dining."
+    ]
+  },
+  {
+    "id": "dolce-italian",
+    "name": "Dolce Italian",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/dolce-italian",
+    "address": "1437 Chestnut Street, Philadelphia, PA 19102",
+    "lat": 39.9510629,
+    "lng": -75.1647734,
+    "phone": "215.608.3000",
+    "offersLunch20": true,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.dolceitalianrestaurant.com/location/philadelphia",
+    "restaurantWeekDetails": [
+      "Participating in lunch and dinner.",
+      "Offering indoor dining.",
+      "Closed on Sunday and Mondays for dinner.",
+      "Open for lunch Monday to Saturday"
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmkbdrxhhn02i7iqdd5db7axf-dolce-italian-lunch-menu-rw-2026.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free",
+      "Vegan"
+    ]
+  },
+  {
+    "id": "double-knot",
+    "name": "Double Knot",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/doubleknot",
+    "address": "120 S 13th St. , Philadelphia, PA 19107",
+    "lat": 39.9497053,
+    "lng": -75.1621831,
+    "phone": "215.631.3868",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.doubleknotphilly.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Restaurant Week menu will not be offered on Saturdays.",
+      "Contact restaurant directly for large party reservations."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4j5surmdomuzqdb8b4nf8m-double-knot-2026.pdf"
+  },
+  {
+    "id": "el-vez",
+    "name": "El Vez",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/el-vez",
+    "address": "121 S. 13th St, Philadelphia, PA 19107",
+    "lat": 39.94972449999999,
+    "lng": -75.1617158,
+    "phone": "215.928.9800",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.elvezrestaurant.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor and outdoor dining.",
+      "Restaurant Week menu will not be available on Saturdays."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk5wwaidmh7v7iqdunxy33ii-el-vez-dinner-rw-2026.pdf"
+  },
+  {
+    "id": "estia-restaurant",
+    "name": "Estia Restaurant",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/estia-restaurant",
+    "address": "1405 Locust Street, Philadelphia, PA 19102",
+    "lat": 39.948452,
+    "lng": -75.165319,
+    "phone": "215.735.7700",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.estiarestaurant.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining."
+    ]
+  },
+  {
+    "id": "farina-pasta-bar",
+    "name": "Farina Pasta Bar",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/farina-pasta-bar",
+    "address": "132 S. 17th Street, Philadelphia, PA 19103",
+    "lat": 39.9504914,
+    "lng": -75.1691989,
+    "phone": "267.984.3816",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://farinaphl.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch and takeout.",
+      "Offering indoor dining.",
+      "Walk",
+      "ins only",
+      "BYOB"
+    ],
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free",
+      "Vegan"
+    ]
+  },
+  {
+    "id": "fat-salmon",
+    "name": "Fat Salmon",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/fat-salmon1",
+    "address": "719 Walnut Street, Philadelphia, PA 19106",
+    "lat": 39.9481318,
+    "lng": -75.153395,
+    "phone": "215.928.8881",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.fatsalmonsushi.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Closed on Mondays."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkiicaeany3qg7qdlwvj9n7m-fat-salmon.pdf",
+    "dietaryOptions": [
+      "Vegetarian"
+    ]
+  },
+  {
+    "id": "fork",
+    "name": "Fork",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/fork",
+    "address": "306 Market Street, Philadelphia, PA, 19106",
+    "lat": 39.949994,
+    "lng": -75.146124,
+    "phone": "215.625.9425",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": true,
+    "offersTakeout": false,
+    "website": "https://forkrestaurant.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Gratuity will be added to checks for parties of 6 or more."
+    ],
+    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmkh8l53rns0gg7qdc83vbv2z-fork-winter-2026-restaurant-week-1.pdf"
+  },
+  {
+    "id": "forsythia",
+    "name": "Forsythia",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/forsythia",
+    "address": "233 Chestnut Street, Philadelphia, PA 19105",
+    "lat": 39.9488063,
+    "lng": -75.1454205,
+    "phone": "215.644.9395",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": true,
+    "offersTakeout": false,
+    "website": "https://www.forsythiaphilly.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Gratuity will be added to every check."
+    ],
+    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmk4ilhy3maer7iqdbknoup7v-forsythia-dinner-menu-rw-2026.pdf"
+  },
+  {
+    "id": "fringe-bar",
+    "name": "Fringe Bar",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/fringe-bar",
+    "address": "140 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+    "lat": 39.95330980000001,
+    "lng": -75.14040039999999,
+    "phone": "215.375.7744",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://fringebarphilly.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Closed Monday and Tuesday.",
+      "Gratuity will be added to checks for partiens of 5 or more."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkhbaqgwnv07uzqdspwiu1co-fringe-bar-updated.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free",
+      "Vegan"
+    ]
+  },
+  {
+    "id": "fuji-mountain",
+    "name": "Fuji Mountain",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/fuji-mountain",
+    "address": "2030 Chestnut St, Philadelphia, PA 19103",
+    "lat": 39.9520072,
+    "lng": -75.1747664,
+    "phone": "215.751.0939",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.fujimt.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Gratuity will be added to check for parties of 6 or more."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmit8xdeji0q5g7qdnvrdbhuy-fuji.pdf"
+  },
+  {
+    "id": "giuseppe-sons",
+    "name": "Giuseppe & Sons",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/giuseppe-sons",
+    "address": "1523 Sansom St, Philadelphia, PA 19102",
+    "lat": 39.9504997,
+    "lng": -75.1666931,
+    "phone": "215.399.9199",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://giuseppesons.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Contact restaurant directly for large party reservations (6 or more).",
+      "Restaurant Week menu will not be offered on Saturdays."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4jdedfmdqcuzqdp8ufh3zh-giuseppe-sons-2026.pdf"
+  },
+  {
+    "id": "gran-caffe-l-aquila",
+    "name": "Gran Caffe L'Aquila",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/gran-caffe-l-aquila",
+    "address": "1716 Chestnut St, Philadelphia, PA 19103",
+    "lat": 39.9512789,
+    "lng": -75.16951809999999,
+    "phone": "215.568.5600",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://grancaffelaquila.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch and dinner.",
+      "Offering indoor and outdoor dining.",
+      "Restaurant Week lunch menu is available every day except Sunday.",
+      "18% gratuity will be added to check for parties of 6 or more."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmit46e2vi3uwuzqdolbjpvv8-gran-caffe-dinner.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free",
+      "Vegan"
+    ]
+  },
+  {
+    "id": "grandma-s-philly",
+    "name": "Grandma's Philly",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/grandmas-philly-thai-tapas",
+    "address": "1304 Walnut St., Philadelphia, PA 19107",
+    "lat": 39.9489101,
+    "lng": -75.1624159,
+    "phone": "215.315.9050",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.grandmasphilly.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor and outdoor dining.",
+      "The Restaurant Week dinner menu will not be available on Saturday, January 31.",
+      "Gratuity will be added to check for parties of 6 or more."
+    ]
+  },
+  {
+    "id": "hard-rock-cafe",
+    "name": "Hard Rock Cafe",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/hard-rock-cafe",
+    "address": "1113 Market St, Philadelphia, PA 19107",
+    "lat": 39.9521211,
+    "lng": -75.1596227,
+    "phone": "215-238-1000",
+    "offersLunch20": true,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "https://www.hardrockcafe.com/location/philadelphia",
+    "restaurantWeekDetails": [
+      "Participating in lunch and takeout.",
+      "Offering indoor dining.",
+      "Deposit required for large party reservations (16+ Guests).",
+      "Gratuity will be added to check for parties of 8 or more."
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmj33fqp0jqnwayqd2xmkxr99-hard-rock-cafe-lunch.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free",
+      "Vegan"
+    ]
+  },
+  {
+    "id": "harp-crown",
+    "name": "Harp & Crown",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/harp-crown1",
+    "address": "1525 Sansom St, Philadelphia, PA, 19102",
+    "lat": 39.9506009,
+    "lng": -75.1668126,
+    "phone": "215.330.2800",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://harpcrown.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Contact restaurant directly for large party reservations."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4ip49imaczg7qdvuprkxdq-harp-crown.pdf"
+  },
+  {
+    "id": "harper-s-garden",
+    "name": "Harper's Garden",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/harpers-garden6",
+    "address": "31 S. 18th Street, Philadelphia, PA 19103",
+    "lat": 39.9523906,
+    "lng": -75.16987689999999,
+    "phone": "267.886.8552",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://harpersgardenphilly.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Restaurant Week menu will not be offered on Saturdays.",
+      "Contact restaurant directly for large party reservations (11 or more)."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4ix9w4mf8y27qdnlndujgy-harper-s-garden-dinner-rw-menu-2026.pdf"
+  },
+  {
+    "id": "the-hayes",
+    "name": "The Hayes",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/the-hayes",
+    "address": "1123 Walnut Street Philadelphia, PA 19107",
+    "lat": 39.949146,
+    "lng": -75.16002329999999,
+    "phone": "215.982.2192",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.thehayesphl.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch and dinner.",
+      "Offering indoor dining.",
+      "Contact restaurant for parties larger than 6",
+      "Gratuity wil be added to all checks"
+    ],
+    "dietaryOptions": [
+      "Vegetarian",
+      "Glute-free"
+    ]
+  },
+  {
+    "id": "hi-lo-taco-co",
+    "name": "Hi-Lo Taco Co.",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/hi-lo-taco",
+    "address": "1109 Walnut Street, Philadelphia, PA 19107",
+    "lat": 39.9490855,
+    "lng": -75.15947369999999,
+    "phone": "267.996.4910",
+    "offersLunch20": true,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.hilotacoco.com/",
+    "restaurantWeekDetails": [
+      "Participating in lunch only.",
+      "Offering indoor dining.",
+      "Closed on Sundays.",
+      "Gratuity will be added to every check."
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmj32yrd6j2j9g7qd0j4l4a2n-hi-lo-taco-co-lunch.pdf"
+  },
+  {
+    "id": "high-street",
+    "name": "High Street",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/high-street",
+    "address": "101 S. 9th Street, Philadelphia, PA 19107",
+    "lat": 39.9494611,
+    "lng": -75.15546839999999,
+    "phone": "215.625.0988",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": true,
+    "offersTakeout": false,
+    "website": "http://HighStreetPhilly.com",
+    "restaurantWeekDetails": [
+      "Participating in Dinner only.",
+      "Offering indoor dining.",
+      "Not participating on Saturdays, January 24 and January 31",
+      "Closed on Sundays and Mondays"
+    ],
+    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmk5r82w7mjsjuzqdkzt0ifz0-high-street-26.pdf",
+    "dietaryOptions": [
+      "Vegetarian items (each course)",
+      "Gluten-free items (each course)"
+    ]
+  },
+  {
+    "id": "jasmine-rice-rittenhouse",
+    "name": "Jasmine Rice Rittenhouse",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/jasmine-rice-rittenhouse",
+    "address": "306 South 16th St, Philadelphia PA 19102",
+    "lat": 39.9471136,
+    "lng": -75.1682869,
+    "phone": "215.546.0818",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.jasminericephilly.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Offering indoor dining.",
+      "BYOB",
+      "Gratuity will be added to every check."
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmj91zeoxjlofw0qd402m2ggq-jasmine-rice-2026-rwk-menu-lunch-final.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmit8yrzmi2gfniqdjimsg4rw-jasmine-rice.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free",
+      "Vegan"
+    ]
+  },
+  {
+    "id": "kanella-restaurant",
+    "name": "Kanella Restaurant",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/kanella-restaurant",
+    "address": "1001 Spruce St, Philadelphia, PA 19107",
+    "lat": 39.9463188,
+    "lng": -75.15796089999999,
+    "phone": "267.928.2085",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "https://www.kanellarestaurant.com/",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Offering indoor dining.",
+      "Closed on Mondays",
+      "BYOB"
+    ],
+    "dietaryOptions": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free",
+      "Kosher"
+    ]
+  },
+  {
+    "id": "kinme",
+    "name": "Kinme",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/kinme",
+    "address": "1117 Locust Street, Philadelphia, PA 19107",
+    "lat": 39.9477857,
+    "lng": -75.16010800000001,
+    "phone": "215.982.1722",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://kinmepa.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Offering indoor and outdoor dining",
+      "BYOB",
+      "Restaurant Week menu is available Monday",
+      "Friday",
+      "Closed on Sundays"
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmiqkgd2phk8cw0qd955drqz4-kinme-rw-2026-dinner-menu.pdf"
+  },
+  {
+    "id": "kirin-house",
+    "name": "Kirin House",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/kirin-house",
+    "address": "251 N Clarion St, Philadelphia, PA 19107",
+    "lat": 39.9570736,
+    "lng": -75.1606765,
+    "phone": "215.557.6333",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.kirinhousephilly.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Closed on Mondays",
+      "Gratuity added for parties of 6 of  more."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmit99x0di2ijniqd6udan793-kirin-house.pdf"
+  },
+  {
+    "id": "koto-sushi",
+    "name": "Koto Sushi",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/koto-sushi",
+    "address": "719 Sansom St, Philadelphia, PA 19106",
+    "lat": 39.9487857,
+    "lng": -75.1532332,
+    "phone": "267.239.2250",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.kotosushipa.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch dinner and takeout.",
+      "Offering indoor dining."
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmiqkgdcwhnbduzqdqpb6ozho-koto-sushi-rw-2026-lunch-menu.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmiqkgdljhmk627qds5ydks7i-koto-sushi-rw-2026-dinner-menu.pdf"
+  },
+  {
+    "id": "la-famiglia-ristorante",
+    "name": "La Famiglia Ristorante",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/la-famiglia-ristorante",
+    "address": "8 S Front St, Philadelphia, PA 19106",
+    "lat": 39.9494022,
+    "lng": -75.14241849999999,
+    "phone": "215.922.2803",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.lafamiglia.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout.",
+      "Offering indoor dining.",
+      "Closed Sunday and Monday.",
+      "Gratuity will be added to check for parties of 6 or more."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmit8v209i23x7iqdo9ctdij8-lafmiglia.pdf"
+  },
+  {
+    "id": "la-fontana-della-citta",
+    "name": "La Fontana Della Citta",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/la-fontana-della-citta",
+    "address": "1701 Spruce St, Philadelphia, PA 19103",
+    "lat": 39.947769,
+    "lng": -75.16970049999999,
+    "phone": "215.875.9990",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "https://lafontanaphl.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Offering indoor dining.",
+      "BYOB.",
+      "Gratuity will be added to check for parties of 6 or more."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkijqjq9o55fk7qdmaxedwdm-la-fontnana-dinner.png"
+  },
+  {
+    "id": "la-nonna",
+    "name": "La Nonna",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/la-nonna",
+    "address": "214 South St, Philadelphia PA 19147",
+    "lat": 39.9411075,
+    "lng": -75.1462494,
+    "phone": "267.928.3262",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.ristorantelanonna.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining",
+      "BYOB",
+      "Gratuity will be added to check for parties of 7 and more."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmjiumaw3kd7cw0qdur4fy5j7-la-nonna-dinner-rw-week-jan-2026.pdf"
+  },
+  {
+    "id": "la-sera-italiana",
+    "name": "La Sera Italiana",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/la-sera-italiana",
+    "address": "1608 South St, Philadelphia, PA 19102",
+    "lat": 39.9439675,
+    "lng": -75.16915329999999,
+    "phone": "267.930.7805",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.laseraitaliana.com",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkcuiprsn9xcuzqdvhev8ztg-la-sera-dinner-rw-2026.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free",
+      "Kosher"
+    ]
+  },
+  {
+    "id": "la-viola-bistro",
+    "name": "La Viola Bistro",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/la-viola-bistro",
+    "address": "253 S 16th St, Philadelphia, PA 19102",
+    "lat": 39.9477943,
+    "lng": -75.16778529999999,
+    "phone": "215.735.8630",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://laviolaphiladelphia.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Lunch menu available Monday to Friday.",
+      "Offering indoor and outdoor dining.",
+      "BYOB."
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmk1n7hrclxsdniqdomuhp5s7-la-viola-restaurant-week-lunch-menu-winter-26.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk1n3pkvm25t27qdsmlt1wzs-la-viola-restaurant-week-dinner-winter-26.pdf"
+  },
+  {
+    "id": "la-viola-ovest",
+    "name": "La Viola Ovest",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/la-viola-west-2",
+    "address": "252 S 16th St, Philadelphia, PA 19102",
+    "lat": 39.9480118,
+    "lng": -75.1680247,
+    "phone": "215.735.8631",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://laviolaphiladelphia.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Lunch menu available Monday to Friday.",
+      "Offering indoor and outdoor dining.",
+      "BYOB."
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmk1n7hrclxsdniqdomuhp5s7-la-viola-restaurant-week-lunch-menu-winter-26.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk1n3pkvm25t27qdsmlt1wzs-la-viola-restaurant-week-dinner-winter-26.pdf"
+  },
+  {
+    "id": "las-bugambilias",
+    "name": "Las Bugambilias",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/las-bugambilia",
+    "address": "15 S 3rd St, Philadelphia, PA 19106",
+    "lat": 39.9496537,
+    "lng": -75.14547689999999,
+    "phone": "267.239.5673",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "https://lasbugambiliasphilly.com/",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Restaurant Week lunch menu is offered on Friday, Saturday and Sunday only.",
+      "Offering indoor dining.",
+      "Closed on Mondays and Tuesdays.",
+      "Gratuity will be added to every check."
+    ],
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "lascala-s-fire",
+    "name": "LaScala's Fire",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/lascalas",
+    "address": "615 Chestnut St, Philadelphia, PA 19106",
+    "lat": 39.949514,
+    "lng": -75.151776,
+    "phone": "215.928.0900",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.lascalasphilly.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Gratuity will be added to every check."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkijalb9nwpow0qdjtzv537d-la-scala.pdf"
+  },
+  {
+    "id": "the-lesieur",
+    "name": "The Lesieur",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/the-lesieur",
+    "address": "1523 Sansom St, Philadelphia, PA 19102",
+    "lat": 39.9504997,
+    "lng": -75.1666931,
+    "phone": "215.330.2732",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": true,
+    "offersTakeout": false,
+    "website": "https://www.thelesieur.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Closed on Sundays and Mondays.",
+      "Not participating on Saturdays",
+      "Contact restaurant directily for large party reservations"
+    ],
+    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmk4is9h0mf7g27qdtpo9zfut-the-lesieur.pdf"
+  },
+  {
+    "id": "libert-restobar",
+    "name": "Liberté Restobar",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/liberté-restobar",
+    "address": "120 S 17th St, Philadelphia, PA 19103",
+    "lat": 39.9509482,
+    "lng": -75.1695409,
+    "phone": "215.569.8300",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.sofitel-philadelphia.com/dining-lounge/liberte-lounge/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining."
+    ]
+  },
+  {
+    "id": "little-nonna-s",
+    "name": "Little Nonna's",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/little-nonna-s",
+    "address": "1234 Locust St, Philadelphia, PA 19107",
+    "lat": 39.94780799999999,
+    "lng": -75.16218429999999,
+    "phone": "215.546.2100",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.littlenonnas.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout.",
+      "Offering indoor and outdoor dining."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkjzp2cbo9kf27qdl3gnol45-rw-2026-little-nonna-s-dinner-menu-x.pdf"
+  },
+  {
+    "id": "loch-bar",
+    "name": "Loch Bar",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/loch-bar",
+    "address": "301 S Broad Street Philadelphia, PA 19107",
+    "lat": 39.94654,
+    "lng": -75.1647227,
+    "phone": "215.267.8272",
+    "offersLunch20": true,
+    "offersDinner45": false,
+    "offersDinner60": true,
+    "offersTakeout": false,
+    "website": "http://www.lochbar.com/philly",
+    "restaurantWeekDetails": [
+      "Participating in lunch and dinner.",
+      "Offering indoor dining.",
+      "CCD Restaurant Week menu will not be available on Saturdays.",
+      "20% gratuity will be added to all checks."
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmkfz8lsenszok7qdjt2ndkn4-web-lunch-prix-jan26-02.pdf",
+    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmkfz6mupnl2l7iqd1t48korq-lochphilly-dinner-prix-jan26-02.pdf"
+  },
+  {
+    "id": "malbec-argentine-steakhouse",
+    "name": "Malbec Argentine Steakhouse",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/malbec-argentine-steakhouse",
+    "address": "400 South 2nd St, Philadelphia, PA 19147",
+    "lat": 39.94304200000001,
+    "lng": -75.1455593,
+    "phone": "215.515.3899",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.malbecsteakhouse.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Offering indoor and outdoor dining.",
+      "Closed Mondays.",
+      "Restaurant Week Lunch is only available on Saturdays and Sundays"
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmitajzxzi4zouzqd44ubn1rc-malbec-lunch.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmiqkgdbohktn7iqdo9ab92wb-malbec-rw-2026-dinner-menu.pdf",
+    "dietaryOptions": [
+      "Vegetarian"
+    ]
+  },
+  {
+    "id": "mccormick-schmick-s",
+    "name": "McCormick & Schmick's",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/mccormick-schmicks",
+    "address": "1 S Broad St, Philadelphia, PA 19107",
+    "lat": 39.9506398,
+    "lng": -75.162914,
+    "phone": "215.568.6888",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.mccormickandschmicks.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Offering indoor and outdoor dining.",
+      "BYOB."
+    ]
+  },
+  {
+    "id": "melograno-byob",
+    "name": "Melograno BYOB",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/melograno-byob",
+    "address": "2012 Sansom St, Philadelphia, PA 19103",
+    "lat": 39.95125090000001,
+    "lng": -75.17412350000001,
+    "phone": "215.875.8116",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://melogranophiladelphia.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor and outdoor dining.",
+      "BYOB.",
+      "Closed Monday.",
+      "Not participating on Saturday, January 31."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkeiob9lndo77iqdg2xl9qq7-melograno-dinner-rw-2026.png",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free",
+      "Vegan"
+    ]
+  },
+  {
+    "id": "mercato-byob",
+    "name": "Mercato BYOB",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/mercato-byob",
+    "address": "1216 Spruce St, Philadelphia, PA 19107",
+    "lat": 39.9464992,
+    "lng": -75.1617682,
+    "phone": "215.985.2962",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.mercatobyob.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout.",
+      "Offering indoor dining.",
+      "BYOB.",
+      "Please contact restaurant dirrectly for parties larger than 5 guests."
+    ],
+    "dietaryOptions": [
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "miss-saigon-vietnamese-restaurant-and-lounge",
+    "name": "Miss Saigon Vietnamese Restaurant and Lounge",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/miss-saigon",
+    "address": "1316 Walnut St, Philadelphia, PA 19107",
+    "lat": 39.9489737,
+    "lng": -75.16287179999999,
+    "phone": "267.534.3963",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://misssaigonphilly.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch and dinner.",
+      "Offering indoor dining.",
+      "Restaurant Week Lunch menu is available Mondnay",
+      "Friday",
+      "Gratuity will be added to every check"
+    ]
+  },
+  {
+    "id": "mixto-restaurant",
+    "name": "Mixto Restaurant",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/mixto-restaurant",
+    "address": "1141 Pine St, Philadephia, PA 19107",
+    "lat": 39.9452214,
+    "lng": -75.1610941,
+    "phone": "215.592.0363",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.mixtorestaurante.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout.",
+      "Offering indoor dining.",
+      "Restaurant Week menu will no be offered on Saturdays.",
+      "Closed on Mondays."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4iucg3mat9niqd5fyurpht-mixto-restaurant-week-2026-dinner.pdf"
+  },
+  {
+    "id": "monster-vegan",
+    "name": "Monster Vegan",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/monster-vegan",
+    "address": "1229 Spruce St, Philadelphia PA 19107",
+    "lat": 39.9468576,
+    "lng": -75.1622136,
+    "phone": "215.790.9494",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.themonstervegan.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor and outdoor dining.",
+      "Closed Sundays.",
+      "Large parties accepted, reservations are encouraged."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkhbil86nr76w0qdbjqgnbqf-update-monster-vegan.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "moshulu",
+    "name": "Moshulu",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/moshulu",
+    "address": "401 S Columbus Blvd., Philadelphia, PA 19106",
+    "lat": 39.9415983,
+    "lng": -75.1412498,
+    "phone": "215.923.2500",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": true,
+    "offersTakeout": false,
+    "website": "http://www.moshulu.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Restaurant Week menu will not be offered on Saturdays."
+    ],
+    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmjiufzo1kh1q27qd70s261it-moshulu-dinner-menu-ccdrw-2026.pdf"
+  },
+  {
+    "id": "the-mulberry-on-arch",
+    "name": "The Mulberry on Arch",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/the-mulberry-on-arch",
+    "address": "1835 Arch St, Philadelphia, PA 19103",
+    "lat": 39.9556529,
+    "lng": -75.17090859999999,
+    "phone": "215.478.8777",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.themulberryphl.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Closed on Mondays",
+      "Gratuity wil be added to check for parties of 6 or more guests."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkhboyd7nw9m27qd1phm2ywv-mulberry.pdf"
+  },
+  {
+    "id": "nabrasa-brazilian-steakhouse",
+    "name": "Nabrasa Brazilian Steakhouse",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/nabrasa-brazilian-steakhouse",
+    "address": "1901 John F Kennedy Blvd, Philadelphia, PA 19103",
+    "lat": 39.9547003,
+    "lng": -75.17182079999999,
+    "phone": "445.287.1901",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "https://nabrasa.com/center-city-district-restaurant-week/",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout.",
+      "Offering indoor dining.",
+      "For parties of 9 or more: A cancellation fee will not be charged if you cancel before (date/time. 1 hour prior). If you cancel after that, you agree to be charged a fee of $20.00 + tax per guest on the reservation. Any waiver of the fee is at the sole discretion of the restaurant."
+    ],
+    "dietaryOptions": [
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "ocean-prime",
+    "name": "Ocean Prime",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/oceanprime",
+    "address": "124 S 15th St, Philadelphia, PA 19107",
+    "lat": 39.9501744,
+    "lng": -75.1659315,
+    "phone": "215.563.0163",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": true,
+    "offersTakeout": false,
+    "website": "https://www.ocean-prime.com/locations-menus/philadelphia",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining."
+    ],
+    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmkhbo2oanv3uuzqd5sgyric6-ocean-prime.pdf",
+    "dietaryOptions": [
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "oloroso",
+    "name": "Oloroso",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/oloroso-tapas-and-sherry-ba",
+    "address": "1121 Walnut St, Philadelphia PA 19107",
+    "lat": 39.9489762,
+    "lng": -75.1599876,
+    "phone": "267.324.3014",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://olorosophl.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Closed on Mondays",
+      "For parties over 6 guests, please contact restaurant for reservations."
+    ],
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "oltremare",
+    "name": "Oltremare",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/oltremare",
+    "address": "2121 Walnut Street, Philadelphia PA 19103",
+    "lat": 39.9510571,
+    "lng": -75.1765605,
+    "phone": "445-223-2093",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.oltremarephl.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Closed Monday.",
+      "For parties larger than 6, please contact restaurant for accomodations.",
+      "Gratuity will be added to every check."
+    ],
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "osteria",
+    "name": "Osteria",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/osteria",
+    "address": "640 North Broad Street, Philadelphia, PA 19130",
+    "lat": 39.9650805,
+    "lng": -75.1617766,
+    "phone": "215.763.0920",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.osteriaphilly.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor and outdoor dining."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmjiubu8dkh1827qdcm98fwdz-osteria-2026.pdf"
+  },
+  {
+    "id": "osteria-ama-philly",
+    "name": "Osteria Ama Philly",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/osteria-ama-philly",
+    "address": "1905 Chestnut Street, Philadelphia, PA 19103",
+    "lat": 39.9521121,
+    "lng": -75.1721491,
+    "phone": "484.355.4133",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "https://www.osteriaama.com/",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner, and takeout.",
+      "Offering indoor dining.",
+      "BYOB.",
+      "Gratuity will be added to every check."
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmkbdzs7sn4yq27qd5bgar2l4-osteria-ama-lunch-restaurant-week-menu-2026.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkcukwjbn790g7qdkkxq6a0q-osteria-ama-dinner-rw-2026.pdf"
+  },
+  {
+    "id": "oyster-house",
+    "name": "Oyster House",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/oyster-house",
+    "address": "1516 Sansom St, Philadelphia, PA 19102",
+    "lat": 39.9502251,
+    "lng": -75.1665541,
+    "phone": "215.567.7683",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.oysterhousephilly.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner.",
+      "Offering indoor dining.",
+      "Closed  Sundays and Mondays",
+      "Restaurant Week menu will not be offered on Saturdays."
+    ]
+  },
+  {
+    "id": "panorama",
+    "name": "Panorama",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/panorama",
+    "address": "14 N Front St, Philadelphia, PA 19106",
+    "lat": 39.9502201,
+    "lng": -75.142457,
+    "phone": "215.922.7800",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.panoramawinebar.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Closed Mondays.",
+      "A credit card to hold reservation"
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmiqkgdebhrf4k7qd3lgxuu25-panorama-rw-2026-dinner-menu.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free",
+      "Vegan"
+    ]
+  },
+  {
+    "id": "pearl-mary",
+    "name": "Pearl & Mary",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/pearl-mary",
+    "address": "114 S 13th St., Philadelphia, PA 19107",
+    "lat": 39.9497646,
+    "lng": -75.1621256,
+    "phone": "215.330.6786",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.pearlandmary.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor and outdoor dining.",
+      "Restaurant Week menu not offered on Saturdays.",
+      "Familly style menu."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4jfyhgmadvw0qdzw4w3e71-pearl-mary-2026.pdf"
+  },
+  {
+    "id": "pizzeria-vetri",
+    "name": "Pizzeria Vetri",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/pizzeria-vetri",
+    "address": "1615 Chancellor St, Philadephia, PA 19103",
+    "lat": 39.9495209,
+    "lng": -75.1685629,
+    "phone": "215.763.3760",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://pizzeriavetri.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch and dinner.",
+      "Offering indoor dining."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmj325l14j2ewg7qdq0cgwgsp-pizzeria-vetri-dinner-26.pdf"
+  },
+  {
+    "id": "pj-clarkes-at-the-curtis",
+    "name": "PJ Clarkes at the Curtis",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/pj-clarkes-at-the-curtis",
+    "address": "601 Walnut St, Philadelphia PA 19106",
+    "lat": 39.9481192,
+    "lng": -75.15183119999999,
+    "phone": "215.999.2000",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://pjclarkes.com/location/philadelphia/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor and outdoor dining."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkhbcqxxokdnayqduuuy88cj-pj-clarkes.pdf"
+  },
+  {
+    "id": "porcini",
+    "name": "Porcini",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/porcini",
+    "address": "2048 Sansom St, Philadelphia, PA 19103",
+    "lat": 39.9513535,
+    "lng": -75.1751156,
+    "phone": "215.751.1175",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://porcinirestaurant.com/index.html",
+    "restaurantWeekDetails": [
+      "Participating in dinner.",
+      "Offering indoor dining",
+      "BYOB.",
+      "Closed on  Sunday.",
+      "Gratuity will be added to checks for parties of 6 or more."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkijvz8co0wpuzqdlshwlkv9-updateda-porcini-2026.pdf"
+  },
+  {
+    "id": "positano-coast-by-aldo-lamberti",
+    "name": "Positano Coast by Aldo Lamberti",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/positano-coast-by-aldo-lamberti",
+    "address": "212 Walnut St, Philadelphia, PA 19106",
+    "lat": 39.9467648,
+    "lng": -75.1446125,
+    "phone": "215.238.0499",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Closed on Monday.",
+      "Deposit required for large parties",
+      "20% gratuity will be added to check for parties of 6 or more.",
+      "Entire party must order from Restaurant Week menu"
+    ]
+  },
+  {
+    "id": "prunella",
+    "name": "Prunella",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/prunella",
+    "address": "112 S 13th St, Philadelphia, PA 19107",
+    "lat": 39.9499506,
+    "lng": -75.1621737,
+    "phone": "215.631.8058",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://prunellaphl.com/",
+    "restaurantWeekDetails": [
+      "Participating in lunch and dinner.",
+      "Offering indoor and outdoor dining.",
+      "Contact restaurant directly for large party reservations."
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmk4jzr4ymaquw0qdeztmxlfa-prunella-rwmenu-01-18-26-lunch-updated.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4jfc4imadpw0qd003t0qgp-prunella-rwmenu-01-18-25-dinner.pdf"
+  },
+  {
+    "id": "pub-kitchen",
+    "name": "Pub & Kitchen",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/pub-kitchen",
+    "address": "1946 Lombard St, Philadephia, PA 19107",
+    "lat": 39.9456521,
+    "lng": -75.1747733,
+    "phone": "215.545.0350",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.thepubandkitchen.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor and outdoor dining"
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkij06miny4tniqd6rvy7om1-final-pub-and-kitchen-winter-rw-menu.pdf"
+  },
+  {
+    "id": "radicchio-cafe",
+    "name": "Radicchio Cafe",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/radicchio-cafe",
+    "address": "402 Wood Street, Philadelphia, PA 19106",
+    "lat": 39.95662009999999,
+    "lng": -75.1463334,
+    "phone": "215.627.6850",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.radicchiocafe.com/",
+    "restaurantWeekDetails": [
+      "Participating in lunch and dinner.",
+      "Offering indoor and outdoor dining.",
+      "Restaurant Week menu will not be available on Saturdays."
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmk4kd115n3voayqdwy9t4p3z-radicchio-lunch-menu-rw-2026.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkd3tq1on7oo7iqdar92wzkg-radicchio-restaurant-week-dinner-menu-1.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "restaurant-aleksandar",
+    "name": "Restaurant Aleksandar",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/restaurant-aleksandar-2",
+    "address": "126 S 19th Street, Philadelphia, PA 19103",
+    "lat": 39.950949,
+    "lng": -75.17233379999999,
+    "phone": "215.279.7738",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": true,
+    "offersTakeout": true,
+    "website": "https://restaurantaleksandar.com/",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Offering indoor dining.",
+      "Restaurant Week lunch menu is only available on Friday, Saturday and Sunday.",
+      "Gratuity will be added to check for parties of 6 or more."
+    ],
+    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmk4iozh7mdk7uzqdi1y2rpyk-restaurant-aleksander.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "rex-at-the-royal",
+    "name": "Rex at The Royal",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/rex-at-the-royal",
+    "address": "1524 South St, Philadelphia, PA 19146",
+    "lat": 39.9437809,
+    "lng": -75.1681729,
+    "phone": "267.319.1366",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.rexphl.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only",
+      "Closed Mondays",
+      "Offering indoor dining",
+      "Gratuity will be added to check for groups of 6 or more."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkhde66wnwpg27qdjkj1ss63-rex-at-the-royal-final-2026-ccdrw-menu.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "rhythm-and-spirits-philadelphia",
+    "name": "Rhythm and Spirits Philadelphia",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/rhythm-and-spirits",
+    "address": "1617 John F Kennedy Blvd. , Philadelphia, PA 19103",
+    "lat": 39.954055,
+    "lng": -75.16750069999999,
+    "phone": "267.239.2280",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "https://rhythmandspirits.com/",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Restaurant Week lunch menu is available Monday",
+      "Friday",
+      "Offering indoor dining.",
+      "Closed on Sundays",
+      "Gratuity will be added to check for parties of 6 or more."
+    ]
+  },
+  {
+    "id": "rockwell-rose",
+    "name": "Rockwell & Rose",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/rockwell-rose",
+    "address": "601 Walnut St, Philadelphia PA 19106",
+    "lat": 39.9481192,
+    "lng": -75.15183119999999,
+    "phone": "215.918.8009",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://rockwellandrose.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Closed on Mondays and Tuesdays"
+    ]
+  },
+  {
+    "id": "samba-steakhouse-philly",
+    "name": "Samba Steakhouse Philly",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/samba-steakhouse-philly",
+    "address": "1111 Locust St, Philadelphia, PA 19107",
+    "lat": 39.9477453,
+    "lng": -75.159542,
+    "phone": "215.608.8870",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner, and takeout.",
+      "Lunch menu available Thursday, Friday, Saturday and Sunday",
+      "Offering indoor dining."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmiqkgdp6hk8fw0qdzuumr4ti-samba-steakhouse-rw-2026-dinner-menu.pdf"
+  },
+  {
+    "id": "sampan",
+    "name": "Sampan",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/sampan-2",
+    "address": "124 S 13th St, Philadelphia, PA 19107",
+    "lat": 39.9495268,
+    "lng": -75.162243,
+    "phone": "215.732.3501",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.sampanphilly.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor and outdoor dining.",
+      "Restaurant Week menu will not be available on Saturdays.",
+      "Contact restaurant for large party reservations."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4ix8uzmagv7iqdzemixiy7-sampan-rwmenu-01-18-26.pdf"
+  },
+  {
+    "id": "seafood-unlimited",
+    "name": "Seafood Unlimited",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/seafood-unlimited",
+    "address": "270 S 20th St, Philadelphia, PA 19103",
+    "lat": 39.9484132,
+    "lng": -75.17449040000001,
+    "phone": "215.732.3663",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.seafoodunlimited.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout.",
+      "Closed on Sunday and Monday.",
+      "Offering indoor dining."
+    ],
+    "dietaryOptions": [
+      "Vegetarian"
+    ]
+  },
+  {
+    "id": "south-restaurant-jazz-club",
+    "name": "SOUTH Restaurant & Jazz Club",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/south-restaurant-jazz-club",
+    "address": "600 N Broad St, Philadephia, PA 19130",
+    "lat": 39.9641412,
+    "lng": -75.1614065,
+    "phone": "215.600.2049",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.southjazzkitchen.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Closed Monday",
+      "Wednesday.",
+      "Parties larger than 6 must contact restaurant."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4iu9j3mdlduzqdtwgiqsz5-south-2026.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "spasso-italian-grill",
+    "name": "Spasso Italian Grill",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/spasso-italian-grill",
+    "address": "34 S Front St, Philadelphia, PA 19106",
+    "lat": 39.948695,
+    "lng": -75.14258219999999,
+    "phone": "215.592.7661",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.spassoitaliangrill.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout.",
+      "Offering indoor dining.",
+      "Closed on Mondays.",
+      "Gratuity will be added to check for parties of 6 or more."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmiqkgdmfhjesg7qdok8oozmt-spasso-rw2026-rw-2026-dinner-menu.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "spice-finch",
+    "name": "Spice Finch",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/spice-finch",
+    "address": "220 S 17th Street Philadelphia, PA 19103",
+    "lat": 39.94934490000001,
+    "lng": -75.1695094,
+    "phone": "215.309.2238",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://spicefinchphilly.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor and outdoor dining."
+    ],
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "square-1682",
+    "name": "Square 1682",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/square-1682",
+    "address": "121 S 17th St, Philadelphia, PA 19103",
+    "lat": 39.9508011,
+    "lng": -75.1686108,
+    "phone": "215.563.5008",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.square1682.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Closed for dinner on Sundays.",
+      "Gratuity added for parties of 6 or more."
+    ]
+  },
+  {
+    "id": "superfolie",
+    "name": "Superfolie",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/superfolie",
+    "address": "1602 Spruce St, Philadelphia PA 19103",
+    "lat": 39.9472502,
+    "lng": -75.1682781,
+    "phone": "508.446.2293",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.superfoliephl.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only",
+      "Closed on Sundays",
+      "Restaurant Week menu will not be available on Saturdays."
+    ]
+  },
+  {
+    "id": "sura-indian-bistro",
+    "name": "Sura Indian Bistro",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/sura-indian-bistro",
+    "address": "1726 Chestnut St, Philadelphia, PA 19103",
+    "lat": 39.9513281,
+    "lng": -75.16989559999999,
+    "phone": "215.478.8777",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "https://www.surabistro.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Offering indoor dining."
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmk4kej06max3g7qdtps825df-sura-rw-lunch-menu-2026.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk5kb8ddmjtx27qdmhyivogs-sura-dinner-26.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Vegan",
+      "Halal",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "tequila-s-casa-mexicana",
+    "name": "Tequila's Casa Mexicana",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/tequilas-casa-mexicana",
+    "address": "1602 Locust St, Philadelphia PA 19103",
+    "lat": 39.948487,
+    "lng": -75.16805099999999,
+    "phone": "215.546.0181",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.tequilasphilly.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor dining.",
+      "Restaurant Week menu will not be available on Saturdays.",
+      "Max number for a table is 6 guests."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkhbdstcnw5u27qdx6dq95aa-tequilas-26.pdf"
+  },
+  {
+    "id": "thanal-indian-tavern",
+    "name": "Thanal Indian Tavern",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/thanal-indian-tavern",
+    "address": "1939 Arch St. Philadelphia, PA 19103",
+    "lat": 39.955872,
+    "lng": -75.1725276,
+    "phone": "215.515.2511",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "https://www.thanalphilly.com/",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Restaurant Week lunch menu available Monday",
+      "Friday",
+      "Offering indoor and outdoor dining.",
+      "Reservations required for large groups."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4j8xebmabtw0qd5c55hy84-thanal-ccd-rw-dinner.jpg",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free",
+      "Halal"
+    ]
+  },
+  {
+    "id": "topside-tavern",
+    "name": "Topside Tavern",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/topside-tavern",
+    "address": "10 S 20th St. Philadelphia, PA 19103",
+    "lat": 39.95437070000001,
+    "lng": -75.1728852,
+    "phone": "445.223.1155",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.topsidetavern.com",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Restaurant Week lunch menu is available Monday",
+      "Friday.",
+      "Offering indoor and outdoor dining.",
+      "Please book in advance for large parties"
+    ],
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmk4junf9mb73niqd7bgdjuvo-topside-lunch.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkhbgfnonr5kw0qdu1kuk5jr-topside.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "trattoria-carina",
+    "name": "Trattoria Carina",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/trattoria-carina",
+    "address": "2201 Spruce St, Philadelphia, PA 19103",
+    "lat": 39.9487654,
+    "lng": -75.1779684,
+    "phone": "215.732.5818",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "https://www.trattoriacarina.com/",
+    "restaurantWeekDetails": [
+      "Participating in lunch, dinner and takeout.",
+      "Offering indoor and outdoor dining."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkij177ko51pk7qduanjjinn-final-restaurant-week-trattoria-carina-menu.pdf"
+  },
+  {
+    "id": "the-twisted-tail",
+    "name": "The Twisted Tail",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/the-twisted-tail",
+    "address": "509 S 2nd St, Philadelphia, PA 19147",
+    "lat": 39.9418766,
+    "lng": -75.14519880000002,
+    "phone": "215.558.2471",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": true,
+    "website": "http://www.thetwistedtail.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner and takeout.",
+      "Offering indoor and outdoor dining.",
+      "We offer 4",
+      "courses instead of 3!"
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4jdw2tmfdt27qd9lq9p51t-twisted-tail-dinner-menu-2026-winter-restaurant-week.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "umami-steak-and-sushi-bar",
+    "name": "Umami Steak and Sushi Bar",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/umami-steak-and-sushi-bar",
+    "address": "727 Walnut St, Philadelphia, PA 19106",
+    "lat": 39.9481121,
+    "lng": -75.1537165,
+    "phone": "267.534.5395",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": true,
+    "offersTakeout": false,
+    "website": "https://umamisteakandsushi.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Restaurant Week menu will not be available on Saturdays.",
+      "Gratuity will be added to every check."
+    ],
+    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmkhbm1lgnsm1niqdst3wksiq-umami.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "veda-modern-indian-bistro",
+    "name": "Veda - Modern Indian Bistro",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/veda-modern-indian-bistro",
+    "address": "1920 Chestnut St., Philadelphia PA 19103",
+    "lat": 39.9517452,
+    "lng": -75.1728701,
+    "phone": "267.519.2001",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://vedaphilly.com/",
+    "restaurantWeekDetails": [
+      "Participating in lunch and dinner.",
+      "Restaurant Week lunch menu is available Monday",
+      "Friday",
+      "Offering indoor dining."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmkhckwdcnwht27qd9pihll64-rw-dinner-menu-26-01-1.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Gluten-free",
+      "Vegan"
+    ]
+  },
+  {
+    "id": "via-locusta",
+    "name": "Via Locusta",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/via-locust",
+    "address": "1723 Locust St, Philadelphia PA 19103",
+    "lat": 39.9489844,
+    "lng": -75.17015080000002,
+    "phone": "215.642.0020",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "https://www.vialocusta.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor and outdoor dining.",
+      "Restaurant Week menu will not be offered on Saturdays.",
+      "Contact restaurant directly for large group reservations."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk4j0rbjmdnvuzqdecwolie8-via-locusta-2026.pdf"
+  },
+  {
+    "id": "village-whiskey",
+    "name": "Village Whiskey",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/village-whiskey",
+    "address": "118 S 20th St, Philadelphia, PA 19103",
+    "lat": 39.9514094,
+    "lng": -75.173729,
+    "phone": "215.665.1088",
+    "offersLunch20": true,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.villagewhiskey.com",
+    "Lunch20MenuLink": "https://centercityphila.org/uploads/attachments/cmk5v8lc2mkawuzqdnxfaqo2e-village-whiskey-updatd-lunch-menu-2026.pdf",
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmk5v8lbqn9xmayqdewg39e0z-village-whiskey-rw-updated-menu-2026.pdf",
+    "dietaryOptions": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "vita",
+    "name": "Vita",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/vita",
+    "address": "261 S 17th St, Philadelphia, PA 19103",
+    "lat": 39.948019,
+    "lng": -75.1693585,
+    "phone": "267.284.2686",
+    "offersLunch20": false,
+    "offersDinner45": false,
+    "offersDinner60": true,
+    "offersTakeout": false,
+    "website": "https://www.vitainphilly.com/",
+    "restaurantWeekDetails": [
+      "Participating in dinner only.",
+      "Offering indoor and outdoor dining.",
+      "Closed on Mondays and Tuesdays",
+      "Restaurant Week menu will not be offered on Saturdays.",
+      "Gratuity will be added to check for parties of 6 or more."
+    ],
+    "Dinner60MenuLink": "https://centercityphila.org/uploads/attachments/cmkcvb8fan65hw0qdu9p72nm7-vita-update-2026.pdf",
+    "dietaryOptions": [
+      "While not every course can be adjusted for different allergies or sensitivities",
+      "we can accommodate vegetarian",
+      "gluten free items."
+    ]
+  },
+  {
+    "id": "wilder",
+    "name": "Wilder",
+    "url": "https://centercityphila.org/explore-center-city/ccd-restaurant-week/wilder",
+    "address": "2009 Sansom Street",
+    "lat": 39.95148,
+    "lng": -75.17402799999999,
+    "phone": "215.309.2149",
+    "offersLunch20": false,
+    "offersDinner45": true,
+    "offersDinner60": false,
+    "offersTakeout": false,
+    "website": "http://www.wilderphilly.com",
+    "restaurantWeekDetails": [
+      "Participating in dinner only",
+      "Offering indoor dining",
+      "We accept reservations for groups up to 13 guests."
+    ],
+    "Dinner45MenuLink": "https://centercityphila.org/uploads/attachments/cmjiu9giqkh0y27qdfcwkk3me-wilder-26.pdf"
+  }
+]
