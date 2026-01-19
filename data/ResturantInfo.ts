@@ -40,5 +40,4 @@ export interface RestaurantInfo {
   largePartyNote?: string; // policy for large groups
 
   dietaryOptions?: string[]; // array of strings
-  notes?: string; // any notes about the restaurant
 }
