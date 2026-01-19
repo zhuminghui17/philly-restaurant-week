@@ -167,7 +167,7 @@ export function FilterPanel({
                 variant={isSelected ? "default" : "outline"}
                 size="sm"
                 onClick={() => toggleCuisine(cuisine)}
-                className="text-xs"
+                className="font-medium"
                 style={{
                   backgroundColor: isSelected ? color : "transparent",
                   borderColor: color,
