@@ -129,7 +129,7 @@ export function AssistantChat({ className }: AssistantChatProps) {
                 <Sparkles className="h-5 w-5 text-white" />
               </div>
               <div>
-                <SheetTitle className="text-white font-serif">
+                <SheetTitle className="text-white font-semibold">
                   Restaurant Week AI
                 </SheetTitle>
                 <SheetDescription className="text-xs text-white/70">

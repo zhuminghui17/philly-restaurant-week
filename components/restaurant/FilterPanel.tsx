@@ -111,7 +111,7 @@ export function FilterPanel({
       {/* Header */}
       <div className="flex items-center justify-between">
         <div>
-          <h2 className="font-serif text-lg font-semibold text-[#1a2744]">
+          <h2 className="text-lg font-semibold text-[#1a2744]">
             Filter Restaurants
           </h2>
           <p className="text-sm text-[#1a2744]/60">

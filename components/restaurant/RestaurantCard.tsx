@@ -48,7 +48,7 @@ export function RestaurantCard({
       <CardHeader className="pb-3">
         <div className="flex items-start justify-between gap-2">
           <div className="flex-1">
-            <CardTitle className="font-serif text-xl text-[#1a2744]">
+            <CardTitle className="text-xl font-semibold text-[#1a2744]">
               {restaurant.name}
             </CardTitle>
             {/* Google Rating */}

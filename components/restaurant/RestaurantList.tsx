@@ -19,7 +19,7 @@ export function RestaurantList({
     return (
       <div className="flex flex-col items-center justify-center h-64 text-center p-4">
         <div className="text-4xl mb-4">🍽️</div>
-        <h3 className="font-serif text-lg font-semibold text-[#1a2744] mb-2">
+        <h3 className="text-lg font-semibold text-[#1a2744] mb-2">
           No restaurants found
         </h3>
         <p className="text-sm text-[#1a2744]/60">
