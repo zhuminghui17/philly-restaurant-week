@@ -1,8 +1,7 @@
 import { openai } from "@ai-sdk/openai";
-import { streamText, convertToModelMessages, UIMessage } from "ai";
+import { generateText, stepCountIs } from "ai";
 import { restaurantTools } from "@/lib/ai/tools";
 
-// Allow streaming responses up to 30 seconds
 export const maxDuration = 30;
 
 const systemPrompt = `You are a friendly and knowledgeable Philadelphia Restaurant Week concierge. You help diners discover and choose restaurants participating in Center City District Restaurant Week (January 18-31, 2026).
@@ -36,19 +35,35 @@ When users want to compare options:
 Always be helpful and make the dining discovery process enjoyable!`;
 
 export async function POST(req: Request) {
-  const { messages: uiMessages } = await req.json();
-  
-  // Convert UIMessages (from useChat) to ModelMessages (for streamText)
-  const modelMessages = await convertToModelMessages(uiMessages as UIMessage[]);
+  try {
+    const { messages } = await req.json();
 
-  const result = streamText({
-    model: openai("gpt-4o-mini"),
-    system: systemPrompt,
-    messages: modelMessages,
-    tools: restaurantTools,
-  });
+    const result = await generateText({
+      model: openai("gpt-4o-mini"),
+      system: systemPrompt,
+      messages: messages.map((m: { role: string; content: string }) => ({
+        role: m.role as "user" | "assistant",
+        content: m.content,
+      })),
+      tools: restaurantTools,
+      stopWhen: stepCountIs(5),
+    });
 
-  return result.toUIMessageStreamResponse({
-    originalMessages: uiMessages,
-  });
+    // If there's text, return it
+    if (result.text) {
+      return Response.json({ content: result.text });
+    }
+
+    // If no text but there were tool results, something went wrong with continuation
+    // This shouldn't happen with generateText but let's handle it
+    return Response.json({ 
+      content: "I found some information but had trouble formatting the response. Please try asking again." 
+    });
+  } catch (error) {
+    console.error("Chat API error:", error);
+    return Response.json(
+      { error: "Failed to generate response" },
+      { status: 500 }
+    );
+  }
 }
