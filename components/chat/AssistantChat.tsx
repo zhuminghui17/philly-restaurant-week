@@ -30,6 +30,7 @@ export function AssistantChat({ className }: AssistantChatProps) {
   const [input, setInput] = useState("");
   const [isLoading, setIsLoading] = useState(false);
   const scrollRef = useRef<HTMLDivElement>(null);
+  const abortControllerRef = useRef<AbortController | null>(null);
 
   // Auto-scroll to bottom
   useEffect(() => {
@@ -41,14 +42,25 @@ export function AssistantChat({ className }: AssistantChatProps) {
   const sendMessage = async (text: string) => {
     if (!text.trim() || isLoading) return;
 
+    // Cancel any ongoing request
+    if (abortControllerRef.current) {
+      abortControllerRef.current.abort();
+    }
+    abortControllerRef.current = new AbortController();
+
     const userMessage: Message = {
       id: Date.now().toString(),
       role: "user",
       content: text,
     };
 
+    const assistantMessageId = (Date.now() + 1).toString();
     const newMessages = [...messages, userMessage];
-    setMessages(newMessages);
+    
+    setMessages([
+      ...newMessages,
+      { id: assistantMessageId, role: "assistant", content: "" }
+    ]);
     setInput("");
     setIsLoading(true);
 
@@ -62,32 +74,58 @@ export function AssistantChat({ className }: AssistantChatProps) {
             content: m.content,
           })),
         }),
+        signal: abortControllerRef.current.signal,
       });
 
       if (!response.ok) throw new Error("Failed to fetch");
 
-      const data = await response.json();
-      
-      setMessages((prev) => [
-        ...prev,
-        {
-          id: Date.now().toString(),
-          role: "assistant",
-          content: data.content || data.message || "Sorry, I couldn't process that.",
-        },
-      ]);
+      const reader = response.body?.getReader();
+      if (!reader) throw new Error("No reader available");
+
+      const decoder = new TextDecoder();
+      let accumulatedContent = "";
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+
+        const chunk = decoder.decode(value, { stream: true });
+        accumulatedContent += chunk;
+
+        setMessages((prev) =>
+          prev.map((m) =>
+            m.id === assistantMessageId
+              ? { ...m, content: accumulatedContent }
+              : m
+          )
+        );
+      }
+
+      // If no content was received, show an error
+      if (!accumulatedContent.trim()) {
+        setMessages((prev) =>
+          prev.map((m) =>
+            m.id === assistantMessageId
+              ? { ...m, content: "Sorry, I couldn't process that. Please try again." }
+              : m
+          )
+        );
+      }
     } catch (error) {
+      if (error instanceof Error && error.name === "AbortError") {
+        return; // Request was cancelled, don't show error
+      }
       console.error("Chat error:", error);
-      setMessages((prev) => [
-        ...prev,
-        {
-          id: Date.now().toString(),
-          role: "assistant",
-          content: "Sorry, something went wrong. Please try again.",
-        },
-      ]);
+      setMessages((prev) =>
+        prev.map((m) =>
+          m.id === assistantMessageId
+            ? { ...m, content: "Sorry, something went wrong. Please try again." }
+            : m
+        )
+      );
     } finally {
       setIsLoading(false);
+      abortControllerRef.current = null;
     }
   };
 
@@ -173,30 +211,23 @@ export function AssistantChat({ className }: AssistantChatProps) {
                   )}
                 >
                   {message.role === "assistant" ? (
-                    <div className="text-sm prose prose-sm prose-neutral max-w-none prose-p:my-1 prose-ul:my-1 prose-ol:my-1 prose-li:my-0.5 prose-headings:my-2 prose-strong:text-[#1a2744]">
-                      <Streamdown>{message.content}</Streamdown>
-                    </div>
+                    message.content ? (
+                      <div className="text-sm prose prose-sm prose-neutral max-w-none prose-p:my-1 prose-ul:my-1 prose-ol:my-1 prose-li:my-0.5 prose-headings:my-2 prose-strong:text-[#1a2744]">
+                        <Streamdown>{message.content}</Streamdown>
+                      </div>
+                    ) : (
+                      <div className="flex gap-1 py-1">
+                        <span className="w-2 h-2 bg-[#1a2744]/40 rounded-full animate-bounce" style={{ animationDelay: "0ms" }} />
+                        <span className="w-2 h-2 bg-[#1a2744]/40 rounded-full animate-bounce" style={{ animationDelay: "150ms" }} />
+                        <span className="w-2 h-2 bg-[#1a2744]/40 rounded-full animate-bounce" style={{ animationDelay: "300ms" }} />
+                      </div>
+                    )
                   ) : (
                     <p className="text-sm whitespace-pre-wrap">{message.content}</p>
                   )}
                 </div>
               </div>
             ))}
-
-            {isLoading && (
-              <div className="flex gap-3">
-                <div className="h-8 w-8 rounded-full bg-[#d4a853] flex items-center justify-center">
-                  <Bot className="h-4 w-4 text-white" />
-                </div>
-                <div className="bg-white border border-[#1a2744]/10 rounded-2xl rounded-bl-md px-4 py-2 shadow-sm">
-                  <div className="flex gap-1">
-                    <span className="w-2 h-2 bg-[#1a2744]/40 rounded-full animate-bounce" style={{ animationDelay: "0ms" }} />
-                    <span className="w-2 h-2 bg-[#1a2744]/40 rounded-full animate-bounce" style={{ animationDelay: "150ms" }} />
-                    <span className="w-2 h-2 bg-[#1a2744]/40 rounded-full animate-bounce" style={{ animationDelay: "300ms" }} />
-                  </div>
-                </div>
-              </div>
-            )}
           </div>
 
           {/* Suggested questions */}

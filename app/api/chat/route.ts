@@ -1,5 +1,5 @@
 import { openai } from "@ai-sdk/openai";
-import { generateText, stepCountIs } from "ai";
+import { streamText, stepCountIs } from "ai";
 import { restaurantTools } from "@/lib/ai/tools";
 
 export const maxDuration = 30;
@@ -46,7 +46,7 @@ export async function POST(req: Request) {
   try {
     const { messages } = await req.json();
 
-    const result = await generateText({
+    const result = streamText({
       model: openai("gpt-4o-mini"),
       system: systemPrompt,
       messages: messages.map((m: { role: string; content: string }) => ({
@@ -57,16 +57,7 @@ export async function POST(req: Request) {
       stopWhen: stepCountIs(5),
     });
 
-    // If there's text, return it
-    if (result.text) {
-      return Response.json({ content: result.text });
-    }
-
-    // If no text but there were tool results, something went wrong with continuation
-    // This shouldn't happen with generateText but let's handle it
-    return Response.json({ 
-      content: "I found some information but had trouble formatting the response. Please try asking again." 
-    });
+    return result.toTextStreamResponse();
   } catch (error) {
     console.error("Chat API error:", error);
     return Response.json(
