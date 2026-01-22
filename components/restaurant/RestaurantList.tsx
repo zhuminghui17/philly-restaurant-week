@@ -2,7 +2,6 @@
 
 import { Restaurant } from "@/lib/types";
 import { RestaurantCard } from "./RestaurantCard";
-import { ScrollArea } from "@/components/ui/scroll-area";
 
 interface RestaurantListProps {
   restaurants: Restaurant[];
@@ -30,12 +29,12 @@ export function RestaurantList({
   }
 
   return (
-    <ScrollArea className="h-full w-full min-w-0">
-      <div className="flex w-full min-w-0 flex-col gap-4 p-4">
+    <div className="h-full w-full overflow-y-auto">
+      <div className="p-4 columns-1 md:columns-2 lg:columns-3 gap-4 [column-fill:_balance]">
         {restaurants.map((restaurant) => (
           <div
             key={restaurant.id}
-            className={`w-full min-w-0 cursor-pointer transition-all duration-200 rounded-lg ${
+            className={`break-inside-avoid mb-4 cursor-pointer transition-all duration-200 rounded-lg ${
               selectedRestaurant?.id === restaurant.id
                 ? "ring-2 ring-[#d4a853] ring-offset-2"
                 : "hover:ring-1 hover:ring-[#1a2744]/20"
@@ -50,6 +49,6 @@ export function RestaurantList({
           </div>
         ))}
       </div>
-    </ScrollArea>
+    </div>
   );
 }
