@@ -66,7 +66,7 @@ export function RestaurantMap({
                   selectedRestaurant?.id === restaurant.id ? "#ffffff" : "#1a2744"
                 }
                 glyphColor="#ffffff"
-                scale={selectedRestaurant?.id === restaurant.id ? 1.3 : 1}
+                scale={selectedRestaurant?.id === restaurant.id ? 1 : 0.7}
               />
             </AdvancedMarker>
           ))}
