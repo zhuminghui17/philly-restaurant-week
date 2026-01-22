@@ -42,7 +42,7 @@ export function RestaurantCard({
   return (
     <Card
       className={`
-        ${isPopup ? "w-[380px] shadow-xl" : "w-full"} 
+        ${isPopup ? "w-full max-w-[380px] shadow-xl" : "w-full max-w-full"} 
         border-2 border-[#1a2744]/10 bg-[#faf8f5]
       `}
     >
