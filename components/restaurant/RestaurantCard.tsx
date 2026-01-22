@@ -238,23 +238,44 @@ export function RestaurantCard({
         )}
 
         {/* Action Buttons */}
-        <div className={`grid gap-2 pt-2 ${restaurant.website ? "grid-cols-2" : "grid-cols-1"}`}>
-          {restaurant.website && (
+        <div className="grid grid-cols-3 gap-2 pt-2">
+          {restaurant.website ? (
             <Button
               variant="outline"
               size="sm"
-              className="w-full border-[#1a2744]/20 hover:bg-[#1a2744] hover:text-white"
+              className="w-full border-[#1a2744]/20 hover:bg-[#1a2744] hover:text-white gap-1"
               asChild
             >
               <a href={restaurant.website} target="_blank" rel="noopener noreferrer">
-                <Globe className="h-4 w-4 mr-2" />
-                Website
+                <Globe className="h-4 w-4" />
+                Site
               </a>
+            </Button>
+          ) : (
+            <Button
+              variant="outline"
+              size="sm"
+              className="w-full border-[#1a2744]/20 opacity-50 cursor-not-allowed gap-1"
+              disabled
+            >
+              <Globe className="h-4 w-4" />
+              Site
             </Button>
           )}
           <Button
+            variant="outline"
             size="sm"
-            className="w-full bg-[#d4a853] hover:bg-[#c49943] text-white"
+            className="w-full border-[#1a2744]/20 hover:bg-[#1a2744] hover:text-white gap-1"
+            asChild
+          >
+            <a href={`https://centercityphila.org/explore-center-city/ccd-restaurant-week#${restaurant.id}`} target="_blank" rel="noopener noreferrer">
+              <FileText className="h-4 w-4" />
+              Details
+            </a>
+          </Button>
+          <Button
+            size="sm"
+            className="w-full bg-[#d4a853] hover:bg-[#c49943] text-white gap-1"
             asChild
           >
             <a
@@ -264,8 +285,8 @@ export function RestaurantCard({
               target="_blank"
               rel="noopener noreferrer"
             >
-              <MapPin className="h-4 w-4 mr-2" />
-              Google Maps
+              <MapPin className="h-4 w-4" />
+              Map
             </a>
           </Button>
         </div>
