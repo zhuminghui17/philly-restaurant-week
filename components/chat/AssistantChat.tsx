@@ -135,10 +135,10 @@ export function AssistantChat({ className }: AssistantChatProps) {
   };
 
   const suggestedQuestions = [
-    "Find Italian restaurants with outdoor seating",
-    "What's good for a vegan dinner?",
-    "Compare Amada and Buddakan",
-    "Recommend something for a group of 8",
+    "Italian",
+    "Seafood",
+    "Vegan-friendly",
+    "Top rated",
   ];
 
   return (
