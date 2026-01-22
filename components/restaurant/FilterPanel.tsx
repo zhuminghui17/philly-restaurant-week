@@ -232,9 +232,9 @@ export function FilterPanel({
 
       <Separator className="bg-[#1a2744]/10" />
 
-      {/* Minimum Rating */}
+      {/* Minimum Rating on Google Maps */}
       <div className="space-y-3">
-        <Label className="text-sm font-medium text-[#1a2744]">Minimum Rating</Label>
+        <Label className="text-sm font-medium text-[#1a2744]">Minimum Rating on Google Maps</Label>
         <div className="flex gap-2">
           {[4.0, 4.3, 4.5, 4.7].map((rating) => (
             <Button
