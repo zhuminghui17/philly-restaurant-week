@@ -98,7 +98,7 @@ export default function Home() {
   return (
     <div className="h-screen flex flex-col bg-[#faf8f5]">
       {/* Header */}
-      <header className="bg-[#1a2744] text-white px-4 py-3 shadow-lg">
+      <header className="bg-[#1a2744] text-white px-4 py-3 shadow-lg sticky top-0 z-50">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-4">
             <h1 className="text-xl md:text-2xl font-bold tracking-tight">
@@ -166,7 +166,7 @@ export default function Home() {
       </header>
 
       {/* Mobile Date Badge */}
-      <div className="md:hidden bg-[#d4a853] text-[#1a2744] text-center py-1 text-sm font-medium">
+      <div className="md:hidden bg-[#d4a853] text-[#1a2744] text-center py-1 text-sm font-medium sticky top-[52px] z-50">
         January 18 - 31, 2026
       </div>
 
