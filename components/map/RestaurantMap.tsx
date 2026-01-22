@@ -47,6 +47,7 @@ export function RestaurantMap({
         className="w-full h-full rounded-lg"
         gestureHandling="greedy"
         disableDefaultUI={false}
+        mapTypeControl={false}
       >
         {mapLoaded &&
           restaurants.map((restaurant) => (
