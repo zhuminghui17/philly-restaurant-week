@@ -43,10 +43,10 @@ export function RestaurantCard({
     <Card
       className={`
         ${isPopup ? "w-full max-w-[380px] shadow-xl" : "w-full max-w-full"} 
-        border-2 border-[#1a2744]/10 bg-[#faf8f5]
+        border-2 border-[#1a2744]/10 bg-[#faf8f5] gap-3
       `}
     >
-      <CardHeader className="pb-3">
+      <CardHeader className="pb-1">
         <div className="flex items-start justify-between gap-2">
           <div className="flex-1">
             <CardTitle className="text-xl font-semibold text-[#1a2744]">
