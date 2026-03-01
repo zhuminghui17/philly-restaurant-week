@@ -12,6 +12,52 @@ const allDietaryOptions = [...new Set(restaurants.flatMap((r) => r.dietaryOption
   (opt) => opt && opt.length < 30
 );
 
+// Map common food items/keywords to cuisine types for smarter searching
+const foodToCuisineMap: Record<string, string[]> = {
+  pasta: ["Italian"],
+  pizza: ["Italian"],
+  spaghetti: ["Italian"],
+  lasagna: ["Italian"],
+  risotto: ["Italian"],
+  sushi: ["Japanese", "Asian"],
+  ramen: ["Japanese", "Asian"],
+  tacos: ["Mexican", "Latin American", "Tex-Mex"],
+  burritos: ["Mexican", "Latin American", "Tex-Mex"],
+  curry: ["Indian", "Thai", "Asian"],
+  noodles: ["Asian", "Thai", "Japanese"],
+  steak: ["American", "Southern"],
+  burger: ["American"],
+  seafood: ["Seafood"],
+  fish: ["Seafood"],
+  tapas: ["Spanish"],
+  gyros: ["Greek", "Mediterranean"],
+  falafel: ["Mediterranean", "Greek"],
+  pho: ["Asian"],
+  thai: ["Thai", "Asian"],
+};
+
+// Helper to expand search terms to include related cuisines
+function expandSearchToCuisines(searchTerm: string): string[] {
+  const termLower = searchTerm.toLowerCase();
+  const cuisines: string[] = [];
+  
+  // Check if the term directly matches a cuisine
+  for (const cuisine of allCuisines) {
+    if (termLower.includes(cuisine.toLowerCase())) {
+      cuisines.push(cuisine);
+    }
+  }
+  
+  // Check food-to-cuisine mappings
+  for (const [food, mappedCuisines] of Object.entries(foodToCuisineMap)) {
+    if (termLower.includes(food)) {
+      cuisines.push(...mappedCuisines);
+    }
+  }
+  
+  return [...new Set(cuisines)];
+}
+
 // Helper to format price tiers
 function getPriceTiers(r: Restaurant): string[] {
   const tiers: string[] = [];
@@ -23,14 +69,14 @@ function getPriceTiers(r: Restaurant): string[] {
 
 // Define parameter schemas
 const searchRestaurantsParams = z.object({
-  cuisine: z.string().optional().describe("Filter by cuisine type (e.g., Italian, Asian, Mexican)"),
-  pricePoint: z.enum(["lunch20", "dinner45", "dinner60"]).optional().describe("Filter by price: lunch20 ($20), dinner45 ($45), dinner60 ($60)"),
+  cuisine: z.string().optional().describe("Filter by cuisine type OR food item (e.g., Italian, Asian, Mexican, pasta, sushi, tacos). Food items are automatically mapped to cuisines."),
+  pricePoint: z.enum(["lunch20", "dinner45", "dinner60"]).optional().describe("Filter by price: lunch20 ($20 lunch), dinner45 ($45 dinner), dinner60 ($60 dinner)"),
   dietaryOption: z.string().optional().describe("Filter by dietary option (e.g., Vegetarian, Vegan, Gluten-free)"),
   hasOutdoorSeating: z.boolean().optional().describe("Filter for outdoor seating"),
   isBYOB: z.boolean().optional().describe("Filter for BYOB restaurants"),
   offersTakeout: z.boolean().optional().describe("Filter for takeout availability"),
   minRating: z.number().optional().describe("Minimum Google rating (1-5)"),
-  query: z.string().optional().describe("Free text search for restaurant name or address"),
+  query: z.string().optional().describe("Free text search for restaurant name, address, or food type"),
 });
 
 const getRestaurantDetailsParams = z.object({
@@ -54,8 +100,22 @@ async function executeSearchRestaurants(params: z.infer<typeof searchRestaurants
 
   if (cuisine) {
     const cuisineLower = cuisine.toLowerCase();
+    // Expand cuisine search to include related cuisines (e.g., "pasta" -> "Italian")
+    const expandedCuisines = expandSearchToCuisines(cuisine);
+    
     results = results.filter((r) =>
-      r.cuisineTypes?.some((c) => c.toLowerCase().includes(cuisineLower))
+      r.cuisineTypes?.some((c) => {
+        const cLower = c.toLowerCase();
+        // Direct match
+        if (cLower.includes(cuisineLower) || cuisineLower.includes(cLower)) {
+          return true;
+        }
+        // Expanded match (e.g., searching "pasta" matches "Italian" restaurants)
+        if (expandedCuisines.some(ec => ec.toLowerCase() === cLower)) {
+          return true;
+        }
+        return false;
+      })
     );
   }
 
@@ -92,10 +152,17 @@ async function executeSearchRestaurants(params: z.infer<typeof searchRestaurants
 
   if (query) {
     const q = query.toLowerCase();
+    // Also expand query to cuisines in case user searches for food items like "pasta"
+    const queryCuisines = expandSearchToCuisines(query);
+    
     results = results.filter(
       (r) =>
         r.name.toLowerCase().includes(q) ||
-        r.address.toLowerCase().includes(q)
+        r.address.toLowerCase().includes(q) ||
+        // Also match if query maps to a cuisine type
+        (queryCuisines.length > 0 && r.cuisineTypes?.some(c => 
+          queryCuisines.some(qc => qc.toLowerCase() === c.toLowerCase())
+        ))
     );
   }
 
@@ -196,6 +263,9 @@ async function executeGetRecommendations(params: z.infer<typeof getRecommendatio
   const { preferences, budget, groupSize } = params;
   let candidates = [...restaurants];
   const prefLower = preferences.toLowerCase();
+  
+  // Expand preferences to include related cuisines (e.g., "pasta" -> "Italian")
+  const expandedCuisines = expandSearchToCuisines(preferences);
 
   if (budget === "lunch") {
     candidates = candidates.filter((r) => r.offersLunch20);
@@ -210,7 +280,12 @@ async function executeGetRecommendations(params: z.infer<typeof getRecommendatio
 
     if (r.cuisineTypes) {
       for (const cuisine of r.cuisineTypes) {
+        // Check direct cuisine match
         if (prefLower.includes(cuisine.toLowerCase())) {
+          score += 10;
+        }
+        // Check expanded cuisine match (e.g., "pasta" matches "Italian")
+        if (expandedCuisines.some(ec => ec.toLowerCase() === cuisine.toLowerCase())) {
           score += 10;
         }
       }
@@ -255,14 +330,14 @@ async function executeGetRecommendations(params: z.infer<typeof getRecommendatio
       dietaryOptions: s.restaurant.dietaryOptions?.slice(0, 3).join(", ") || "Ask restaurant",
       largePartyNote: groupSize && groupSize >= 6 ? s.restaurant.largePartyNote : undefined,
     })),
-    searchCriteria: { preferences, budget, groupSize },
+    searchCriteria: { preferences, budget, groupSize, expandedCuisines },
   };
 }
 
 // Export tools in format expected by AI SDK v6 (using inputSchema instead of parameters)
 export const restaurantTools = {
   searchRestaurants: {
-    description: `Search for restaurants based on various criteria. Available cuisines: ${allCuisines.join(", ")}. Available dietary options: ${allDietaryOptions.slice(0, 10).join(", ")}.`,
+    description: `Search for restaurants. Supports food items like "pasta", "sushi", "tacos" which map to cuisines automatically. Available cuisines: ${allCuisines.join(", ")}. Dietary options: ${allDietaryOptions.slice(0, 10).join(", ")}. Use pricePoint: "lunch20" for $20 lunch, "dinner45" for $45 dinner, "dinner60" for $60 dinner.`,
     inputSchema: searchRestaurantsParams,
     execute: executeSearchRestaurants,
   },
